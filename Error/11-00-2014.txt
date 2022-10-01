@@ -1,0 +1,273 @@
+
+Log Entry : 
+11/01/2014 01:20:03
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/01/2014 01:25:35
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/01/2014 01:42:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/01/2014 15:56:35
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Viewstate inválido. 
+	Client IP: 27.159.236.124
+	Port: 51483
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx
+	Path: /_anonimo/cadastroEmpresa.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+	ViewState: /wEPDwULLTEzNjg1MTk4OTUPZBYCZg9kFgICAQ9kFgYCAw8PFgIeBFRleHRkZGQCQw8PFgIfAAULVmFnYXM6IDY1OTZkZAJJD2QWBAIJDw8WAh8ABfsEUGFyYSB1dGlsaXphciBvIHNpc3RlbWEsIGEgPGI Sm9iQ2xpY2s8L2I LCBhY2VpdGEgc29tZW50ZSBjYWRhc3RybyBkZSBQZXNzb2EgSnVyw61kaWNhLjxicj48YnI UGVkaW1vcyBvIHNldSBDTlBKIHBvaXMgw6kgdW1hIGlkZW50aWZpY2HDp8OjbyBpbXBvcnRhbnRlIHF1ZSBnYXJhbnRlIG1haW9yIHNlZ3VyYW7Dp2Egbm8gY29udGF0byBlbnRyZSBhcyBlbXByZXNhcyBlIG9zIGNhbmRpZGF0b3MuPGJyPjxicj5Ub2RhcyBhcyBpbmZvcm1hw6fDtWVzIGVudmlhZGFzIG5vIHNldSBjYWRhc3RybyBzZXLDo28gbWFudGlkYXMgZW0gc2lnaWxvIGUgbsOjbyBzZXLDo28gcmVwYXNzYWRhcyBhIHRlcmNlaXJvcywgY29uZm9ybWUgYSBub3NzYSBwb2zDrXRpY2EgZGUgcHJpdmFjaWRhZGUuPGJyPlBhcmEgbWFpcyBkZXRhbGhlcywgdm9jw6ogcG9kZSBjb25zdWx0YXIgbm9zc29zIDxhIGhyZWY9Ii90ZXJtb3NlY2...
+__________________________
+
+Log Entry : 
+11/02/2014 00:20:01
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/02/2014 02:11:53
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/02/2014 11:37:35
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/02/2014 11:37:37
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/02/2014 11:37:37
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/02/2014 16:50:34
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/02/2014 16:55:01
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/02/2014 17:17:13
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+11/02/2014 18:51:15
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2014 13:07:23
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+11/03/2014 14:27:52
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/03/2014 14:28:42
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/03/2014 17:29:01
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1394569705606. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1394569705606. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/03/2014 18:55:24
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001060537-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001060537-6. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/04/2014 15:38:43
+Error in: http://www.jobclick.com.br/auth.aspx. Error Message:Erro na página: http://www.jobclick.com.br/auth.aspx. Mensagem de erro: O arquivo '/auth.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/04/2014 17:29:10
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1397248030200. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1397248030200. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/04/2014 20:47:40
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+11/05/2014 17:12:07
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001063015-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001063015-0. Mensagem de erro: O recurso de script solicitado 'Compat.Timer.Timer.js' requer a versão 'AjaxControlToolkit, Version=4.1.50508.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e' do ASP.NET AJAX Framework. Para usar esse recurso, verifique se o aplicativo referencia a versão 'AjaxControlToolkit, Version=4.1.50508.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e'.
+__________________________
+
+Log Entry : 
+11/06/2014 16:17:48
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/06/2014 16:20:04
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+11/06/2014 18:09:48
+Error in: http://www.jobclick.com.br/auth.aspx. Error Message:Erro na página: http://www.jobclick.com.br/auth.aspx. Mensagem de erro: O arquivo '/auth.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/06/2014 18:15:23
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2014P/001071799-9. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2014P/001071799-9. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+11/06/2014 18:15:24
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=201471r/15500005798-2/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=201471r/15500005798-2/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/06/2014 18:15:27
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/06/2014 18:15:38
+Error in: http://www.jobclick.com.br/_anonimo/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/login.aspx?ReturnUrl=/view.aspx?id=45052341&id=45052341?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwUKLTU3MDUwNDQ2NBBkZBYCAgMPZBYCAgcPZBYEAgEPFgIeC18hSXRlbUNvdW50ZmQCBw9kFgICAQ8WAh4EVGV4dAUCNjBkZOG+raGcHonOHury3bVXyyLn6A4u&__EVENTVALIDATION=/wEWBQKwuc6rDgKl1bKzCQK1qbSRCwKX1/7lBgLCi9reAyO0aRveWmnVQaJIHHQEndTNIwmi&txtUserName=null&txtPassword=null&btnSubmit=Log In. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/07/2014 00:44:38
+Error in: http://www.jobclick.com.br/my.aspx. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/07/2014 11:54:39
+Error in: http://www.jobclick.com.br/_anonimo/conta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/conta.aspx. Mensagem de erro: O arquivo '/DefaultPage.master' não existe.
+__________________________
+
+Log Entry : 
+11/07/2014 11:54:52
+Error in: http://www.jobclick.com.br/_anonimo/conta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/conta.aspx. Mensagem de erro: O arquivo '/DefaultPage.master' não existe.
+__________________________
+
+Log Entry : 
+11/08/2014 08:45:21
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/08/2014 15:18:46
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/08/2014 15:20:03
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/08/2014 16:23:39
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=oh+&limit=150&timestamp=1407784998352. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=oh+&limit=150&timestamp=1407784998352. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/08/2014 16:23:44
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=f&limit=150&timestamp=1407785003795. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=f&limit=150&timestamp=1407785003795. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/08/2014 16:32:40
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+11/08/2014 16:32:44
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+11/08/2014 16:40:21
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+11/08/2014 16:43:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+11/08/2014 18:03:41
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E/155000081-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E/155000081-2. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/09/2014 08:34:26
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/09/2014 15:58:17
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="...e today
+ <a href="http://mshe...").
+__________________________
+
+Log Entry : 
+11/09/2014 16:01:40
+Error in: http://www.jobclick.com.br/my.aspx. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/10/2014 05:01:19
+Error in: http://www.jobclick.com.br/vaga.aspx/. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx/. Mensagem de erro: O arquivo '/vaga.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/10/2014 05:01:27
+Error in: http://www.jobclick.com.br/vaga.aspx/. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx/. Mensagem de erro: O arquivo '/vaga.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/10/2014 15:52:50
+Error in: http://www.jobclick.com.br/slide006.aspx. Error Message:Erro na página: http://www.jobclick.com.br/slide006.aspx. Mensagem de erro: O arquivo '/slide006.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/11/2014 09:18:55
+Error in: http://www.jobclick.com.br/_anonimo/conta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/conta.aspx. Mensagem de erro: O arquivo '/DefaultPage.master' não existe.
+__________________________
+
+Log Entry : 
+11/12/2014 07:35:39
+Error in: http://www.jobclick.com.br/catalogo.aspx. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx. Mensagem de erro: O arquivo '/catalogo.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/12/2014 10:33:26
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2014 16:41:13
+Error in: http://www.jobclick.com.br/page5.aspx. Error Message:Erro na página: http://www.jobclick.com.br/page5.aspx. Mensagem de erro: O arquivo '/page5.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/12/2014 17:07:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20145036E%25222f1550000968389-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20145036E%25222f1550000968389-0. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

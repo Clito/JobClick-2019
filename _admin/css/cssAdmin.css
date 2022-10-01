@@ -1,0 +1,460 @@
+﻿html, body
+{
+	font-family: Verdana, Arial, Sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+.banner
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 181px;
+	background-image: url("/_admin/images/bg.png");
+}
+
+#conteudo {
+	padding-bottom: 30px;
+	}
+	
+#rodape
+{
+	position: relative;
+	bottom: 0;
+	background-image: url("/_admin/images/bgrp.png");
+	height: 181px;
+	width: 100%;
+}
+
+
+	
+a:link    {text-decoration:underline;color: #505050;background-color: transparent;}
+a:visited {text-decoration:underline;color:#505050; background-color:transparent}
+a:active  {text-decoration:underline;color:#FF0000; background-color:transparent}
+a:hover   {text-decoration:underline;color:#FF0000; background-color:transparent}
+
+a.left:link    {text-decoration:none;color:#505050;background-color:transparent}
+a.left:visited {text-decoration:none;color:#505050;background-color:transparent}
+a.left:hover   {text-decoration:underline;color:#FF0000;background-color:transparent}
+a.left:active  {text-decoration:underline;color:#FF0000;background-color:transparent}
+
+a.Grid:link    {text-decoration:none;color:#335673;background-color:transparent}
+a.Grid:visited {text-decoration:none;color:#335673;background-color:transparent}
+a.Grid:hover   {text-decoration:none;color:#335673;background-color:transparent}
+a.Grid:active  {text-decoration:none;color:#335673;background-color:transparent}
+
+.InputCad
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+
+.InputCadFormCandidatoCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;	
+	}
+.InputCadEmp
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+.DropCadFormCandidatoCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 4px;
+	padding-right: 1px;
+	padding-left: 4px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 555px;
+	height: 31px;
+	z-index: 0;
+}
+.DropCadEmp
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 4px;
+	padding-right: 1px;
+	padding-left: 4px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 555px;
+	height: 31px;
+	z-index: 0;
+}
+
+.DropCad
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 4px;
+	padding-right: 1px;
+	padding-left: 4px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 555px;
+	height: 31px;
+	z-index: 0;
+}
+.stylemail
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.DropUF
+{
+	background-color: #FDEDC8;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #e0e0e0 1px solid;
+	border-top: #e0e0e0 1px solid;
+	border-left: #e0e0e0 1px solid;
+	border-bottom: #e0e0e0 1px solid;
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-left: 1px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: hand;
+	font-weight: normal;
+	width: 50px;
+	height: 20px;
+}
+.msn
+{
+	font-size: 3mm;
+	color: #FF0000;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+.showdata
+{
+	font-size: 4mm;
+	color: dimgray;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+}
+.titulo
+{
+	font-size: 4mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+.tituloEmp
+{
+	font-size: 3mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}	
+
+
+
+.tableMaster
+{
+	text-align: center;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 880px;
+	vertical-align: top;
+}
+.lateral {vertical-align:top; margin-left:0; margin-right:0; width:10px; height:300px;}
+.apresenta {padding-left: 15px; text-align:left; vertical-align:top; margin-left:auto; margin-right:auto; width:870px;}
+.destaque {text-align:left; vertical-align:top; background-color: #F0F0F0; margin-left:auto; margin-right:auto; width:0px;}
+
+.bannerAdm {text-align:center; margin-left:auto; margin-right:auto; width:780px; height:100px;}
+.tableMasterAdm {text-align:center; margin-top:0px; margin-left:auto; margin-right:auto; width:780px;}
+.apresentaAdm {padding-left: 15px; text-align:left; vertical-align:top; margin-left:auto; margin-right:auto; width:571px;}
+
+.tableint {text-align:left; vertical-align:top; margin-left:0; margin-right:0; width:400px;}
+
+.rp {text-align:center; margin-top:0px; margin-left:auto; margin-right:auto; width:780px; height:60px;}
+
+.erro {text-align:center; background-color: #FFFFFF; margin-top:20px; margin-left:auto; margin-right:auto; width:790px; height:400px;}
+
+.noticia {text-align:left; vertical-align:top; margin-top:10px; margin-left:auto; margin-right:auto; width:450px;}
+
+
+.politica
+{
+	text-align: justify;
+}
+.tituloCurriculo
+{
+	font-size: 6mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: normal;
+}
+.tituloRI
+{
+	font-size: 6mm;
+	color: #a0a0a0;
+	font-family: Tahoma;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+.cur01
+{
+	font-size: 8pt;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+	font-style: normal;
+}
+.cur01st
+{
+	font-size: 7pt;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: nonr;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.montapagina
+{
+	width: 450px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+}
+
+.DGAdm
+{
+	background-color: #B8C4B8;
+}
+
+.DGSite
+{
+	background-color: #B8C4B8;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+}
+.DGSite_
+{
+	background-color: #FFFFFF;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+}
+.NoDGSite
+{
+	padding-left: 5px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-right: 5px;
+}
+
+.DGWidthSite
+{
+	width: 100%;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	margin-left:5px;
+}
+
+.DGWidthSiteNoticia
+{
+	width: 100%;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	margin-left:0px;
+}
+
+.RIColorBG
+{
+	background-color: #C1D0C1;
+	border-left: solid 1px #C1C1C1;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-top: 1px;	
+}
+
+.RInoColorBG
+{
+	border-left: solid 1px #99B299;
+	border-bottom: solid 1px #C1C1C1;
+	border-right: solid 1px #C1C1C1;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+}
+.spaceLateral
+{
+	padding-left: 15px;
+}
+	
+.spaceSite
+{
+	 height: 10px;
+}
+
+		
+/*###############################################################################################*/
+/*########    INFORMAÇÕES RELEVANTES    #########################################################*/
+/*###############################################################################################*/
+
+#Conteudo #InfoRelevantes
+{
+	width: 520px;
+	font-size: 10px;
+}
+.PanelDocs
+{
+	padding: 20px;
+	width: 700px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+	cursor: auto;
+	background-color: #FAFAFA;
+	top: 100px;
+	left: 20%;
+	border: 1px dashed #C0C0C0;	
+}
+
+.button
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff !important;
+	padding: 4px 20px;
+	background-color: #ee3238 !important;		
+	background: -moz-linear-gradient(
+		top,
+		#fa8a84 0%,
+		#ab0000);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#fa8a84),
+		to(#ab0000));
+	border-radius: 14px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border: 1px solid #c72c2c;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,0.7);
+	text-shadow:
+		0px 1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+	cursor: pointer;
+}

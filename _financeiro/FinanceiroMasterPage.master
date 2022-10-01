@@ -1,0 +1,92 @@
+﻿<%@ Master Language="VB" CodeFile="FinanceiroMasterPage.master.vb" Inherits="_financeiro_FinanceiroMasterPage" %>
+<%@ Register Src="../App_Include/lateral_empresa.ascx" TagName="lateral_empresa" TagPrefix="uc1" %>
+
+<%@ Register src="../App_Include/MenuControl.ascx" tagname="MenuControl" tagprefix="uc2" %>
+<%@ Register src="../App_Include/bannerControlEmpresa.ascx" tagname="bannerControlEmpresa" tagprefix="uc3" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="/App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+    <script src="/jquery-1.7.min.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+     <script src="/_financeiro/MasterPageJobClick.master.js" type="text/javascript"></script>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerEMP" runat="server" 
+        EnableScriptGlobalization="True">
+    </asp:ScriptManager>
+    <div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" style="height: 100px">
+                                   
+                    <uc3:bannerControlEmpresa ID="bannerControlEmpresa1" runat="server" />
+                                   
+                </td>
+            </tr>
+        </table>
+        <br />
+        <table align="center" cellpadding="0" cellspacing="0" width="800px" 
+            class="tableEmpNav">
+            <tr>
+                <td align="left" valign="top" bgcolor="#E6F0F0">
+                    <uc2:MenuControl ID="MenuControl1" runat="server" />
+                </td>
+            </tr>
+        </table>        
+        
+        <table align="center" cellpadding="0" cellspacing="0" width="750px" class="tableEmp">
+            <tr>
+                <td width="750px" valign="top">
+                
+                
+                    <table class="tableEmpInt" cellpadding="20" cellspacing="20">
+                        <tr>
+                            <td class="tableEmpIntTD">             
+                                <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+                            </td>
+                        </tr>
+                    </table>                
+                
+                
+                </td>
+            </tr>
+        </table>
+        
+                <br />
+        <br />
+        <table id="rp" align="center" width="750px" cellspacing="0" cellpadding="0">
+            <tr>
+                <td><img border="0" src="../images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left">
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" /></td>
+                            <td align="left">
+                                <asp:HyperLink ID="FAQ" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink>
+                                | 
+                                <asp:HyperLink ID="QS" runat="server" NavigateUrl="~/quemsomos.aspx">Quem Somos</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="PP" runat="server" NavigateUrl="~/politica.aspx">Política de Privacidade</asp:HyperLink><br />
+                                © Cheyenne Estúdio Multimídia Ltda. - São Paulo - BRASIL</td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                      
+        </table>
+        
+    </div>
+    </form>
+    <%=Application("google")%> 
+</body>
+</html>

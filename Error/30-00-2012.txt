@@ -1,0 +1,426 @@
+
+Log Entry : 
+30/06/2012 03:51:06
+Error in: http://panther.cammaleon.com.br/_ecommerce/panther/departamento.aspx?idDepartamento=0. Error Message:Erro na página: http://panther.cammaleon.com.br/_ecommerce/panther/departamento.aspx?idDepartamento=0. Mensagem de erro: The file '/_ecommerce/panther/departamento.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/06/2012 12:10:32
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+30/06/2012 19:21:04
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/06/2012 19:21:28
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/06/2012 22:27:26
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/07/2012 10:38:20
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3TO3_t8d7TaqC3VuOX2-Q1sEgMKYPQKKKTXtC75TA=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3TO3_t8d7TaqC3VuOX2-Q1sEgMKYPQKKKTXtC75TA=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 11:05:33
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+30/07/2012 13:21:44
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+transitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dtd&limit=150&timestamp=1343665282558&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+transitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd&limit=150&timestamp=1343665282558. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+transitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dtd&limit=150&timestamp=1343665282558&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+transitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd&limit=150&timestamp=1343665282558. Mensagem de erro: A potentially dangerous Request.QueryString value was detected from the client (q="<!doctype html publi...").
+__________________________
+
+Log Entry : 
+30/07/2012 13:21:46
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+transitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665284492&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+transitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665284492. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+transitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665284492&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+transitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665284492. Mensagem de erro: A potentially dangerous Request.QueryString value was detected from the client (q="<!doctype html publi...").
+__________________________
+
+Log Entry : 
+30/07/2012 13:21:48
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+trnsitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665287158&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+trnsitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665287158. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1.0+trnsitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665287158&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1.0+trnsitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665287158. Mensagem de erro: A potentially dangerous Request.QueryString value was detected from the client (q="<!doctype html publi...").
+__________________________
+
+Log Entry : 
+30/07/2012 13:21:49
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1nsitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665287788&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1nsitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665287788. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/AutocompleteData.ashx?q=%253C!doctype+html+public+%2522-%252F%252Fw3c%252F%252Fdtd+xhtml+1nsitional%252F%252Fen%2522+%2522http%253A%252F%252Fwww.w3.org%252Ftr%252Fxhtml1%252Fdtd%252Fxhtml1-transitional.dt&limit=150&timestamp=1343665287788&q=<!doctype+html+public+"-//w3c//dtd+xhtml+1nsitional//en"+"http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dt&limit=150&timestamp=1343665287788. Mensagem de erro: A potentially dangerous Request.QueryString value was detected from the client (q="<!doctype html publi...").
+__________________________
+
+Log Entry : 
+30/07/2012 15:13:29
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUF  </table>        </td>        </tr></table>    <div style=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUF  </table>        </td>        </tr></table>    <div style=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 16:27:20
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/07/2012 16:29:49
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/07/2012 17:11:25
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=T9cgMrQwJ19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnvginPanel. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=T9cgMrQwJ19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnvginPanel. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 17:11:53
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQlcellspacing=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQlcellspacing=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 17:18:29
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjEmVuYG4K-UwhK6q7YA-qQL1fZO595b0b6GY92CQSW9JT. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjEmVuYG4K-UwhK6q7YA-qQL1fZO595b0b6GY92CQSW9JT. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 17:21:05
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjE=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjE=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 17:24:20
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb3IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb3IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/07/2012 18:06:39
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/07/2012 18:06:57
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/07/2012 18:10:39
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/07/2012 18:22:01
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/07/2012 20:21:58
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+30/07/2012 20:27:45
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+30/08/2012 08:45:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/08/2012 12:37:06
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/08/2012 12:37:37
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/08/2012 14:12:10
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RTitter. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RTitter. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/08/2012 14:13:34
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj5/a>                     </li>                    <li>                        <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj5/a>                     </li>                    <li>                        <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/08/2012 14:14:41
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/08/2012 14:14:59
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf8400_Image_Linkedin. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf8400_Image_Linkedin. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/08/2012 14:16:31
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64dUZqKdfclPrEjC_A-HUshNz-VLQBeK__6rWIcdtH2AwQ3F1NqAoqRmHPJEQ5bxeG2sV8ZLWTT3XU_UCZo0UvmdQq9S0kgRXIDKPrXeqUxWE_qhVxk-GrApnmWOqkfffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64dUZqKdfclPrEjC_A-HUshNz-VLQBeK__6rWIcdtH2AwQ3F1NqAoqRmHPJEQ5bxeG2sV8ZLWTT3XU_UCZo0UvmdQq9S0kgRXIDKPrXeqUxWE_qhVxk-GrApnmWOqkfffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+30/08/2012 14:20:29
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/08/2012 14:24:04
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/08/2012 15:09:24
+Error in: http://www.jobclick.com.br/errorbrowser.aspx. Error Message:Erro na página: http://www.jobclick.com.br/errorbrowser.aspx. Mensagem de erro: The file '/errorbrowser.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/08/2012 16:36:33
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/08/2012 19:03:21
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+30/08/2012 19:28:37
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 201.78.109.111
+	Port: 53002
+	Referer: http://www.jobclick.com.br/_candidato/conhecimento.aspx
+	Path: /_candidato/conhecimento.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)
+	ViewState: sbX1UbNUvx4sjbKCY/LvQc1+t+9U15f1Ypfw3OCLhZUP+pmZ4+TM4tbWnplPFygGIuWUphLl5ZvqJh7TbAQZwLpm5XXJsXSSgmeqFvQLC8fMU3FtSZPH1YRzWcHofuz92y7DZOv7KqTYh8tG1rdmx4shGqmp1Plli7XGmaGd73ckenpdTLScEoOlLHB124mZt3I2eatHb3D0f98LT0y2xjaQRixZfl9FePf4RLea4pCfxdGTC+yP0IQUzn3PaGTsIBPxFvBg3RZe+774HiJRikW1A6jGlIE4HZi122uwjKM33G1fxk8POj8vYX5wtHbed1F23E2xmGB1fIOQ6jsvqE6mOFpJzAmuZj0cxlDHEcIHxDSwHmVu7u2tV7veNNmgi6aeOqlmd6UNoMzZblNW5CvcOSuzGnD0BiT1JDv9kc+LxL9ifxESBZVXtKKxJbpaeCSnNao+9rOsgRA8Ta33zRFwURxv93oSWsGRFVX3xKMVooqolkWzDLEsjhip8yzP7U4q2txa4B9g/JSaJp3Y0orqjHt9tV1q/b2qz6KZ9gDCuY0/nu9GopB3IlVBG3BRexFdso3Zwm69Em/IC8oQzndGBdYE93vAqnSZJEuGBNu1SlkSZeHGyzIOeYntaIxr8UIv4jVCZPaenRzolO3HpzrMmMNk4X3rFKQbLzjGU9TOipB+qlUf11XSIrnip5VCUTiAHaTkOEseHkL0ces/75p8sswY4PsRLKRBjy14sEyJd1ZJFovOZDBKoaTmiYhgMqPWzJvrz9vszp...
+__________________________
+
+Log Entry : 
+30/09/2012 12:06:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 12:07:01
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 12:07:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 12:08:07
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 18:53:02
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/09/2012 22:10:19
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 22:10:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 22:10:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/09/2012 22:10:48
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/10/2012 00:09:23
+Error in: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/10/2012 00:25:14
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001036476-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001036476-8. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/10/2012 01:23:17
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/10/2012 04:25:46
+Error in: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/10/2012 10:26:26
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/10/2012 11:04:38
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/10/2012 11:37:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001036890-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001036890-0. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/10/2012 13:22:31
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/10/2012 14:58:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/10/2012 15:14:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/10/2012 15:15:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/10/2012 16:51:31
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/10/2012 19:07:33
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001037049-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001037049-2. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/10/2012 20:26:13
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.92.97.235
+	Port: 50382
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx
+	Path: /_anonimo/cadastroCandidato.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML, like Gecko) Chrome/22.0.1229.94 Safari/537.4
+	ViewState: /wEPDwUKLTcxNTEyMDk0Mw9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMzU2NGRkAkcPZBYKZg9kFgICAQ8PFgIfAGVkZAIJDw8WAh4HVmlzaWJsZWhkFgICAQ8PFgIfAGVkZAILD2QWAmYPZBYCAgEPZBYiAhMPEA8WAh4LXyFEYXRhQm91bmRnZBAVAwtFc3RhZ2nDoXJpbxBQcmltZWlybyBFbXByZWdvDFByb2Zpc3Npb25hbBUDC0VzdGFnacOhcmlvEFByaW1laXJvIEVtcHJlZ28MUHJvZmlzc2lvbmFsFCsDA2dnZ2RkAhkPEA8WAh8CZ2QQFQYIU29sdGVpcm8GQ2FzYWRvCFNlcGFyYWRvCkRpdm9yY2lhZG8GVmnDunZvBk91dHJvcxUGCFNvbHRlaXJvBkNhc2FkbwhTZXBhcmFkbwpEaXZvcmNpYWRvBlZpw7p2bwZPdXRyb3MUKwMGZ2dnZ2dnZGQCJQ8QDxYCHwJnZBAVBQdDZWx1bGFyCUNvbWVyY2lhbANGYXgGUmVjYWRvC1Jlc2lkZW5jaWFsFQUHQ2VsdWxhcglDb21lcmNpYWwDRmF4BlJlY2FkbwtSZXNpZGVuY2lhbBQrAwVnZ2dnZ2RkAj0PEA8WAh8CZ2QQFfEBDEFmZWdhbmlzdMOjbw7DgWZyaWNhIGRvIFN1bAdBbGJhbmlhCEFsZW1hbmhhB...
+__________________________
+
+Log Entry : 
+30/10/2012 21:24:44
+Error in: http://www.jobclick.com.br/release.aspx. Error Message:Erro na página: http://www.jobclick.com.br/release.aspx. Mensagem de erro: The file '/release.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/10/2012 22:18:27
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012P/001037129-2. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012P/001037129-2. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/11/2012 00:05:48
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/11/2012 00:06:06
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:06:19
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:06:21
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:07:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:07:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:07:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:07:11
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+30/11/2012 00:20:50
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: Cannot insert the value NULL into column 'idcurriculo', table 'jobclickdb.dbo.tbIdiomaC'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/11/2012 07:09:12
+Error in: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/11/2012 11:13:28
+Error in: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+30/11/2012 11:59:14
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/11/2012 14:25:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+30/11/2012 14:54:42
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+30/12/2012 15:49:24
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+30/12/2012 16:11:54
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+30/12/2012 16:12:56
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________

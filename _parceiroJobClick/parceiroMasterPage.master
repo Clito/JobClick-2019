@@ -1,0 +1,115 @@
+﻿<%@ Master Language="VB" CodeFile="parceiroMasterPage.master.vb" Inherits="_parceiroJobClick_parceiroMasterPage" %>
+
+<!DOCTYPE html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Parceiro JobClick</title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+        <script type="text/javascript" src="../js/mascara.js"></script>
+        <script type="text/javascript" src="../iiefix.js"></script>
+        <script type="text/javascript" src="../js/jquery-1.7.1.min.js" ></script>
+        <script type="text/javascript" src="../js/jquery-1.4.3.min.js"></script>
+        <script type="text/javascript" src="../js/jquery.nivo.slider.pack.js"></script>
+        <link type="text/css" href="../App_Themes/ui-lightness/jquery-ui-1.8.19.custom.css" rel="Stylesheet" />	
+        <script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+        <link href="../App_Themes/parceiroJobClick.css" rel="stylesheet" type="text/css" />
+        <link href="../scripts/jquery.autocomplete.css" rel="stylesheet" type="text/css" />
+        <script type="text/javascript">
+            $(window).load(function () {
+                $('#slider').nivoSlider();
+            });
+        </script>  
+        <script type="text/javascript">
+            $(document).ready(function () {
+                $(":input[data-watermark]").each(function () {
+                    $(this).val($(this).attr("data-watermark"));
+                    $(this).bind('focus', function () {
+                        if ($(this).val() == $(this).attr("data-watermark")) $(this).val('');
+                    });
+                    $(this).bind('blur', function () {
+                        if ($(this).val() == '') $(this).val($(this).attr("data-watermark"));
+                        $(this).css('color', '#505050');
+                    });
+                });
+            });
+        </script>
+</head>
+<body>
+<!-- script src="/_parceiroJobClick/parceiroMasterPage.master.js" type="text/javascript"></script -->
+
+<div id="wrap">
+    <div id="header">
+        <div id='cssmenu'>
+            <ul>
+               <li class='active'><a href='Default.aspx'><span>Página principal</span></a>
+                  <ul>
+                     <li><a href='cadastro.aspx' title="Atualizar os dados da empresa e acesso ao sistema"><span>Seu cadastro</span></a></li>
+                     <li><a href='tabela.aspx' title="Mude seu plano"><span>Mude seu plano</span></a></li>
+                     <li><a href='termo.aspx' title="Termos e condições gerais de utilização do sistema"><span>Termos e condições</span></a></li>
+                     <li><a href='logo.aspx' title="Enviar a logomarca de sua empresa."><span>Enviar logomarca</span></a></li>
+                     <li><a href='confirmacaoPagamento.aspx' title="Confirmação de pagamento"><span>Confirma pagamento</span></a></li>  
+                     <li><a href='extrato.aspx' title="Veja seu extrato"><span>Extrato</span></a></li>  
+                     <li><a href='REL_Empresa.aspx' title="Relatórios"><span>Relatórios</span></a></li>
+                     <li><a href='comprar.aspx' title="Compre créditos avulsos para utilizar no sistema"><span>Comprar créditos</span></a></li>
+                     <li><a href='manual.aspx' title="Conheça todas as funcionalidades deste sistema"><span>Ajuda</span></a></li>
+                  </ul> 
+               </li>     
+               <li class='has-sub'><a href='#'><span>(Vagas) Oportunidades</span></a>
+                  <ul>
+                     <li class='has-sub'><a href='#'><span>Publicar</span></a>
+                        <ul>
+                           <li><a href='publicarNovaVaga.aspx' title="Publicar novas vagas"><span>Publicar nova vaga</span></a></li>
+                           <li><a href='vagaPatrocinada.aspx' title="Vagas patrocinadas, divulge suas vagas e amplie as candidaturas de suas oportunidades."><span>Vagas patrocinadas</span></a></li>
+                           <li class='last'><a href='vagaSalva.aspx' title="Use os modelos prontos de vagas"><span>Modelos</span></a></li>
+                        </ul>
+                     </li>
+                     <li class='has-sub'><a href='#'><span>Vagas publicadas</span></a>
+                        <ul>
+                           <li><a href='alterarVaga.aspx' title="Alterar informações das vagas"><span>Alterar vaga</span></a></li>
+                           <li class='last'><a href='relatorioVaga.aspx' title="Relatórios e Gráficos"><span>Relatórios e Gráficos</span></a></li>
+                        </ul>
+                     </li>
+                  </ul>
+               </li>
+               <li class='has-sub'><a href='#'><span>Publicação em massa (Vagas)</span></a>
+                  <ul>
+                     <li class='has-sub'><a href='#'><span>Arquivo padrão</span></a>
+                        <ul>
+                           <li><a href='baixarArquivo.aspx' title="Baixe o arquivo padrão para publicação de grande número de vagas"><span>Baixar arquivo</span></a></li>
+                        </ul>
+                     </li>
+                     <li class='last'><a href='publicarVagaMass.aspx' title="Publicação dos arquivos enviados"><span>Publicar</span></a></li>
+                  </ul>
+               </li>
+               <li class='has-sub'><a href='#'><span>Candidatos</span></a>
+                  <ul>
+                     <li class='has-sub'><a href='pesquisaBase.aspx' title="Pesquise os candidatos na base geral de talentos"><span>Pesquisar Candidatos</span></a></li>
+                     <li class='has-sub'><a href='candidaturas.aspx' title="Candidatura de candidatos vindas do Jobclick"><span>Candidaturas</span></a></li>
+                     <li class='has-sub'><a href='cvselecionados.aspx' title="CVs em sua lista de favoritos"><span>(CVs) Favoritos</span></a></li>
+                     <li class='has-sub'><a href='relatorioCandidato.aspx' title="Relatórios e Gráficos"><span>Relatórios e Gráficos</span></a></li>
+                  </ul>
+               </li>
+               <li class='last'><a href='sair.aspx' title="Sair"><span>Sair</span></a></li>
+            </ul>
+        </div>
+        <div style="clear:both; margin: 0 0 80px 0;">&nbsp;</div>
+    </div>
+    <div id="main">
+        <form id="formParceiro" runat="server">
+        <asp:ScriptManager ID="ScriptManagerParceiro" runat="server" EnableScriptGlobalization="True"></asp:ScriptManager>
+            <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+            </asp:ContentPlaceHolder>
+        </form>
+    </div>
+</div> 
+    
+    <div id="footer"><div id="rodape"><br /><br /><div id="RODAPELINK">© Copyright Jobclick 1999 | 2013<br /><br />Telefone:<br />(11) 2459-0286<br />Avenida São Bento, 1254 - Guarulhos - SP<br />Vila Galvão - CEP: 07070-000</div></div></div>  
+
+      <%=Session("google")%>
+
+</body>
+</html>

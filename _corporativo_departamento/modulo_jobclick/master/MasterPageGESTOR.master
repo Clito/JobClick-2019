@@ -1,0 +1,69 @@
+﻿<%@ Master Language="VB" CodeFile="MasterPageGESTOR.master.vb" Inherits="_anonimo_MasterPageGESTOR" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../css/anonimo.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+<div>
+        <table class="banner" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                
+                <table border='0' width='100%' id='banner' cellpadding='0' cellspacing='0'>
+                <tr>
+                    <td align="center">
+                        <table id="HOME" cellpadding="5" cellspacing="5" width="880">
+                            <tr>
+                                <td></td>
+                                <td></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+                </table>
+                                
+                </td>
+            </tr>
+        </table>
+        <div id="conteudo">
+            <table class="tableMaster" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td class="lateral"></td>
+                    <td class="apresenta"><asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+                    <td class="destaque"></td>
+                </tr>
+            </table>
+        </div>
+ <div id="rodape">       
+    <table class="rp" cellpadding="0" cellspacing="0">
+        <tr>
+            <td align="left">      
+         
+                &nbsp;</td>
+        </tr>
+    </table> 
+     <table id="rodapeCenter" align="center" cellpadding="10" cellspacing="10" 
+         width="800px">
+         <tr>
+             <td>
+         
+                <asp:Label ID="LabelRodape" runat="server" 
+                     Text="&lt;b&gt;JobClick&lt;/b&gt;&lt;br&gt;Avenida Julio Prestes, 270 - Guarulhos / SP&lt;br&gt;CEP:07063-010"></asp:Label>
+           
+             </td>
+         </tr>
+     </table>
+ </div>
+    </div>
+    </form>
+</body>
+</html>

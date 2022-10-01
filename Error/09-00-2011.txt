@@ -1,0 +1,207 @@
+
+Log Entry : 
+09/08/2011 19:28:09
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Cannot insert the value NULL into column 'idfuncao', table 'jobclickdb.dbo.tbVagaPublica'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+09/08/2011 19:28:23
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'Desenvolvedor' to data type int.
+__________________________
+
+Log Entry : 
+09/08/2011 19:28:35
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'Desenvolvedor' to data type int.
+__________________________
+
+Log Entry : 
+09/08/2011 19:29:05
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Cannot insert the value NULL into column 'idfuncao', table 'jobclickdb.dbo.tbVagaPublica'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+09/08/2011 19:29:23
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'Desenvolvedor' to data type int.
+__________________________
+
+Log Entry : 
+09/08/2011 19:33:08
+Error in: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/vagasPublicas.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'Desenvolvedor' to data type int.
+__________________________
+
+Log Entry : 
+09/09/2011 11:14:40
+Error in: http://www.jobclick.com.br/_candidato/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cadastro.aspx. Mensagem de erro: 'DropDownListArea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+09/09/2011 11:54:19
+Error in: http://www.jobclick.com.br/_candidato/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cadastro.aspx. Mensagem de erro: 'DropDownListArea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+09/09/2011 11:57:01
+Error in: http://www.jobclick.com.br/_candidato/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cadastro.aspx. Mensagem de erro: 'DropDownListArea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+09/09/2011 12:07:42
+Error in: http://www.jobclick.com.br/_candidato/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cadastro.aspx. Mensagem de erro: 'DropDownListArea' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+09/10/2011 04:15:34
+Error in: http://www.jobclick.com.br/info.aspx?idMultimidiaInfoCategoria=4&idMultimidiaInfo=19. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idMultimidiaInfoCategoria=4&idMultimidiaInfo=19. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormView1$comentarioTextBox="PZWhv3  <a href="http://jiql...").
+__________________________
+
+Log Entry : 
+09/10/2011 09:21:17
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+09/10/2011 09:21:33
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+09/10/2011 09:21:53
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+09/10/2011 17:28:31
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+09/10/2011 17:29:43
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+09/10/2011 17:33:21
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=XAszgwDRygE=&id=TZ9A24B8S8w=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+09/10/2011 18:50:32
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/10/2011 19:12:10
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+09/10/2011 19:14:16
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+09/10/2011 19:23:25
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+09/10/2011 21:43:40
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQlj                   <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQlj                   <td>                        <input type=. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+09/10/2011 21:54:12
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfSEcsdg4DMhmv4jGGirzjmQcoAxsed787Q2t9Vib8duUz2kpjaro6BjASwPUFC2lv5AdpzMn4Hg5CviKW6wpFXOKkJz+UOG7jnRiYW5iTy2vm3UYSpAbtJX7e9f9Fz8FDFO3s3GKhkVJW+YqYkkmc9BndTQa1VgKJLu99aVr8YyRBF/D03Fe. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfSEcsdg4DMhmv4jGGirzjmQcoAxsed787Q2t9Vib8duUz2kpjaro6BjASwPUFC2lv5AdpzMn4Hg5CviKW6wpFXOKkJz+UOG7jnRiYW5iTy2vm3UYSpAbtJX7e9f9Fz8FDFO3s3GKhkVJW+YqYkkmc9BndTQa1VgKJLu99aVr8YyRBF/D03Fe. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+09/10/2011 21:58:25
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2EavegadorControl1_HyperLinkNavInformacoesAdicionais. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2EavegadorControl1_HyperLinkNavInformacoesAdicionais. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+09/10/2011 22:04:40
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzk4uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzk4uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+09/10/2011 22:06:07
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN3rControl1_HyperLinkNavFotoCandidato. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN3rControl1_HyperLinkNavFotoCandidato. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+09/10/2011 22:07:21
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+09/10/2011 22:16:19
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002166-5. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002166-5. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+09/11/2011 11:51:33
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 14:53:38
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 14:56:51
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 15:26:38
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid viewstate. 
+	Client IP: 201.17.225.76
+	Port: 51656
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; .NET4.0C)
+	ViewState: C37U/7kqzsE9kqKIVlEDCXZxQxgkdbVP+ZwxW0Yg+11IFRPDUTSzjOjeJUUOcFX1JKZSBEE6ohdtyUNP2bYiTlh1mYuYgAsKv0vh5eMVvCXk7LSzKVWag6v5qxzyXwJX8yA/AaMb2MQVLXhlFsrqzW8XUhBIety6hxh81szzGc5pwtqr5HB+tGtYHQ951r3wHEt2zw0fB6Y4U1Eay4JI0FrBb1JAdruwlcNgPdMyZtz+EgDNxZ8JfBS0I4HUkO8tZjGYxCT3xQ9Y5jF7ZkC4GzBVx+HZEqZTXQrRRXLWjCWD0r4jH4zd53+23HB9wM8FMdZB7KI+9WeaAdSqGWN36tqADK85pm/rJJAWoIaAA98+bwgaYJ/X68bPSUGJFhBmQFjkSUEQ2egzHOAIwKncRFRTigInulnw/8I7dzEtOAacmvsUr/4CEY6a4aSLgO5dO9wEqwUSpAu0DWcUC6htVKaiEjQKboy+GGi9MRXhwje75JI6e+sYmz94QX5ABUqngATA/ZY4RF+tmnnsE17pK8QJXxLeZoGTDuazg+qeU9k/37uPxRI//lw8uSiPrNy7ZIAE51+oETED90hhlwJVAPFDys64Wi2cTo145JWfIaRVSFa07Ylorz1rhvfHKgbmUswvX+u0MMNDhoCs4pSQppw/9d2WQHkqRyAvlD6A3...
+__________________________
+
+Log Entry : 
+09/11/2011 16:46:46
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 16:47:14
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 16:47:29
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 16:59:17
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+09/11/2011 17:23:33
+Error in: http://migra.jobclick.com.br/newsletter.aspx?idcategoria=1. Error Message:Erro na página: http://migra.jobclick.com.br/newsletter.aspx?idcategoria=1. Mensagem de erro: The file '/newsletter.aspx' does not exist.
+__________________________
+
+Log Entry : 
+09/11/2011 17:25:51
+Error in: http://migra.jobclick.com.br/newsletter.aspx?idcategoria=6. Error Message:Erro na página: http://migra.jobclick.com.br/newsletter.aspx?idcategoria=6. Mensagem de erro: The file '/newsletter.aspx' does not exist.
+__________________________
+
+Log Entry : 
+09/11/2011 21:23:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003404-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003404-9. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________

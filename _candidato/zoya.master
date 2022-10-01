@@ -1,0 +1,77 @@
+﻿<%@ Master Language="VB" CodeFile="zoya.master.vb" Inherits="_candidato_zoya" %>
+
+<%@ Register src="../App_Include/lateral_candidato_zoya.ascx" tagname="lateral_candidato_zoya" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />    
+    </head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" style="height: 100px">
+                <script type="text/javascript">
+                    <!--
+                        var teste = new Flash("/swf/bannerzoyac.swf", "zoya", "750", "100"); 
+                        teste.write();
+                    //-->
+                </script>                                    
+                </td>
+            </tr>
+        </table>
+        <table class="tbzoya" id="mybody">
+            <tr>
+                <td valign="top">
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" width="700px">
+                        <tr>
+                            <td width="550px" valign="top"><asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+                            <td width="150px" valign="top" align="right">
+                                <br />
+                                <uc1:lateral_candidato_zoya ID="lateral_candidato_zoya1" runat="server" />
+                            </td>
+                        </tr>                        
+                    </table>
+                    </td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        
+        <table id="myrp" align="center" cellspacing="0" cellpadding="0" width="750px">
+            <tr>
+                <td><img border="0" src="../images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left">
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" /></td>
+                            <td align="left">
+                                <asp:HyperLink ID="FAQ" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink>
+                                | 
+                                <asp:HyperLink ID="QS" runat="server" NavigateUrl="~/quemsomos.aspx">Quem Somos</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="PP" runat="server" NavigateUrl="~/politica.aspx">Política de Privacidade</asp:HyperLink><br />
+                                by © Cheyenne Estúdio Multimídia Ltda. - São Paulo - BRASIL</td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                      
+        </table>
+        
+    </div>
+    
+    </form>
+    <%=Application("google")%> 
+</body>
+</html>

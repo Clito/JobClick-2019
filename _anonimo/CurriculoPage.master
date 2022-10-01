@@ -1,0 +1,89 @@
+<%@ Master Language="VB" CodeFile="CurriculoPage.master.vb" Inherits="_candidato_CurriculoPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:o='urn:schemas-microsoft-com:office:office'xmlns:w='urn:schemas-microsoft-com:office:word'xmlns='http://www.w3.org/TR/REC-html40'>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>  
+</w:WordDocument>
+</xml>
+<![endif]-->
+
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />  
+    
+<style>
+<!-- /* Style Definitions */@page Section1{size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in;mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1{page:Section1;}
+    .style1
+    {
+        width: 194px;
+    }
+-->
+</style>
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" style="height: 100px" align="center">
+                                  
+                    <asp:ImageButton ID="ImageButtonJob" runat="server" 
+                        ImageUrl="~/images/layoutNew/cvEnviado.png" />
+                                  
+                </td>
+            </tr>
+        </table>
+        <table id="mybody" align="center" cellpadding="20" cellspacing="20" width="750px">
+            <tr>
+                <td width="750px" valign="top"><asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        
+        <table id="myrp" align="center" cellspacing="0" cellpadding="0" width="750px">
+            <tr>
+                <td><img border="0" src="/images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left">
+                        <tr>
+                            <td class="style1">
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" /></td>
+                            <td align="left">
+                                © www.jobclick.com.br - São Paulo - BRASIL<br />
+                                e-mail: <a href="mailto:jobclick@jobclick.com.br">jobclick@jobclick.com.br</a><br />
+                                <br />
+                                Avenida Júlio Prestes, 270 - Guarulhos - Brasil | (55) 11 - 2459-0286<br />
+                                CEP: 07063-010</td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                      
+        </table>
+        
+    </div>
+    
+    </form>
+    <p>
+        <br />
+    </p>
+    <p>
+        &nbsp;</p>
+    <p>
+        &nbsp;</p>
+    <%=Application("google")%> 
+</body>
+</html>

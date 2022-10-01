@@ -1,0 +1,9 @@
+
+Log Entry : 
+02/06/2019 11:42:27
+Error in: http://127.0.0.1:8085/_anonimo/sponsoredAD.aspx. Error Message:Erro na página: http://127.0.0.1:8085/_anonimo/sponsoredAD.aspx. Mensagem de erro: O cliente encontrou o tipo de conteúdo de resposta de 'text/html; charset=utf-8', mas esperava 'text/xml'.
+Falha na solicitação com mensagem de erro:
+--
+<html><head><meta http-equiv="refresh" content="0;url=http://searchguide.level3.com/search/?q=http://wsjobclick.jobclick.com.br%2FWSsponsoredAD.asmx&bc="/></head><body><script type="text/javascript">window.location="http://searchguide.level3.com/search/?q="+escape(window.location)+"&r="+escape(document.referrer)+"&bc=";</script></body></html>
+--.
+__________________________

@@ -1,0 +1,45 @@
+
+Log Entry : 
+06/02/2015 00:03:48
+Error in: http://www.jobclick.com.br/_emailMarketing/optout.aspx?Email=EMPREGAJUNDIAI@yahoogrupos.com.br. Error Message:Erro na página: http://www.jobclick.com.br/_emailMarketing/optout.aspx?Email=EMPREGAJUNDIAI@yahoogrupos.com.br. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 00:04:24
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_emailMarketing/optout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_emailMarketing/optout.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 00:04:53
+Error in: http://www.jobclick.com.br/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 14:12:17
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 14:13:03
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 14:26:51
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 15:14:53
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 17:25:34
+Error in: http://www.jobclick.com.br/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+06/02/2015 17:27:39
+Error in: http://www.jobclick.com.br/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________

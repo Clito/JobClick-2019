@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wizard>
+  <Menu Description="Home" title="Home" url="/_financeiro/Default.aspx">
+    <SubMenu Description="Sair" title="Sair" url="/logout.aspx" />
+  </Menu>
+</Wizard>

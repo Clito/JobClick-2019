@@ -1,0 +1,82 @@
+<%@ Master Language="VB" CodeFile="CurriculoPage.master.vb" Inherits="_candidato_CurriculoPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />    
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" style="height: 100px">
+                <script type="text/javascript">
+                    <!--
+                        var teste = new Flash("/swf/banner.swf", "Banner", "750", "100"); 
+                        teste.write();
+                    //-->
+                </script>                                    
+                </td>
+            </tr>
+        </table>
+        <table class="tbcurriculo" id="mybody">
+            <tr>
+                <td valign="top">
+                    <br />
+                    <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: 100%">
+                        <tr>
+                            <td align="right">
+                                &nbsp;
+                                <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/images/candidato/bnrPaginaPrincipal.gif" CausesValidation="False" /><asp:ImageButton
+                                    ID="ImageButton3" runat="server" ImageUrl="~/images/candidato/bnrVerCurriculo.gif" CausesValidation="False" /><asp:ImageButton
+                                        ID="ImageButton2" runat="server" 
+                                    ImageUrl="~/images/candidato/bnrVagasJobClick.gif" CausesValidation="False" 
+                                    Visible="False" /><asp:ImageButton
+                                            ID="ImageButton4" runat="server" ImageUrl="~/images/candidato/bnrVagasWEB.gif" CausesValidation="False" /><br />
+                                <br />
+                                <br />
+                            </td>
+                        </tr>
+                    </table>
+                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        
+        <table id="myrp" align="center" cellspacing="0" cellpadding="0" width="750px">
+            <tr>
+                <td><img border="0" src="/images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left">
+                        <tr>
+                            <td>
+                                <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" /></td>
+                            <td align="left">
+                                <asp:HyperLink ID="FAQ" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink>
+                                | 
+                                <asp:HyperLink ID="QS" runat="server" NavigateUrl="~/quemsomos.aspx">Quem Somos</asp:HyperLink>
+                                |
+                                <asp:HyperLink ID="PP" runat="server" NavigateUrl="~/politica.aspx">Política de Privacidade</asp:HyperLink><br />
+                                by © Cheyenne Estúdio Multimídia Ltda. - São Paulo - BRASIL</td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                      
+        </table>
+        
+    </div>
+    
+    </form>
+    <%=Application("google")%> 
+</body>
+</html>

@@ -1,0 +1,50 @@
+
+Log Entry : 
+14/01/2015 10:47:58
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+14/01/2015 17:37:37
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014E/224000247-3&pesquisa=2014E/224000247-3. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014E/224000247-3&pesquisa=2014E/224000247-3. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+14/01/2015 21:22:19
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+14/01/2015 21:22:23
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+14/01/2015 21:22:54
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+14/01/2015 21:59:28
+Error in: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+14/01/2015 22:31:33
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+14/02/2015 13:47:36
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+14/02/2015 13:51:24
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1423928976949. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1423928976949. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+14/02/2015 21:41:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2015445E%25253f2240003349814-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2015445E%25253f2240003349814-9. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

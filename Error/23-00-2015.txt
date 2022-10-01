@@ -1,0 +1,45 @@
+
+Log Entry : 
+23/01/2015 20:47:10
+Error in: http://www.jobclick.com.br/_anonimo/conta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/conta.aspx. Mensagem de erro: O arquivo '/DefaultPage.master' não existe.
+__________________________
+
+Log Entry : 
+23/02/2015 03:24:45
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+23/02/2015 08:12:21
+Error in: http://www.jobclick.com.br/comercial/ged.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/ged.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+23/02/2015 08:13:56
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+23/02/2015 11:21:58
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_parceiroJobClick/publicarNovaVaga.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_parceiroJobClick/publicarNovaVaga.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+23/02/2015 15:23:07
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+23/02/2015 16:11:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157820E%2522f2240003587151-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157820E%2522f2240003587151-8. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+23/02/2015 16:12:02
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+23/02/2015 17:04:26
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________

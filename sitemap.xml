@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>http://www.jobclick.com.br/</loc>
+    <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/_anonimo/vagas.aspx</loc>
+  <changefreq>always</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/login.aspx?panelon=1</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/default.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/missaovisaovalor.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/equipe.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/quemsomos.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/tecnologia.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.jobclick.com.br/comercial/contato.aspx</loc>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>

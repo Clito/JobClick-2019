@@ -1,0 +1,151 @@
+
+Log Entry : 
+31/07/2012 08:47:17
+Error in: http://www.jobclick.com.br/services/EnviarEmailAmigo.aspx?strCodigo=APF71527&strVaga=Consultor+SAP+CRM&nomeTextBox=Robson&emailTextBox=rrrsantos1973@yahoo.com.br&mensagem=Fiii,+da+uma+olhada+nessa+vaga&inomeTextBox=Douglas&iemailTextBox=Douglas+Faminas+<douglastog01@gmail.com>;&_=1343735214914. Error Message:Erro na página: http://www.jobclick.com.br/services/EnviarEmailAmigo.aspx?strCodigo=APF71527&strVaga=Consultor+SAP+CRM&nomeTextBox=Robson&emailTextBox=rrrsantos1973@yahoo.com.br&mensagem=Fiii,+da+uma+olhada+nessa+vaga&inomeTextBox=Douglas&iemailTextBox=Douglas+Faminas+<douglastog01@gmail.com>;&_=1343735214914. Mensagem de erro: A potentially dangerous Request.QueryString value was detected from the client (iemailTextBox="...s Faminas <douglastog01@gmail....").
+__________________________
+
+Log Entry : 
+31/07/2012 18:46:37
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/07/2012 18:47:55
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/07/2012 18:49:53
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/07/2012 18:52:47
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/07/2012 18:59:54
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+31/07/2012 22:25:38
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...ientes).
+<br><br>•	(2008 – 20...").
+__________________________
+
+Log Entry : 
+31/08/2012 08:35:06
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+31/08/2012 09:29:21
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+31/08/2012 09:29:44
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+31/08/2012 13:34:34
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbic acesso. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbic acesso. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/08/2012 13:40:26
+Error in: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+31/08/2012 14:00:51
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjblus.google.com/117523594974970752948. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjblus.google.com/117523594974970752948. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/08/2012 14:38:10
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/08/2012 20:26:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+31/08/2012 21:44:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+31/08/2012 23:04:11
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+31/10/2012 09:40:08
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 09:42:24
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 09:44:34
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 09:46:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 09:49:05
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 11:49:51
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+31/10/2012 13:18:03
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 13:18:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2012 18:38:52
+Error in: http://www.jobclick.com.br/_candidato/formacaoAcademica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacaoAcademica.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+31/10/2012 20:28:22
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012P/001037298-5. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012P/001037298-5. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+31/10/2012 21:33:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/12/2012 11:30:54
+Error in: http://www.jobclick.com.br/comercial/slide001.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/slide001.aspx. Mensagem de erro: The file '/comercial/slide001.aspx' does not exist.
+__________________________

@@ -1,0 +1,30 @@
+
+Log Entry : 
+28/05/2019 12:23:39
+Error in: http://localhost:54810/default.aspx. Error Message:Erro na página: http://localhost:54810/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+28/05/2019 12:25:01
+Error in: http://localhost:54810/default.aspx. Error Message:Erro na página: http://localhost:54810/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+28/05/2019 13:12:07
+Error in: http://localhost:54810/default.aspx. Error Message:Erro na página: http://localhost:54810/default.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+28/05/2019 13:47:01
+Error in: http://localhost:54810/_anonimo/sponsoredAD.aspx. Error Message:Erro na página: http://localhost:54810/_anonimo/sponsoredAD.aspx. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________
+
+Log Entry : 
+28/05/2019 15:19:18
+Error in: http://localhost:8080/_anonimo/sponsoredAD.aspx?pesquisa=. Error Message:Erro na página: http://localhost:8080/_anonimo/sponsoredAD.aspx?pesquisa=. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________
+
+Log Entry : 
+28/05/2019 15:19:47
+Error in: http://localhost:8080/_anonimo/sponsoredAD.aspx?pesquisa=Gerente de Contas. Error Message:Erro na página: http://localhost:8080/_anonimo/sponsoredAD.aspx?pesquisa=Gerente de Contas. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________

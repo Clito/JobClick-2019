@@ -1,0 +1,35 @@
+
+Log Entry : 
+15/01/2015 00:02:26
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+15/01/2015 00:02:51
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+15/02/2015 15:53:17
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+15/02/2015 15:53:55
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+15/02/2015 15:53:59
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+15/02/2015 15:54:02
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+15/02/2015 15:55:30
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Mensagem de erro: The wait operation timed out
+__________________________

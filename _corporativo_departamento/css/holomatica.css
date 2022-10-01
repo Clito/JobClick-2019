@@ -1,0 +1,20 @@
+﻿body
+{
+	background-color: transparent;
+	background-position:center; 		
+}
+.bannerNavegadorInternoNomeEmpresa
+{
+	color: #547bb1;
+	padding-left: 10px;
+}
+.bannerNavegadorInterno
+{
+	color: #505050;
+}
+.msnERROR
+{
+	color: #CC3300;
+	padding-left: 5px;
+	font-size: 15pt;
+}

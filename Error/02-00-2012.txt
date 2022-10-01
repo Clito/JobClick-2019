@@ -1,0 +1,293 @@
+
+Log Entry : 
+02/07/2012 16:16:53
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid object name 'dbo.tbNilvelProfissional'.
+__________________________
+
+Log Entry : 
+02/07/2012 16:19:01
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid object name 'dbo.tbNilvelProfissional'.
+__________________________
+
+Log Entry : 
+02/07/2012 16:27:26
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid object name 'dbo.tbNilvelProfissional'.
+__________________________
+
+Log Entry : 
+02/07/2012 16:51:28
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'dsNilvelProfissional'.
+__________________________
+
+Log Entry : 
+02/07/2012 23:04:55
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+02/08/2012 03:54:36
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:25
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:26
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:28
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:33
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:02:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022577-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022577-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022577-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022577-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022606-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022430-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:03:55
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:00
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022532-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:05
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:10
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001023013-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022997-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022997-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:20
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022997-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022997-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:25
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022491-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022491-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022491-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022491-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022699-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022699-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022699-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022699-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022701-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022701-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022701-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022701-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:04:55
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022828-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022828-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:05:00
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022828-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022828-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:05:05
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022896-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022896-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:05:10
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022896-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022896-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:05:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022678-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022678-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:05:20
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022678-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001022678-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:12:44
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:19:59
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=3. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:20:15
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/faq.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:24:50
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:25:05
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:25:21
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:25:36
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:30:42
+Error in: http://www.jobclick.com.br/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:30:57
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:32:12
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:33:28
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 04:34:43
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+02/08/2012 17:48:19
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=16289. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=16289. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/08/2012 17:48:59
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/08/2012 21:28:04
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/09/2012 14:51:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+02/09/2012 21:48:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+02/09/2012 21:49:01
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+02/09/2012 21:53:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=atendente+fortaleza. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+02/10/2012 00:03:00
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+02/11/2012 14:01:04
+Error in: http://www.jobclick.com.br/comercial/slide001.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/slide001.aspx. Mensagem de erro: The file '/comercial/slide001.aspx' does not exist.
+__________________________

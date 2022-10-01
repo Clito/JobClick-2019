@@ -1,0 +1,140 @@
+
+Log Entry : 
+11/08/2011 22:42:20
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The file '/App_Include/loginBanner.ascx' does not exist.
+__________________________
+
+Log Entry : 
+11/08/2011 22:44:09
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/08/2011 22:48:25
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/08/2011 22:48:43
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/08/2011 22:51:39
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/10/2011 07:53:51
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/10/2011 09:03:16
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=td0Hh8d84oM=&id=oH8TQBcmexY=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=td0Hh8d84oM=&id=oH8TQBcmexY=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/10/2011 09:11:04
+Error in: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/10/2011 09:19:27
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=fViQcTI8DOY=&id=uAHzjVdoWRI=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=fViQcTI8DOY=&id=uAHzjVdoWRI=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/10/2011 11:39:05
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002187-1. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002187-1. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/10/2011 14:19:18
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=qxXCbuh3UT4=&id=IP6//5pekjk=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=qxXCbuh3UT4=&id=IP6//5pekjk=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/10/2011 14:46:51
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001607-9. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001607-9. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/10/2011 22:05:49
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+11/10/2011 22:06:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+11/10/2011 22:23:28
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/11/2011 02:41:44
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/11/2011 02:42:09
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/11/2011 07:14:18
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 10:48:32
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 11:04:01
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/11/2011 11:45:00
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 11:45:11
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 11:45:34
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2011 12:11:06
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 12:35:32
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+11/11/2011 12:46:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/11/2011 14:49:14
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001004065-7. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001004065-7. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2011 15:42:39
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________

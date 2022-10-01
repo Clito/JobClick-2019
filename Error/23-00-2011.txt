@@ -1,0 +1,77 @@
+
+Log Entry : 
+23/09/2011 20:46:04
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+23/09/2011 20:49:48
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjI1tsTZ-owbhxGilelSHZzI-YeWKJuacctE0g2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjI1tsTZ-owbhxGilelSHZzI-YeWKJuacctE0g2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+23/11/2011 04:45:19
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003607-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003607-7. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+23/11/2011 08:36:10
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+23/11/2011 08:37:21
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+23/11/2011 08:38:11
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+23/11/2011 11:17:58
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+23/11/2011 11:27:51
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+23/11/2011 11:27:58
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+23/11/2011 16:01:47
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH4ZjT3ZThV3b660EORjAX8-d8Hblftext/javascript. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH4ZjT3ZThV3b660EORjAX8-d8Hblftext/javascript. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+23/11/2011 16:43:41
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHw            <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHw            <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+23/11/2011 17:00:56
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYT                       <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYT                       <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+23/11/2011 17:03:54
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFLinkNavFotoCandidato. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFLinkNavFotoCandidato. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+23/11/2011 17:06:57
+Error in: http://www.jobclick.com.br/ </td. Error Message:Erro na página: http://www.jobclick.com.br/ </td. Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (<).
+__________________________
+
+Log Entry : 
+23/11/2011 17:07:48
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqLinkPublicaVaga. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqLinkPublicaVaga. Mensagem de erro: This is an invalid script resource request.
+__________________________

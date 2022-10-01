@@ -1,0 +1,35 @@
+
+Log Entry : 
+20/01/2015 00:13:54
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+20/01/2015 06:13:41
+Error in: http://www.jobclick.com.br/my.aspx. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+20/01/2015 09:36:54
+Error in: http://www.jobclick.com.br/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/vagas.aspx. Mensagem de erro: O arquivo '/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+20/02/2015 10:00:07
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=op&limit=150&timestamp=1424433525427. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=op&limit=150&timestamp=1424433525427. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+20/02/2015 10:01:06
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+20/02/2015 10:06:59
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+20/02/2015 21:21:23
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2015458E%25247f2240003571551-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2015458E%25247f2240003571551-0. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

@@ -1,0 +1,30 @@
+
+Log Entry : 
+05/01/2015 11:53:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=40077. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=40077. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+05/01/2015 17:46:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20145197E00014811-NF. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20145197E00014811-NF. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+05/02/2015 11:01:36
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+05/02/2015 16:41:32
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+05/02/2015 16:55:59
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+05/02/2015 17:32:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157950E%25240f2240003074715-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157950E%25240f2240003074715-5. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

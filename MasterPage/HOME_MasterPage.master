@@ -1,0 +1,97 @@
+﻿<%@ Master Language="VB" CodeFile="HOME_MasterPage.master.vb" Inherits="MasterPage_HOME_MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="HeadJobClick" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <title><%=Application("Title")%></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../App_Themes/jobclick/jobclick.css" rel="stylesheet" 
+        type="text/css" />
+    <style type="text/css">
+        .style1
+        {
+            width: 30%;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+<asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>    
+    <div>
+        <table width="960px" cellpadding="0" cellspacing="0" align="center">
+            <tr>
+                <td width="253px">
+                    <asp:ImageButton ID="ImageLogo" runat="server" 
+                        ImageUrl="~/image_site/logoHome.gif" PostBackUrl="~/Default.aspx" 
+                        meta:resourcekey="ImageLogoResource1" CausesValidation="False" />
+                </td>
+                <td width="707px" align="left">
+                    <asp:HyperLink ID="HyperLinkHome" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>&nbsp;|
+                    <asp:HyperLink ID="HyperLinkHome0" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink>&nbsp;|
+                    <asp:HyperLink ID="HyperLinkHome1" runat="server" 
+                        NavigateUrl="~/quemsomos.aspx">Quem somos</asp:HyperLink>&nbsp;|
+                    <asp:HyperLink ID="HyperLinkHome2" runat="server" NavigateUrl="~/politica.aspx">Política 
+                    de Privacidade</asp:HyperLink>&nbsp;|
+                    <asp:HyperLink ID="HyperLink1" runat="server" 
+                        NavigateUrl="~/_anonimo/vagas.aspx">Oportunidades de emprego</asp:HyperLink>
+                </td>
+            </tr>
+        </table>
+        <table width="100%" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                    <asp:Image ID="ImageLinha" runat="server" 
+                        ImageUrl="~/image_site/linha960.png" 
+                        meta:resourcekey="ImageLinhaResource1" />
+                </td>
+            </tr>
+        </table>
+        <br />
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+        <table width="100%" cellpadding="0" cellspacing="0">
+        <tr>
+            <td>
+        <asp:Image ID="ImageLinhaBase" runat="server" ImageUrl="~/image_site/linha960.png" 
+                    ImageAlign="Middle" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table id="NavBase" align="center" cellpadding="10" cellspacing="0" 
+                    width="100%">
+                    <tr>
+                        <td align="right" class="style1">
+                            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/jobclick.gif" />
+                        </td>
+                        <td align="left">
+                <asp:Label ID="Label1" runat="server" meta:resourcekey="Label1Resource1" 
+                    
+                    Text="by © &lt;b&gt;Cheyenne Estúdio Multimídia Ltda.&lt;/b&gt; - São Paulo - BRASIL"></asp:Label>
+                            <br />
+                            <br />
+                Rua Vergueiro, 1421 - CEP: 04101-000 
+                            <br />
+                            Conjunto 213 - Torre Sul -
+                São Paulo - SP<br />
+                <br />
+                                            Fones: 55-11-2385-9532 | 55-11-2385-9559 | 55-11-7976-6339</td>
+                    </tr>
+                </table>
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+                <br />
+            </td>
+        </tr>
+    </table>        
+    </div>
+    </form>
+    <%=Application("google")%>
+</body>
+</html>

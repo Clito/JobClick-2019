@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wizard>
+  <Menu Description="Home" title="Home" url="/_parceiro/Default.aspx">
+    <SubMenu Description="Logout (Sair)" title="Logout (Sair)" url="/logout.aspx" />
+  </Menu>
+  <Menu Description="Clientes" title="Seus Clientes" url="/_parceiro/_infoCliente.aspx?autoTit=Informações sobre os seus Clientes cadastrados e de sua Empresa">
+    <SubMenu Description="Incluir novo Cliente" title="Incluir novo Cliente" url="/_parceiro/_cadastroCliente.aspx?autoTit=Cadastro de novo Cliente"></SubMenu>
+    <SubMenu Description="Atualiza dados do Cliente" title="Atualiza dados do Cliente" url="/_parceiro/_atualizacadastroCliente.aspx?autoTit=Atualiza informações dos seus Clientes" />
+  </Menu>
+  <Menu Description="Vagas" title="Vagas" url="/_parceiro/_vagapublica.aspx?autoTit=Publicação de Vagas Gratuitas">
+    <SubMenu Description="Vagas" title="Cadastro de Vagas" url="/_parceiro/_vagapublica.aspx?autoTit=Publicação de Vagas Gratuitas"></SubMenu>
+    <SubMenu Description="VagasBulk" title="Cadastro de Vagas em Lote" url="/_parceiro/_vagapublica_bulk.aspx?autoTit=Publicação de Vagas em lote Gratuitas"></SubMenu>
+	  <SubMenu Description="Candidaturas" title="Candidaturas vindas do site" url="/_parceiro/_candidatura.aspx?autoTit=Candidaturas vindas do site"></SubMenu>
+  </Menu>
+  <Menu Description="Pesquisa na Base" title="Pesquisa na Base" url="/_parceiro/pesquisacvbase.aspx?autoTit=Pesquisa na Base">
+    <SubMenu Description="Pesquisa na Base" title="Pesquisa na Base" url="/_parceiro/pesquisacvbase.aspx?autoTit=Pesquisa na Base"></SubMenu>
+    <SubMenu Description="Pesquisa para Mailing" title="Pesquisa para Mailing" url="/_parceiro/pesquisacvbaseMailing.aspx?autoTit=Pesquisa para Mailing"></SubMenu>
+  </Menu>
+  <Menu Description="Relatorios" title="Relatorios" url="/_parceiro/REL_Candidato.aspx?autoTit=Relatório de Candidatos">
+    <SubMenu Description="Candidatos" title="Candidatos" url="/_parceiro/REL_Candidato.aspx?autoTit=Relatório de Candidatos"></SubMenu>
+    <SubMenu Description="Candidaturas" title="Candidaturas" url="/_parceiro/REL_Candidatura.aspx?autoTit=Relatório de Candidaturas"></SubMenu>
+    <SubMenu Description="Clientes" title="Clientes" url="/_parceiro/REL_Empresa.aspx?autoTit=Relatório de Clientes"></SubMenu>
+  </Menu>
+</Wizard>

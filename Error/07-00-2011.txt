@@ -1,0 +1,381 @@
+
+Log Entry : 
+07/09/2011 06:00:08
+Error in: http://cammaleon.com.br/_anonimo/errojs.aspx. Error Message:Erro na página: http://cammaleon.com.br/_anonimo/errojs.aspx. Mensagem de erro: The file '/_anonimo/errojs.aspx' does not exist.
+__________________________
+
+Log Entry : 
+07/10/2011 08:52:40
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/10/2011 10:39:20
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=RDYx82Kiq9s=&id=jubPZY7tn7A=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=RDYx82Kiq9s=&id=jubPZY7tn7A=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/10/2011 13:19:41
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/10/2011 13:49:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ239;'). Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ239;'). Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/10/2011 15:01:35
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+07/10/2011 15:11:31
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+07/10/2011 15:25:35
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000839-9. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000839-9. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+07/10/2011 15:37:51
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+07/10/2011 16:44:38
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIU   </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIU   </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+07/10/2011 16:47:10
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+07/10/2011 16:56:11
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=cA5jCAI84vY=&id=5lyaBT5tnGM=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=cA5jCAI84vY=&id=5lyaBT5tnGM=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/10/2011 17:16:34
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNtI9Jyk5QeDIb5h4UZn10iQC62smSwwr3xFdUBrY8x7YfxeVxoG1k4vJQqfj15jSqSghuAvTRHfLQBRK1fkTJUP   <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNtI9Jyk5QeDIb5h4UZn10iQC62smSwwr3xFdUBrY8x7YfxeVxoG1k4vJQqfj15jSqSghuAvTRHfLQBRK1fkTJUP   <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/10/2011 17:24:10
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFd',''). Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFd',''). Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/10/2011 17:42:17
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000791-2. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000791-2. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+07/10/2011 18:23:32
+Error in: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+07/10/2011 21:30:34
+Error in: http://www.jobclick.com.br/_candidato/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cadastro.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 186.198.126.187
+	Port: 49461
+	Referer: http://www.jobclick.com.br/_candidato/cadastro.aspx
+	Path: /_candidato/cadastro.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2; Tablet PC 2.0)
+	ViewState: vdrCp4HUZh7vFjjmrA3s/ZXhqxRDbG2tgVS/u9ZbprxnpI77YEKIZzDB1CMyyEzGpfflduV+Fc5NrIYZ3pNsePZ/kkb4E8H6vN+j2fAvKYZnZJ0QQ6UXDZ/zhN9LkbBA2qrfx78CBht54QzO+a7UaH4rC9g6Spn6OftaXE4gzE7XB0IYDgNYZwl2+rK+DQeA6lkUX5hEcO27Yiv8+MSqzjRD55vxmPQoSJhPh77+yMJ8jdlGt1gqlkiIWlFv2xRDkCmq9QkxLX8rIRYxl8ZANMdy83tXfFtgmnOB5AZZ4GnjxEdCKQI1BaRK2GHP3trY+KkXrEpZjIcoPq33f/c+cgB0Hkamo+RvmfWbA9xEApXoJXPoKZdofQHePWnJ5U8bK43b0lTJefwA65YB2NgkrqGW8+KOtXEVQ3Uq0A/YGQTJRs/RVtDl1n87eqxP37o4lyNbCKr3VnEw+O4dISu3HcTFRJmokSMdVAwuxJePjXqzvgWRm4Cz/u2nmx/MxHW3gqGVF3lWpXyt4RxNlV8SCPZTn3WOQfhtX+Ka9ijUCzUGwxDRWnqzOt2XLI4QiSuG+gABS86V0P/SSpBSFwdUu0T+Qr7Hs0FOP62nKslC7CObkUrQLHrvitKN7QOernBX5f+3rahVJxeJUEpSS6zMRUYwsEP9Pp2yE6...
+__________________________
+
+Log Entry : 
+07/10/2011 21:31:00
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/10/2011 22:28:49
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=ADl+rjDE95M=&id=voB6tIn4RFw=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=ADl+rjDE95M=&id=voB6tIn4RFw=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/10/2011 22:42:25
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/10/2011 22:44:30
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/10/2011 22:51:09
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/10/2011 22:52:14
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/10/2011 22:58:43
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/10/2011 23:06:30
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=dUkE5sHcTmw=&id=+QMCvMsOvZM=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=dUkE5sHcTmw=&id=+QMCvMsOvZM=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/11/2011 10:33:43
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2011/001002193-9. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2011/001002193-9. Mensagem de erro: The file '/anonimo/vagas.aspx' does not exist.
+__________________________
+
+Log Entry : 
+07/11/2011 11:55:33
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011P/001003712-5. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011P/001003712-5. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+07/11/2011 14:21:16
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 129.222.79.136
+	Port: 4510
+	Referer: http://www.jobclick.com.br/_candidato/conhecimento.aspx
+	Path: /_candidato/conhecimento.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.2; MS-RTC LM 8; AskTB5.6)
+	ViewState: Y4b6K6l24WDqqIHno9aAZLoarwNBS6jE0Z7dMfP2ss3aHZ7iiYNNiT6+2Iddz17fKN4sLIVnrHMBk+RqHfJxT+Z3W+Cf7Vjlz05y0CJzn/GcNz1AhQQzALSgvFdr0Tmint/4aH3LBeWbVvAoaRfnEaOiizYAIHL7AD6B8DJB07sG5Z+n+O/Nxyy4CdSXJIHuab1X/QLCFCgmWfTEZd1ldfuVreu0Sk7SukUhJuxmL6jZuOvaCVZTKvXHbESn9v947eTRsHL4jc7wzfe2xzIaL/Nwf1rW1akszmOF3Xs1pwRjUuFPJTI4XKwa5CHgNbinjka9037ZZzff6mxBnVNA2AFBD2NDIeDt0ATzhTJgX7c5u0Q7CIwfiFV7S/qnxSLYZnMkj4rVjTn8FQaMvj8cPDIgVESH6RBQLY+TSTlpSCGfw8EN4Nmp65gXlqIrbr2tp8H216hUX3D7f0ubibavJX9Pe17OKislaqVg9UtkorQdsDcWonEHbd/YV3As0UPX14+PXijueuHfZIUgqNdEtiQkT9OJmFeDXheEf09VaodqCgWIWOI6oDxbxslendgCVTnd2E4PtNyOgRagwtpDdXY4PAeL47wYAiX0sRKVq4D8nKc5MYfDOJrK6MhO4kOIGb5PylrtU6TYte3OkxVg0An7UaySA1N71rDJKQzmcp3S...
+__________________________
+
+Log Entry : 
+07/11/2011 15:23:04
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/11/2011 15:23:54
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4fffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4fffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/11/2011 15:26:07
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/11/2011 15:27:17
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8Pef=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8Pef=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/11/2011 15:34:40
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+07/11/2011 20:05:27
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/11/2011 20:06:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/11/2011 20:07:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Mensagem de erro: Invalid viewstate. 
+	Client IP: 186.214.232.191
+	Port: 54706
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+	ViewState: ncqZK2TA0upIBxprUx+CuIRe3XCel11eQZDYKjhgtNhylo8y8Xmzyl8/d/DSuRkEqkbRtftz0puft+dhBlBXaK0PIHs4+4xQXptESCLDdYz/c1gkx6BXGgXP
+__________________________
+
+Log Entry : 
+07/11/2011 20:10:07
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador. Mensagem de erro: Invalid viewstate. 
+	Client IP: 186.214.232.191
+	Port: 56672
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=salvador
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1
+	ViewState: ncqZK2TA0upIBxprUx+CuIRe3XCel11eQZDYKjhgtNhylo8y8Xmzyl8/d/DSuRkEqkbRtftz0puft+dhBlBXaK0PIHs4+4xQXptESCLDdYz/c1gkx6BXGgXPh1ZLsOaJF22o6DX6ufVp97pnMhUi3ejP744YBtUTe7eIUuUZnIufk629jlN+2SDxZDlV3hEPcR/+JQ8dkgKVnuA0rVFqnfBBE7BN1kUpsv0JC3iEZu7hJK8HNzL5nr8bBY/gbhv0SdXz3LMgoe8DD0dKgzR2BcCmPMk9KpMM7aAfeoaryf0GgOZqOM25I/yGNOIaOhTHuOo64aou/0DlV0tJ9FpMEJJyMAlG84t+0mHzYwQF6NuS1SS65ao/7DVeGsgI1ySKoLz4O2AH6Ju0uXSBA8n/pp+yOcCI7+R3i1pwIG3m8Mt/au5/0qnJ0a8qkRQhoEzmQsp+Q3aNygQZB72xrM+G8dfRNuNlYZJHHif4+X+Lj7WqT95E
+__________________________
+
+Log Entry : 
+07/11/2011 21:57:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=iamp;t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=iamp;t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+07/11/2011 21:57:38
+Error in: http://www.jobclick.com.br/WebResource.axd?d=VkPLBSMybqhouDTl4dPzog-cKm_Y9c5lhl_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. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=VkPLBSMybqhouDTl4dPzog-cKm_Y9c5lhl_xltHOXM8eTaASTfe67JkmViJzfAq3TjKQFAsLSkKEPAve/vtEBArO9te8PAqvpj5QMAq7FyfYBArLDs+UCApjc8b8PAu+ol+YFApvQ/Z0IApjU8dkPArGZjUYC7fWV2QYCqoaz1gcCypTgtgICkdOQpAIC1YLmtAoCl+yI/QICsv+M1A0Cx82t4QgCyeuk9AUCpMGCqQYC3rP6oAIC+5GWyQsCxN6vowUC8vPbhwsC7YP7mAkCuavoqw4C7qOulw8CnrzNsAcCxsaL/QgCgoqW+QQCstexqQMC3uCIwgEC3e6P3QECgfzmrAgCgNfJngYCscGs4QgCzZL6lwgChJrS5QgCqfmtxQwC3fyR9wgC4bSbwgIC0oO//wsCne/z9goC0tXQugMC/9qvvQECqdWQqQUChJL44wIC9JOFoAUC3tGorgICtv+RrwwCx/GE0QUCisPZ8wsCyYaQhAYCgcPFhggC0Orv1A8CquiDiw4C0svpuAwCwq2rug8CqonDoQoCu5mPmQYCy/LYqQoCxbLL+QkC9pzvuQUC8uOH4wcC7fqFgw4CmN7tzwsCxIDOpQ4CjcDfjA8ClO+9KQKuj//xAQLFpbTUCQKDs8KBDAL/utKBBAKS6OifCgLPz53fBAKcrZ/xDgLkyNDIDAKT/KfOCwLulbStAgLDh4LYBwKm7rDABQKeuOWpAQLm8fvBCwLHqp+rDQLTw8E2AoP+sJQEApOD98EIAoeqkvkIApfW0nwCt+Lo7AQC4s/X0gICu/G/yQYCxJ/8jwUCuYLtoQEC9Z/gpwMCuIqT8QcCz6fNiQsCsa3z5AYChfXW4w4C+KPv5gECi6rzng4Cv/Hg0AUCv/Hg/AUCrY7C/QsC9JSBbgKl8bwrAs//2+QPAs2b9PIBAt2yte8MAsXamY0GApLMhcEIAqbOre4KAoW42cQLArzD2d0CAo2546EKAs6zxZkEAv+vwa8DAs7D2KAKAsi22M0KAsqEj4oPAqDCr4AFAszU9vsHAqD32BECp4iQpwUCkJWArQIC45OFjwEC/saIqAcCwcG91g0CpNOLvwgCmtjNmg8CsPP8rwQCrOq8jgUCt6O3nQECz+/0vA8CpdqJqwQChvOkog4CsdqXoQYCisiT/QoCvYmbqQUC8f/40wMCsr+jyQUCxc+K4g0C/8TbzQcC3fvBngcC06TtrAsCqavenw0Chvyk4QgCoYL69wQCqsXpvAcCu7j6tQYCluX50QwC2p32tAQCkevDtAUChuW2hwQC58Galg0C1+HDnwQC1Lm5jAECiNv16g4C6YOysA0CgP2VogkCw52x+AYCr6Dt0wICrvjq4AQCuO6D8gYC5/6QogQCy4WQqQoCmvrMqAQC2Mv8lAwC5fWRwgwC/c7k4gMCmeukywsCzo7bkw4Coq2VqgQC9cWLkQwCrKi+1wIC5czktg0C1bbXkAgCq3oCn4uapg8C2cDJ9gEC74Dv4wECnMCNkA0CrpPZug0CgvLInAYCtovO+QIClPLE+w4CxoSygwQCjrWhyQwC76r88QoC1Iil5QoCy8Th8ggCgb3+mQYC36GxkgQCkMrQ4A0CgOeP3QECt7W3tw0C972vzwUCnM/myAgC37aajQMCoPXmsQgCuqyniwsCgYKt0gQCpKzHngcCqquCsQoC8ZHo1wQCkZzcyAMC0MyqtAkCgefx0A4Cs+61vAIC9+Whww4CgZ2b9gsC4LzKoAUCnqa3mQ4CuoesYwLik9uvDgKJitjbBgKWxs6YAwKn8tqcAwKds5T2BQLiopCbCAK81sDsAgKgotjVCgK3wIyLCgLSronBCwLoqfVyAo+UvN8NAtfb1OcIAvK3jOUCApjn07QDAvnBlqALAuvZ4o8IAp600rkPAsevzNgMAtXEucoNAv/L5K4BAqqDxu0MArSdqf8PAq3YvowIAuaUr4wJAsviiOQPAvDyq+QGAvijkSUC39ek+AcCt+r0tAwC0emN8gQC3dilxgsC09rM2wUCkIL04wkC0Lm74gcC2v694Q0CwOjlrw0CsN2b3Q0Cq8KciAUCooHK0AQC0t2DoAUCw5+8jw4C/b6D6QsCh9rioQUCl9+TzwoCys3jxA0C4fbMgggC5fjm9Q4Cm6OY9gYCzeGVzAcC14Xa4wQCoc6l/wQC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcC5/ibgwUCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQL9zfDeDQKNspqtDALmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAseVxsMJAoCBypYNAq7kibQMAp6M868FAqert/QDArjz4TICi4+0xAkC9fSIlAgC2ovr/g0Cv6LN6QMCsrn8yAcC3NCwpQUC2LPogAkCjqzViw4C/tPn/AsCtKykiQYCv+6PyQkC5qzM+gcC+azM+gcC6cPmlAsCleWCswEC7KjqtgICz4LeQALnjqGwAwLA2LelAwLvqf3DCQLo9LiWAiSDlqL1+aWXalk/IBCK86RngVtiVM/PKCqLSk5VPa9V. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+07/11/2011 22:22:02
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/11/2011 22:42:00
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+07/11/2011 23:03:25
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+07/12/2011 13:38:35
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(372): error BC30205: End of statement expected.
+__________________________
+
+Log Entry : 
+07/12/2011 13:38:56
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(372): error BC30205: End of statement expected.
+__________________________
+
+Log Entry : 
+07/12/2011 13:39:05
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(372): error BC30205: End of statement expected.
+__________________________
+
+Log Entry : 
+07/12/2011 14:15:09
+Error in: http://localhost:54181/_anonimo/vagas2.aspx?pesquisa=. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx?pesquisa=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/12/2011 14:15:17
+Error in: http://localhost:54181/_anonimo/vagas2.aspx?pesquisa=. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx?pesquisa=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+07/12/2011 14:18:48
+Error in: http://localhost:54181/_candidato/default.aspx. Error Message:Erro na página: http://localhost:54181/_candidato/default.aspx. Mensagem de erro: Type 'System.Web.UI.ScriptManager' does not have a public property named 'ServiceReference'.
+__________________________
+
+Log Entry : 
+07/12/2011 14:20:17
+Error in: http://localhost:54181/_candidato/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_candidato/vagas2.aspx. Mensagem de erro: The file '/_candidato/vagas2.aspx' does not exist.
+__________________________
+
+Log Entry : 
+07/12/2011 15:07:25
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(427): error BC30456: 'LinkButtonPub_Click' is not a member of 'ASP._anonimo_vagas2_aspx'.
+__________________________
+
+Log Entry : 
+07/12/2011 15:08:15
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:08:33
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:08:40
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:09:00
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:09:19
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:09:32
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:09:51
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:09:52
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The server tag is not well formed.
+__________________________
+
+Log Entry : 
+07/12/2011 15:10:23
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(485): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._anonimo_vagas2_aspx'.
+__________________________
+
+Log Entry : 
+07/12/2011 15:11:15
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(485): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._anonimo_vagas2_aspx'.
+__________________________
+
+Log Entry : 
+07/12/2011 15:11:40
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas2.aspx(485): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._anonimo_vagas2_aspx'.
+__________________________
+
+Log Entry : 
+07/12/2011 15:12:16
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The DataSourceID of 'GridView4' must be the ID of a control of type IDataSource.  A control with ID 'SqlUser' could not be found.
+__________________________
+
+Log Entry : 
+07/12/2011 15:13:37
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The DataSourceID of 'FormView1' must be the ID of a control of type IDataSource.  A control with ID 'SqlVinculo' could not be found.
+__________________________
+
+Log Entry : 
+07/12/2011 15:15:04
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: A call to Bind must be assigned to a property of a control inside a template.
+__________________________
+
+Log Entry : 
+07/12/2011 15:22:13
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The TargetControlID of 'candidatarsePanel_DragPanelExtender' is not valid. A control with ID 'candidatarsePanel' could not be found.
+__________________________
+
+Log Entry : 
+07/12/2011 16:15:54
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: The file '/_anonimo/vagas2.aspx.vb' does not exist.
+__________________________
+
+Log Entry : 
+07/12/2011 16:21:23
+Error in: http://localhost:54181/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas2.aspx. Mensagem de erro: The file '/_anonimo/vagas2.aspx' does not exist.
+__________________________
+
+Log Entry : 
+07/12/2011 16:48:10
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011/004000062-2. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011/004000062-2. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas.aspx(380): error BC30201: Expression expected.
+__________________________
+
+Log Entry : 
+07/12/2011 16:49:58
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas.aspx(380): error BC30201: Expression expected.
+__________________________
+
+Log Entry : 
+07/12/2011 16:50:00
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\vagas.aspx(380): error BC30201: Expression expected.
+__________________________
+
+Log Entry : 
+07/12/2011 16:54:15
+Error in: http://localhost:54181/_anon/vagas.aspx?pesquisa=2011/004000062-2. Error Message:Erro na página: http://localhost:54181/_anon/vagas.aspx?pesquisa=2011/004000062-2. Mensagem de erro: The file '/_anon/vagas.aspx' does not exist.
+__________________________

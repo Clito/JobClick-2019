@@ -1,0 +1,680 @@
+
+Log Entry : 
+13/08/2011 14:17:59
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+13/09/2011 14:38:44
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019n;'). Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019n;'). Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/09/2011 14:46:59
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8Fihref=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8Fihref=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/09/2011 20:08:40
+Error in: http://localhost/EOWebDemo_CS/Default.aspx. Error Message:Erro na página: http://localhost/EOWebDemo_CS/Default.aspx. Mensagem de erro: The file '/EOWebDemo_CS/Default.aspx' does not exist.
+__________________________
+
+Log Entry : 
+13/09/2011 20:08:46
+Error in: http://localhost/EOWebDemo_CS/Default.aspx. Error Message:Erro na página: http://localhost/EOWebDemo_CS/Default.aspx. Mensagem de erro: The file '/EOWebDemo_CS/Default.aspx' does not exist.
+__________________________
+
+Log Entry : 
+13/10/2011 01:17:41
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=EqFYAtfHA1o=&id=xHrm31xayoQ=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=EqFYAtfHA1o=&id=xHrm31xayoQ=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 09:00:03
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 09:06:24
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 09:12:13
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 09:13:40
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 09:28:54
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.93.148.184
+	Port: 49786
+	Referer: http://www.jobclick.com.br/_candidato/
+	Path: /_candidato/default.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; BRI/2; MASM)
+	ViewState: BBEKfiK50uHYfJjk6nC16U+kgyks0A4AO3W7aRwgcCnaRVTD3a90TEVsEE703MI78ngUMh88Z7BoaEwOh7cfL7D0oIJH7oXeGHQrNr2OUYaKigzAmgBiO1whV8VRUp6yC6f/uw5XNGBQx8U4xsOs2S9CnZ0aetjyM62l8zIWjNU5z5FP4y1xbh6mP/RhUuA3pRI9gGQAeuEIXGvv5pYNbVxbOt3gaeedLGM21t08n7FWyZgZMb7QZ0F9vBoSYqFHYPavadWqCNmn+xpU87eQV48mVLbn+efo1Dv145uyOdOpbcJ8PtE7nh7fdrUxZRMTptdyMlAcwOea0OKqJw88Y8+zQl6KfFQgRbOI9fzseuzJdBHysLX+6PnsGlpi6Rkt9/kaKQHhuIUpXL4oPTzwy7CTjYkymQhNiVP8IirpG7dSug5BmXOe+BioYM/4wM0FPNN1P8CBLeWyRzMwB3b9O0iRGRbo6Ro7fbzmou6Zs8w1U02DRuKXoDQ7S2hN4zVFc451sGG8yqmmfkrBNZIG62+glYvdE9tf6REm0ocx7WojYccZEtoDEhODcqC9q5RcPFAt58fznUEZUTNpx/6JN7Vo0tSwmpO5+ViMOZnMehQvQ7RhGSOn+XdKoVOCyN9NBJyTtKGO+6lr0/JKUEGXPPu2BjPYOga4YKe3CRYhAbTHXC6e1yw+3u+LUIUe7mh3IJ3gaItQIgh74aIKapxV...
+__________________________
+
+Log Entry : 
+13/10/2011 10:32:18
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 10:36:45
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=vwfDr05Ag8E=&id=7+WfLQdXemY=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=vwfDr05Ag8E=&id=7+WfLQdXemY=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 10:39:24
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=vwfDr05Ag8E=&id=7+WfLQdXemY=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=vwfDr05Ag8E=&id=7+WfLQdXemY=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 11:21:16
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/10/2011 11:57:38
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQlj                   <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQlj                   <td>                        <input type=. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+13/10/2011 12:31:54
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=niJ0X3PUDnY=&id=VcIacBBUNTA=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=niJ0X3PUDnY=&id=VcIacBBUNTA=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 12:50:10
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002245-7. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002245-7. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+13/10/2011 13:05:17
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=niJ0X3PUDnY=&id=VcIacBBUNTA=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=niJ0X3PUDnY=&id=VcIacBBUNTA=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 14:01:39
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFt      <td>                         </td>                    <td>                         </td>                    <td align=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFt      <td>                         </td>                    <td>                         </td>                    <td align=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/10/2011 14:02:28
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFdp2Rr3YE5dD0qM2gF5NZHDQKeYBgyA87jZUdUSY0hcpgA15NJCJ5NB1ojYwVL8Ro65IF8S1OnNTjI                    <td align=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFdp2Rr3YE5dD0qM2gF5NZHDQKeYBgyA87jZUdUSY0hcpgA15NJCJ5NB1ojYwVL8Ro65IF8S1OnNTjI                    <td align=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/10/2011 14:02:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6Hzqf  <td>                         </td>                    <td>                         </td>                    <td align=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6Hzqf  <td>                         </td>                    <td>                         </td>                    <td align=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/10/2011 15:51:12
+Error in: http://www.jobclick.com.br/webresource.axd?d=ojh1o29ehpvvpobcbdqz5lxrm3vm_tysoyvqfz7u27wfhhl1pzb5hblnje7r_kbhci4r22rw93nruyfrwmyxpiuiol0q8pygjnylqljvxjy1&t=634517755915150000. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=ojh1o29ehpvvpobcbdqz5lxrm3vm_tysoyvqfz7u27wfhhl1pzb5hblnje7r_kbhci4r22rw93nruyfrwmyxpiuiol0q8pygjnylqljvxjy1&t=634517755915150000. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+13/10/2011 15:51:12
+Error in: http://www.jobclick.com.br/webresource.axd?d=vkplbsmybqhoudtl4dpzog-ckm_y9c5lhl_xlthoxm8etaastfe67jkmvijzfdhypbbpepupsnhkoaco5bsr6lwhojeprxe3jl2aordvlyu1&t=634517755915150000. Error Message:The process cannot access the file 'C:\inetpub\wwwroot_jobclick\Error\13-00-2011.txt' because it is being used by another process.
+__________________________
+
+Log Entry : 
+13/10/2011 17:11:58
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001999-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001999-0. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.63.233.139
+	Port: 49646
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011%2f001001999-0
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; MANM)
+	ViewState: ZShVb9w3bzGBXIBZ0L8FwZJ69dAAnvfFT1vfRtwreVNrXmGqN9Yp+udKRaHHGvgfanhL2p+6Xdi61IET9SgrFY9qZIss/OOUcl6E/4GBLNUpQGG9FaUBvbX3g637qH55x0xMdSwV4Nn+8X2lW9Md0EakpklofFooZXlyT1d/CBUyXyiXmAv79loKHSzgQnh7cPbrDTOd51aRtR0LqM7adjJm23xnxAQNL9A9OtakkIuBnY/VVmnMdeF9vE8er+xzCP6qF90m8rxa4yiXzBN++9Azn1xgnHYWiFhSQtOQtT5O8XRLMdoTh17vQz46mqcJgy/svmgWJB/on0B23vbvCWK06eSHr4qSlJoc8tzGjLpzv8KH/kd1W3qYITW946cUa4xcPEgZUT29z7DP0oQyRW4OAhSOS/7/zU0Kv8XvUkYBjjXqGiHX9ewgJ9KLfmEaARRC5zrFznVBfQzC/O8sWH89VQHw/ZexetrIXrBVJrCFUzUQLw/18sAHwRcHgiLmFRa5zUg8tSsQ65+6DkIDprDp0sbzLyeXWThJqnV7NU0/96fjytP5LJX85J2pSGFdbEVg0pYX8nCOwqx5ltGeAnZP33h17tCLWIiUE9q/Ujq8ZHiy40aEKBjqEjiqSIYqo3ZD3JR0ZCuqrWxbXxD63IzgD/lz/hl1QczHStNnUV+eZ/+ELho3SzWqMyB...
+__________________________
+
+Log Entry : 
+13/10/2011 17:43:09
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+13/10/2011 17:43:38
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=bXmBYsUsyXg=&id=L4csKYUcsxA=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=bXmBYsUsyXg=&id=L4csKYUcsxA=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/10/2011 17:55:50
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+13/10/2011 20:16:19
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/10/2011 20:17:09
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/10/2011 21:20:10
+Error in: http://cammaleon.com.br/_acesso.aspx. Error Message:Erro na página: http://cammaleon.com.br/_acesso.aspx. Mensagem de erro: The file '/_acesso.aspx' does not exist.
+__________________________
+
+Log Entry : 
+13/11/2011 02:39:59
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/11/2011 20:52:50
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w0KcMxEJZd2PQqyNAuK1Tu1WoeeMOdOoDehgV9DG9NIPBIVRh-vNpNlVb-JedL3ftnEator2. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w0KcMxEJZd2PQqyNAuK1Tu1WoeeMOdOoDehgV9DG9NIPBIVRh-vNpNlVb-JedL3ftnEator2. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+13/11/2011 23:41:35
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.30.103.236
+	Port: 1174
+	Referer: http://www.jobclick.com.br/_candidato/formacao.aspx
+	Path: /_candidato/formacao.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1;  Embedded Web Browser from: http://bsalsa.com/; .NET CLR 2.0.50727; InfoPath.2)
+	ViewState: Qi+5mBLf++Gqpq4fvv7iNB/DiNJ8WriTjoomDLNxZGjWlrR5XnhHSIHTiLVtP0hisN12NmG4lM2Xl3tBmFQ0b02nNGhoABXo1diNHDtmtebXZz5VRYF0Dposkym8IXT+gGw29zh/bKITcnkmZaRhdNx2
+__________________________
+
+Log Entry : 
+13/12/2011 13:26:50
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: Cannot open database "jobclickdb" requested by the login. The login failed.
+Login failed for user 'sa'.
+__________________________
+
+Log Entry : 
+13/12/2011 13:26:54
+Error in: http://localhost:54181/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Cannot open database "jobclickdb" requested by the login. The login failed.
+Login failed for user 'sa'.
+__________________________
+
+Log Entry : 
+13/12/2011 14:00:53
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:00:53
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:00:53
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:11
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:12
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:12
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:30
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:31
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:31
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:44
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:44
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:01:44
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:12
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:13
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:14
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:19
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:19
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:19
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:45
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:46
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:02:46
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:04
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:04
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:04
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:06
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:06
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:07
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:07
+Error in: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/EnviarEmailAmigo.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:08
+Error in: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/PesquisaVagaMais.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 14:03:08
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_byapiqiu, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 17:35:32
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/12/2011 17:35:48
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+13/12/2011 17:38:52
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Mensagem de erro: The Controls collection cannot be modified because the control contains code blocks (i.e. <% ... %>).
+__________________________
+
+Log Entry : 
+13/12/2011 17:39:32
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 17:40:29
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 17:45:17
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+13/12/2011 17:45:50
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011P/001001991-7. Mensagem de erro: The Controls collection cannot be modified because the control contains code blocks (i.e. <% ... %>).
+__________________________
+
+Log Entry : 
+13/12/2011 17:46:16
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 17:46:29
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: Unable to cast object of type 'System.String' to type 'System.Web.UI.Control'.
+__________________________
+
+Log Entry : 
+13/12/2011 17:47:57
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: Unable to cast object of type 'System.String' to type 'System.Web.UI.Control'.
+__________________________
+
+Log Entry : 
+13/12/2011 17:48:23
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: Unable to cast object of type 'System.String' to type 'System.Web.UI.Control'.
+__________________________
+
+Log Entry : 
+13/12/2011 17:48:27
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: Unable to cast object of type 'System.String' to type 'System.Web.UI.Control'.
+__________________________
+
+Log Entry : 
+13/12/2011 17:48:43
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:41:47
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\MasterPageJobClick.master.vb(57): error BC30469: Reference to a non-shared member requires an object reference.
+__________________________
+
+Log Entry : 
+13/12/2011 18:43:32
+Error in: http://localhost:54181/_anonimo/vagas.aspx. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx. Mensagem de erro: The Controls collection cannot be modified because the control contains code blocks (i.e. <% ... %>).
+__________________________
+
+Log Entry : 
+13/12/2011 18:44:28
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:45:42
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:45:57
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:46:11
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:48:44
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:50:13
+Error in: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011/004000078-8. Error Message:Erro na página: http://localhost:54181/_anonimo/vagas.aspx?pesquisa=2011/004000078-8. Mensagem de erro: C:\inetpub\wwwroot_jobclick\MasterPageJobClick.master.vb(11): error BC30590: Event 'PreInit' cannot be found.
+__________________________
+
+Log Entry : 
+13/12/2011 18:50:51
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:51:21
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:52:11
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:53:14
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:58:03
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 18:59:05
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:01:11
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:01:50
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:02:43
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:04:09
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:04:23
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:06:16
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:06:25
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:06:51
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:07:15
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:08:02
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:08:10
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:08:19
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:09:09
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:09:17
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:09:28
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:09:33
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:10:35
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:11:10
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:12:03
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:14:28
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:16:11
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:17:32
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:18:23
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:19:11
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:19:39
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:20:16
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:21:03
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:21:18
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:21:54
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:22:01
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:22:48
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:22:56
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:23:03
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:23:19
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:23:23
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:23:42
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:23:46
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:24:48
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________
+
+Log Entry : 
+13/12/2011 19:24:55
+Error in: http://localhost:54181/Candidatar.svc/jsdebug. Error Message:Erro na página: http://localhost:54181/Candidatar.svc/jsdebug. Mensagem de erro: Could not load file or assembly 'App_Web_vtplntas, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. O sistema não pode encontrar o arquivo especificado.
+__________________________

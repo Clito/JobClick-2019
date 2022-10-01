@@ -1,0 +1,125 @@
+<%@ Master Language="VB" CodeFile="_OLD_DefaultPage.master.vb" Inherits="DefaultPage" %>
+<%@ Register Src="App_Include/userinfo.ascx" TagName="userinfo" TagPrefix="uc4" %>
+<%@ Register Src="App_Include/id.ascx" TagName="id" TagPrefix="uc3" %>
+<%@ Register Src="App_Include/lateral_anonimo.ascx" TagName="lateral_anonimoTop" TagPrefix="uc1" %>
+<%@ Register src="App_Include/loginBanner.ascx" tagname="loginBanner" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <title><%=Application("Title")%></title>
+    <script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <link id="candidato" runat="server" href="App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerHOME" runat="server" 
+        EnableScriptGlobalization="True"></asp:ScriptManager>
+    <div>
+        <table align="center" width="760px" cellpadding="0" cellspacing="0">
+              <tr>
+                <td><asp:Label ID="lblBemVindo" runat="server" Font-Bold="True" Text="Bem-Vindo ao JobClick"></asp:Label></td>
+              </tr>
+        </table>    
+        
+        <table align="center" cellpadding="0" cellspacing="0" width="760px">
+            <tr>
+                <td width="728px">                                        
+                        <table id="tabelaImagens" align="center" width="760px" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td height="1px"><asp:Image ID="Image2" runat="server" ImageUrl="~/images/layout/linha.gif" /></td>
+                            </tr>                              
+                            <tr>
+                                <td valign="baseline" width="760px" align="center">
+                                    <uc2:loginBanner ID="loginBanner1" runat="server" />
+                                </td>
+                            </tr> 
+                                     
+                        </table>                        
+                        </td>
+            </tr>
+        </table>
+        <table align="center" cellpadding="2" cellspacing="2" width="760px">
+                    <tr>
+                <td width="728px" valign="top">
+                    <uc1:lateral_anonimoTop ID="lateral_anonimo1" runat="server" />
+                        </td>
+            </tr>
+                    <tr>
+                <td width="728px" valign="top" align="center" bgcolor="#FEE4E7">
+                    <asp:DataList ID="DataListAviso" runat="server" BorderStyle="None" 
+                        DataSourceID="SqlAviso">
+                        <ItemTemplate>
+                            <asp:Label ID="dsMensagemLabel" runat="server" Font-Bold="True" 
+                                ForeColor="#333333" Text='<%# Eval("dsMensagem") %>' />
+                        </ItemTemplate>
+                    </asp:DataList>
+                        </td>
+            </tr>
+            <tr>
+                <td width="760px" valign="top">
+        <asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+
+        </asp:contentplaceholder>
+                </td>
+            </tr>
+        </table>
+        <br />
+        <table id="rp" align="center" width="760px" cellspacing="0" cellpadding="0">
+            <tr>
+                <td><asp:Image ID="Image4" runat="server" ImageUrl="~/images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="top" width="760px" align="center">
+                    <table align="left" width="760px">
+                        <tr>
+                            <td align="left" valign="top">
+                                <table cellpadding="0" cellspacing="0" width="100%">
+                                    <tr>
+                                        <td valign="top">
+                                            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" />&nbsp;&nbsp;
+                                        </td>
+                                        <td>
+                                            <asp:HyperLink ID="HyperLinkHome" runat="server" NavigateUrl="~/Default.aspx">Home</asp:HyperLink>
+                                            |
+                                            <asp:HyperLink ID="FAQ" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink> | <asp:HyperLink ID="QS" runat="server" NavigateUrl="~/quemsomos.aspx">Quem Somos</asp:HyperLink> | <asp:HyperLink ID="PP" runat="server" NavigateUrl="~/politica.aspx">Política de Privacidade</asp:HyperLink>
+                                            |
+                                            <asp:HyperLink ID="HyperLinkVagas" runat="server" 
+                                                NavigateUrl="~/_anonimo/vagas.aspx">Oportunidade de emprego </asp:HyperLink>
+                                            <br />by © 
+                                            Cheyenne Estúdio Multimídia Ltda. - São Paulo - BRASIL<br />
+                                            <br />
+                                            Rua Vergueiro, 1421 
+                                            <br />
+                                            CEP: 04101-000 - São Paulo - SP<br />
+                                            Conjunto 213 - Torre Sul<br />
+                                            <br />
+                                            Fones: 55-11-2385-9532 | 
+                                            55-11-2385-9559 | 55-11-7976-6339</td>
+                                        <td align="center" valign="top">
+                                            <br />
+                                            <a href="http://www.twitter.com/_JobClick">
+                <img src="http://twitter-badges.s3.amazonaws.com/twitter-a.png" 
+                    alt="Follow _JobClick on Twitter" border="0"/></a></td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                               
+        </table>
+        
+        
+    </div>
+    <%=Application("google")%>
+    <asp:SqlDataSource ID="SqlAviso" runat="server" 
+        ConnectionString="<%$ ConnectionStrings:jobclickDB %>" 
+        SelectCommand="spAvisoSelect" SelectCommandType="StoredProcedure">
+    </asp:SqlDataSource>
+</form>
+    </body>
+</html>

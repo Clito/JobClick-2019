@@ -1,0 +1,40 @@
+<%@ Master Language="VB" CodeFile="AdminPage.master.vb" Inherits="_admin_AdminPage" %>
+<%@ Register Src="../App_Include/lateral_admin.ascx" TagName="lateral_admin" TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title><%=Application("Title")%></title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+    <link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        &nbsp;<br />
+        <table class="tableAdm">
+            <tr>
+                <td class="tableAdmInt"><uc1:lateral_admin ID="Lateral_admin1" runat="server" /></td>
+                <td class="tableAdmIntTD">
+                    <asp:Image ID="Image1" runat="server" ImageUrl="~/images/admin/pp.gif" /><br />
+    
+    <table width="570px" cellpadding="0" cellspacing="0">
+        <tr>
+            <td width="26" style="height: 20px">
+                <asp:Image ID="lateral" runat="server" ImageUrl="~/images/h26.gif" /></td>
+            <td width="544" style="height: 20px">
+                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+        </td> 
+        </tr>
+    </table>                     
+        </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+    <%=Application("google")%>      
+</body>
+</html>

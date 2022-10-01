@@ -1,0 +1,5 @@
+
+Log Entry : 
+29/05/2018 10:57:19
+Error in: http://localhost:62692/wwwroot_jobclick_portal/Default.aspx. Error Message:Erro na página: http://localhost:62692/wwwroot_jobclick_portal/Default.aspx. Mensagem de erro: Falha ao mapear o caminho '/metatag.shtml'.
+__________________________

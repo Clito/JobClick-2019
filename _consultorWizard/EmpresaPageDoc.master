@@ -1,0 +1,42 @@
+﻿<%@ Master Language="VB" CodeFile="EmpresaPageDoc.master.vb" Inherits="_empresa_EmpresaPageDoc" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:o='urn:schemas-microsoft-com:office:office'xmlns:w='urn:schemas-microsoft-com:office:word'xmlns='http://www.w3.org/TR/REC-html40'>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>  
+</w:WordDocument>
+</xml>
+<![endif]-->
+
+<head id="Head" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="http://www.jobclick.com.br/App_Themes/jobclick.css" rel="stylesheet" type="text/css" />  
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    <asp:ScriptManager ID="ScriptManagerDOC" runat="server" 
+        EnableScriptGlobalization="True">
+    </asp:ScriptManager>
+        <table id="MasterTable" align="center" cellpadding="0" cellspacing="0" 
+            width="800px">
+            <tr>
+                <td>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+        </table>
+        <br />
+    </div>
+    </form>
+</body>
+</html>

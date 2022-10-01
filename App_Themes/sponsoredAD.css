@@ -1,0 +1,39 @@
+﻿#corpoAnuncio {
+    width:100%
+}
+
+#vaga {
+    float:left;
+    width: 60%;
+    margin-left:30px;
+}
+#sponsoredAD {
+    position: static;
+    float: right;
+    width: 30%;
+    max-height: 100%;
+    padding: 5px;
+    vertical-align: top;
+    text-align: left;
+    background-color: #fff8e7;
+    margin-top: 20px;
+}
+
+.tituloAD {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !Important;
+    font-size: 14px !Important;
+    color: #1122cc !Important;
+    font-weight: bold !Important;
+}
+.URLADEmpresa {
+    font-family: Verdana, Geneva, Tahoma, sans-serif !Important;
+    font-size: 12px !Important;
+    color: #009933 !Important;
+    font-weight: normal !Important;
+}
+#anuncio {
+    padding-left: 10px;
+}
+.imagemAN {
+    margin: 0px;
+}

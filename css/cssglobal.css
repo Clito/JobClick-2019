@@ -1,0 +1,461 @@
+		body 
+		{
+		  background-image:
+		  url('/images/backgrnd/bg_0026.gif')
+		}
+		
+
+.phpmaker {
+	color: #3A6EA5; /* text color */
+	font-family: Tahoma; /* font name */
+	font-size: 8pt; /* font size */	
+}
+	
+		.mydiv {
+    			margin-left: 50%; 
+    			margin-right: 50%;	
+    			margin-top: 200px;
+				text-align: center;
+				position: absolute; 
+				visibility:show; 
+				width: 350; 
+				height: 300;					
+				z-index:9
+				}
+						
+		.tdFaq {
+				font: 14px Verdana;
+				font-weight:bold;
+				color: #35691f;
+
+				}		
+
+ 		.textoFaqtt {
+				text-decoration: none;
+				font: 13px Arial;
+				font-style:normal;
+				font-weight:bold;
+				color:#000000;
+				text-align: left;
+				}
+				
+				
+ 		.textoFaq {
+				text-decoration: none;
+				font: 12px Arial;
+				font-style: normal;
+				font-weight: none;
+				color: #000000;
+				text-align: justify;
+				}
+								
+		a:link.textoFaq {
+				font-weight:normal;
+				color: #35691f
+				}
+				
+		a:hover.textoFaq {
+ 				text-decoration: underline;		
+				font-weight:normal;
+				color: #35691f
+				}
+				
+		a:visited.textoFaq {
+				font-weight:normal;
+				color: #35691f
+				}
+						
+		a:active.textoFaq {
+				font-weight:normal;
+				color: #35691f
+				}
+				
+
+
+			
+				
+				
+ 		.popup {
+				font: 10px Verdana;
+				font-weight:none;
+				color:#316c14;
+				background-color: #e9ecb6;
+				text-align: center;
+				}
+				
+ 		.titpopup {
+				font: 14px Verdana;
+				font-weight:bold;
+				color:#FFFFFF;
+				background-color: #316c14;
+				}
+				
+		.cPopup	{
+				font: 10px Verdana;
+				font-weight:none;
+				color:#000000;
+				text-align: center;
+				}			
+				
+				
+				
+		textarea {  
+				font-family: Verdana; 
+				font-weight: none; 
+				font-size: 11px;
+				width: 340px;
+				height: 150px;
+				margin-top: 0px; 
+				margin-right: 0px; 
+				margin-bottom: 0px; 
+				margin-left: 0px; 
+				padding-top: 5px;
+				padding-right: 5px; 
+				padding-bottom: 5px; 
+				padding-left: 5px; clip:    rect(   ); 
+				background-color: #e9ecb6; 
+				color: #000000; 
+				border: 1px #9cab26 solid
+			}
+			
+			
+		select { 
+				font-family: Verdana;
+				font-size: 11px;
+				font-weight: none;
+				height: auto;
+				width: 340px; 
+				margin-top: 0px;
+				margin-right: 0px;
+				margin-bottom: 0px;
+				margin-left: 0px;
+				padding-top: 5px; 
+				padding-right: 5px;
+				padding-bottom: 5px;
+				padding-left: 5px;
+				clip:  rect(   );
+				background-color: #e9ecb6;
+				color: #000000;
+				border: 0px #9cab26 solid;
+				z-index:-1
+			}
+			
+						
+		input { 
+				font-family: Verdana;
+				font-size: 10px;
+				font-weight: none;
+				cursor: pointer;
+				height: 20px;
+				width: auto;
+				margin-top: 0px;
+				margin-right: 0px;
+				margin-bottom: 0px;
+				margin-left: 0px;
+				padding-top: 2px; 
+				padding-right: 2px;
+				padding-bottom: 2px;
+				padding-left: 2px;
+				border-color: #FFFFFF #FFFFFF #FFFFFF #FFFFFF; 
+				clip:  rect(   );
+				background-color: #b1c82e;
+				color: #35691f;
+				border: 0px #9cab26 solid
+			}
+
+
+									
+		input.form { 
+				font-family: Verdana;
+				font-size: 10px;
+				font-weight: none;
+				height: 20px;
+				width: 340px;
+				margin-top: 0px;
+				margin-right: 0px;
+				margin-bottom: 0px;
+				margin-left: 0px;
+				padding-top: 2px; 
+				padding-right: 2px;
+				padding-bottom: 2px;
+				padding-left: 2px;
+				border-color: #000000 #000000 #000000 #000000; 
+				clip:  rect(   );
+				background-color: #e9ecb6;
+				color: #000000;
+				border: 1px #9cab26 solid
+			}			
+
+					
+			
+ 		.titulo {
+				font: 11px Verdana;
+				font-weight:bold;
+				color:#C0C0C0
+				}
+				
+		.titulofaq	{
+				font: 10px Verdana;
+				font-weight:bold;
+				color:#0951A2
+				}	
+				
+		
+				
+ 		.stitulo {
+				font: 10px Verdana;
+				font-weight:bold;
+				color:#FFFFFF
+				}
+								
+ 		.texto {
+				text-decoration: none;
+				font: 10px Verdana, Arial;
+				font-style:normal;
+				font-weight:none;
+				color:#000000;
+				text-align: left;
+				}
+
+ 		div {
+				text-decoration: none;
+				font: 10px Verdana, Arial;
+				font-style:normal;
+				font-weight:none;
+				color:#000000;
+				text-align: left;
+				}
+												
+		a:link.texto {
+				font-weight:none;
+				color: #35691f
+				}
+				
+		a:hover.texto {
+ 				text-decoration: underline;		
+				font-weight:none;
+				color: #35691f
+				}
+				
+		a:visited.texto {
+				font-weight:none;
+				color: #35691f
+				}
+						
+		a:active.texto {
+				font-weight:none;
+				color: #35691f
+				}
+				
+
+	               
+		a:link {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:12px; font-family:Arial
+				}
+				
+		a:hover {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:12px; font-family:Arial
+				}
+				
+		a:visited {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:12px; font-family:Arial
+				}
+						
+		a:active {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:12px; font-family:Arial
+				}
+
+
+
+
+		/* CALENDÁRIO */
+		/* ***************************************************************************************	*/
+
+
+		.tituloCal	{
+				font: 10px Verdana;
+				font-weight:bold;
+				color:#000080
+				}	
+				
+		
+				
+ 		.stituloCal {
+				font: 10px Verdana;
+				font-weight:bold;
+				color:#000000
+				}
+								
+ 		.textoCal {color:#000080; text-decoration: none; 
+ 				font-family: Verdana, Arial; 
+ 				font-size: 10px; 
+ 				font-style: normal; 
+ 				font-weight: bold; 
+ 				text-align: left}
+								
+		a.textoCal:link {color:#000080; 
+				text-decoration: none; 
+				font-family: Verdana, Arial; 
+				font-size: 9px; 
+				font-style: normal; 
+				font-weight: none; 
+				text-align: left}
+		
+		a.textoCal:visited {color:#000080; 
+				text-decoration: none; 
+				font-family: Verdana, Arial; 
+				font-size: 9px; 
+				font-style: normal; 
+				font-weight: none; 
+				text-align: left}
+								
+		a.textoCal:hover {color:#000080;
+				text-decoration: underline; 	
+				font-family: Verdana, Arial; 
+				font-size: 9px; 
+				font-style: normal; 
+				font-weight: none; 
+				text-align: left}
+				
+				
+		/* CALENDÁRIO */
+		/* ***************************************************************************************	*/			
+				
+		a:link.calendario {
+				background-color: orange;
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:hover.calendario {
+				cursor:hand;
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:visited.calendario {
+				cursor:hand;
+				background-color: orange;
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+						
+		a:active.calendario {
+				cursor:hand;
+				background-color: orange;
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #000080; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		/* CALENDÁRIO */
+		/* *************************************************************************************** */				
+	
+		a:link.calendarioNow {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #900000; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:hover.calendarioNow {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #900000; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:visited.calendarioNow {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #900000; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+						
+		a:active.calendarioNow {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:bold;
+				color: #900000; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+
+		/* CALENDÁRIO */
+		/* *************************************************************************************** */				
+				
+		a:link.calendarioOut {
+				text-decoration: none;
+				font-style:italic;
+				font-weight:bold;
+				color: #C0C0C0; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:hover.calendarioOut {
+				text-decoration: none;
+				font-style:italic;
+				font-weight:bold;
+				color: #C0C0C0; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:visited.calendarioOut {
+				text-decoration: none;
+				font-style:italic;
+				font-weight:bold;
+				color: #C0C0C0; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+						
+		a:active.calendarioOut {
+				text-decoration: none;
+				font-style:italic;
+				font-weight:bold;
+				color: #C0C0C0; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		/* CALENDÁRIO */
+		/* *************************************************************************************** */
+						
+		a:link.calendarioIn {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:normal;
+				color: #707070; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:hover.calendarioIn {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:normal;
+				color: #707070; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+				
+		a:visited.calendarioIn {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:normal;
+				color: #707070; font-variant:normal; font-size:10px; font-family:Verdana
+				}
+						
+		a:active.calendarioIn {
+				text-decoration: none;
+				font-style:normal;
+				font-weight:normal;
+				color: #707070; font-variant:normal; font-size:10px; font-family:Verdana
+				}

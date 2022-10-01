@@ -1,0 +1,526 @@
+﻿div
+{
+    text-align: left;
+	margin-left: auto;
+	margin-right: auto;    
+	margin: 0px;
+	border: 0px;  
+}
+
+body
+{
+	font-size: 3mm;
+	color: #505050;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	text-decoration: none;
+	margin: 0;
+	border: 0;
+	/* height: 0; */
+    padding:0;
+    background-color: transparent;
+}
+
+.EditorVAGA
+{
+	background-color: transparent;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	font-weight: normal;
+	width: 900px;
+	z-index: 10;
+	position: absolute;
+	opacity: 1.0;
+}
+
+a:link    {text-decoration:underline;color: #505050;background-color: transparent; text-align: right;}
+a:visited {text-decoration:underline;color:#505050; background-color:transparent}
+a:active  {text-decoration:underline;color:#808080; background-color:transparent}
+a:hover   {text-decoration:underline;color:#808080; background-color:transparent}
+
+.h1
+{
+font-size: 26px;
+line-height: 34px;
+margin-bottom: 11px;
+}
+
+.RadioButtonListCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: text;
+	font-weight: normal;
+	width: 556px;
+	height: 25px;
+	z-index: 0;
+}
+
+.RadioButtonListPS
+{
+	opacity: 0.5;
+	font-size: 10pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+}
+.InputCadFormCandidatoCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+.InputCALENDARIO
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #FFFFFF;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 0px solid;
+	border-top: #E0E0E0 0px solid;
+	border-left: #9E9E9E 0px solid;
+	border-bottom: #E0E0E0 0px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+.InputCadFormCandidatoCV_OK
+{
+	background: #9CDD93;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+
+.DropCadFormCandidatoCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 4px;
+	padding-right: 1px;
+	padding-left: 4px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 555px;
+	height: 31px;
+	z-index: 0;
+}
+
+.DropCadFormADERENCIA
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 10pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 0px solid;
+	border-top: #E0E0E0 0px solid;
+	border-left: #9E9E9E 0px solid;
+	border-bottom: #E0E0E0 0px solid;
+	padding-top: 2px;
+	padding-right: 1px;
+	padding-left: 2px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 60px;
+	height: 22px;
+	z-index: 0;
+}
+
+.UploadButton
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 407px;
+	height: 25px;
+	z-index: 0;
+}
+ 
+.ResultadoPesquisaPanel
+{
+	padding-left: 10px;
+	padding-top: 10px;
+	text-align: left;
+}
+
+.tituloProcessoSeletivo
+{
+	opacity: 0.9;
+	font-size: 14px;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+}
+.linkProcessoSeletivo
+{
+	opacity: 0.9;
+	font-size: 12pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: hand;
+	font-weight: normal;
+	z-index: 0;
+}
+.ADERENCIA
+{
+	font-size: 20pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #006600;
+}
+	
+.textoResumoCV
+{
+	font-size: 9pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+}
+
+.textoResumoConteudoCV
+{
+	font-size: 9pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+	font-style: italic;
+}
+
+.textoResumoVAGA
+{
+	font-size: 10pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+}
+
+.textoApresentaCV
+{
+	font-size: 9pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+	font-family: Tahoma;
+}
+
+.textoApresentaNOMECV
+{
+	font-size: 12pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #777777;
+}
+.textoApresentaINFOCV
+{
+	text-align: right;
+	font-size: 8pt;
+	text-decoration: none;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+}
+
+.textoBold
+{
+	font-family: "Helvetica Neue" , Arial, Helvetica, Geneva, sans-serif;
+	font-size: 9pt;
+	text-decoration: none;
+	color: #666666;
+}
+
+.textoNone
+{
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 9pt;
+	text-decoration: none;
+	color: #666666;	
+}
+
+.textoProcessoSeletivo
+{
+	font-size: 8pt;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+	color: #666666;
+}
+.textoProcessoSeletivoFECHADO
+{
+	font-size: 8pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: bold;
+	z-index: 0;
+	color: #CC3300;
+}
+.textoProcessoSeletivoABERTO
+{
+	font-size: 8pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: bold;
+	z-index: 0;
+	color: #006600;
+}
+.textoProcessoSeletivoNORMAL
+{
+	font-size: 8pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: bold;
+	z-index: 0;
+	color: #000000;
+}
+
+.tituloMensagemDB
+{
+	opacity: 0.9;
+	font-size: 12pt;
+	text-decoration: none;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	z-index: 0;
+}
+.tableFormulario
+{
+	border-right: #cccccc 0px solid;
+	border-top: #cccccc 1px solid;
+	border-left: #cccccc 0px solid;
+	border-bottom: #cccccc 0px solid;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.tbAvisoPanel
+{
+	width: 321px;
+	float: inherit;
+	z-index: 100;
+	position: inherit;
+	filter: alpha(opacity=80);
+	opacity: 1;	
+}
+.tbAvisoPanelTop
+{
+	background-image: url('/_corporativo/images/_ballonTop.png');
+	background-repeat: no-repeat;
+	width: 321px;
+	height: 67px;
+}
+.tbAvisoPanelText
+{
+	background-image: url('/_corporativo/images/_ballonBG.png');
+	background-repeat: repeat-y;
+	width: 321px;
+}
+.tbAvisoPanelRP
+{
+	background-image: url('/_corporativo/images/_ballonButton.png');
+	background-repeat: no-repeat;
+	width: 321px;
+	height: 17px;	
+}
+.CV
+{
+	padding: 20px;
+	width: 800px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+	cursor: move;
+	background-color: #FAFAFA;
+	filter: alpha(opacity=90);
+	opacity: 1;
+	top: 0px;
+	left: 14%;
+	border: 1px dashed #C0C0C0;
+}
+
+.VAGAPREVIEWPosition
+{
+	padding: 5px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+    border: 1px dashed #C0C0C0;
+    width: 800px;
+    background-color: #FFFFFF;
+    cursor: move;
+    top: 20px;
+    left: 25%;    
+}
+
+.mGrid {   
+    width: 100%;   
+    background-color: #fff;   
+    margin: 5px 0 10px 0;   
+    border: solid 1px #525252;   
+    border-collapse:collapse;   
+}  
+.mGrid td {   
+    padding: 2px;   
+    border: solid 1px #c1c1c1;   
+    color: #717171;   
+}  
+.mGrid th {   
+    padding: 4px 2px;   
+    color: #fff;   
+    background: #424242 url(grd_head.png) repeat-x top;   
+    border-left: solid 1px #525252;   
+    font-size: 0.9em;   
+}  
+.mGrid .alt { background: #fcfcfc url(grd_alt.png) repeat-x top; }  
+.mGrid .pgr { background: #424242 url(grd_pgr.png) repeat-x top; }  
+.mGrid .pgr table { margin: 5px 0; }  
+.mGrid .pgr td {   
+    border-width: 0;   
+    padding: 0 6px;   
+    border-left: solid 1px #666;   
+    font-weight: bold;   
+    color: #fff;   
+    line-height: 12px;   
+ }     
+.mGrid .pgr a { color: #666; text-decoration: none; }  
+.mGrid .pgr a:hover { color: #000; text-decoration: none; } 

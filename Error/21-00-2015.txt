@@ -1,0 +1,45 @@
+
+Log Entry : 
+21/01/2015 05:12:24
+Error in: http://www.jobclick.com.br/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/vagas.aspx. Mensagem de erro: O arquivo '/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:14:17
+Error in: http://www.jobclick.com.br/ged.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ged.aspx. Mensagem de erro: O arquivo '/ged.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:14:25
+Error in: http://www.jobclick.com.br/missaovisaovalor.aspx. Error Message:Erro na página: http://www.jobclick.com.br/missaovisaovalor.aspx. Mensagem de erro: O arquivo '/missaovisaovalor.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:14:30
+Error in: http://www.jobclick.com.br/equipe.aspx. Error Message:Erro na página: http://www.jobclick.com.br/equipe.aspx. Mensagem de erro: O arquivo '/equipe.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:14:35
+Error in: http://www.jobclick.com.br/tecnologia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/tecnologia.aspx. Mensagem de erro: O arquivo '/tecnologia.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:14:39
+Error in: http://www.jobclick.com.br/contato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/contato.aspx. Mensagem de erro: O arquivo '/contato.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 05:17:53
+Error in: http://www.jobclick.com.br/ftb.imagegallery.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ftb.imagegallery.aspx. Mensagem de erro: O arquivo '/ftb.imagegallery.aspx' não existe.
+__________________________
+
+Log Entry : 
+21/01/2015 09:26:59
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+21/02/2015 15:42:50
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=d&limit=150&timestamp=1424540459973. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=d&limit=150&timestamp=1424540459973. Mensagem de erro: The wait operation timed out
+__________________________

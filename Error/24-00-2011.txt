@@ -1,0 +1,204 @@
+
+Log Entry : 
+24/08/2011 19:05:43
+Error in: http://www.jobclick.com.br/_admin/setup.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/setup.aspx. Mensagem de erro: The DataSourceID of 'FormView1' must be the ID of a control of type IDataSource.  A control with ID 'SqlDataSource2' could not be found.
+__________________________
+
+Log Entry : 
+24/08/2011 19:06:04
+Error in: http://www.jobclick.com.br/_admin/setup.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/setup.aspx. Mensagem de erro: The DataSourceID of 'FormView1' must be the ID of a control of type IDataSource.  A control with ID 'SqlDataSource2' could not be found.
+__________________________
+
+Log Entry : 
+24/08/2011 19:07:22
+Error in: http://www.jobclick.com.br/_admin/setup.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/setup.aspx. Mensagem de erro: Could not find control 'GridView1' in ControlParameter 'idsetup'.
+__________________________
+
+Log Entry : 
+24/08/2011 19:10:08
+Error in: http://www.jobclick.com.br/_admin/setup.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/setup.aspx. Mensagem de erro: Could not find control 'GridView1' in ControlParameter 'idsetup'.
+__________________________
+
+Log Entry : 
+24/10/2011 09:16:46
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/10/2011 09:29:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011P/001002405-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011P/001002405-7. Mensagem de erro: Invalid viewstate. 
+	Client IP: 200.216.198.146
+	Port: 55411
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011P%2f001002405-7
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1
+	ViewState: Zg+jIq/ikt3FovXWvFH03aju+pCFqEk9upF7EeaXduFPqf64CJtBx/IJDCSzSeuLb+82sECcCI7SYY4nIU2BgOpqz57XIgylvSPIqZmAqLnizaY6y/IDh3iEKMrbsA7odMBAR5HS5SDTnos8Uc5AWzTZ09vreTKSrwZhLFH1p/ilhFfjzXLjhjaLbRMpPgLRaRDYKCUB/OQUhEbqdhCj7bP7P3a9jzbZfpVpmcT/aMEFVDiqty26U9QbUNIw5PXhSGOSgrBYay46XjedwK7rGUsRn0kPXvv10uU38P0KYpQoCMjDrO/KtNxIQX+mKfYAFwXRX9m23NqAjXSC6h9f3JZqvd/fgPltYH2fIypFFQv11MWfqVwYYlQWym5jpyIGpK4qejF30qsgRrSE1hbP7li6EQCXoi4taotl1nhPORGi8antjh9J9kkeUcju
+__________________________
+
+Log Entry : 
+24/10/2011 09:30:34
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.93.203.161
+	Port: 1388
+	Referer: http://www.jobclick.com.br/_candidato/
+	Path: /_candidato/default.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; GTB7.1; .NET CLR 1.1.4322; .NET CLR 3.0.04506.30; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; InfoPath.1; .NET CLR 2.0.50727; MSN OptimizedIE8;PTBR)
+	ViewState: PSSidEix5fGP1HWx1GfilcteTbgqW8qo90Ucgn3CC7q0boUiDY7T2JhB4i196dVEWd3BLV6Xj06bQbj72/lKS040LYnQ8aw/dvNnOjFnrMnGSRZMn3pXLm3L8tRBGu2V0VG7Gi/KUSI+zH50QVQqyFJgGj+QfCSx4W6y4wHA2CBxI3zQ2bfWaZf9jOFh+qghc87soWj/cBJ0CPcBLkvz/jsXjKp5VxgDlZaEi+T9y7o8XChrbQsP0zmHk5z6LQGO1Tg7o0CdnHvh71PgOjj6OZAQVPAyuKhJGvhzuEO/NS/FfIzPG6cJFDEQmLBucl+B6sJ3Kzw7LXGQ+3nvnrB+/HAyqcHm7Gp48lj3iOneC9eoZBM3KDKHZFdLWyn51VkKqCWyCc5wElHgSS0fkqYUM1kn6kK0HAAK5z3Ik2hVdvCLd24iwnUxw5y9oujoS8VfGeyi60w+/exRNUo+0yRzqis5tTbO7LzHhHs4R/5pBLyHM28WSk/gYvd0H3dCLNXFjqvJ2Xvx66xczgFAKUPECv+J8lMSGX6ptBHEKsNXjhVN1m9gZ+S+KNtlYo57XRBCEJM0/UeEPY/7dpxwtN+F9OPklO+MQaNiFsaw6oM5w/grXZ1TQ3t9JJbI+5SJ3fA/lDjUddretETnvSY2...
+__________________________
+
+Log Entry : 
+24/10/2011 09:37:45
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/10/2011 11:00:42
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/10/2011 13:47:39
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 13:47:49
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 13:47:52
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 13:48:01
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 13:48:39
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 13:48:46
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 14:02:24
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 14:02:34
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 14:02:34
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/10/2011 17:46:44
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002236-6. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001002236-6. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+24/10/2011 18:04:08
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPFAtqRG-9AQwe conhecimento em softwares.</a></li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPFAtqRG-9AQwe conhecimento em softwares.</a></li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 18:14:26
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRHyperLinkNavDadosPessoais. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRHyperLinkNavDadosPessoais. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 18:34:11
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTta.aspx. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 18:35:14
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNadding=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNadding=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 18:41:21
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsP                 </td>                    <td>                         </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsP                 </td>                    <td>                         </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 19:09:34
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/10/2011 20:32:56
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFdp2Rr3YE5dD0qM2gF5NZHDQKeYBgyA87jZUdUSY0hcpgA15NJCJ5NB1ojYwVL8Ro65IF8S1ortal Jobclick.</a></li>                      <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LVx6HzqfazFZPGgWkrwFeBpiip8bbzyBjYHLgJFdp2Rr3YE5dD0qM2gF5NZHDQKeYBgyA87jZUdUSY0hcpgA15NJCJ5NB1ojYwVL8Ro65IF8S1ortal Jobclick.</a></li>                      <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 20:34:51
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/10/2011 20:54:48
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/10/2011 20:55:05
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNnX5vKBumE85AubfTi8kB/jNA619NtxyQpswItxVKy9afsO0FfANHFgWPT9M5ADL/ktIlGB3duajJhx+BbhKAny1kVEX408prNFLe+kv+MssTfc9k8NzPQlk7zNtKmAMvlrFiojlq5cNVb7ZDNO0NqbDxumC+KnrNtGTjvApYIRtNXsrWki877c/9OySHbzC4c2eTEzKwAQh8eD46tQNmJDWuYqNPr/B32IONQDo2f+y72qfcQl3brK0P2uyxO3qG1Eu0XAk78C07s61wo2I7TZvpzsvdLL93oBZMF9JJ77LboWUasEcqYIRgYH7JZAyyaSbbbrIvM5VYpgfQaIuoL6R1foiS5Ofonup7vOYI0OjXyL1PdPdZzLeDI0he3WZ3i9TnXB9KHIdu/ULa4lJ4fs8HrJh3pLlMvfTxMiFQmIek6KDPimKHlMrvVblNglJ4MoW8lEG36eif0FhH2+1uvxtt2GKRFjQgGkWqy0KftQQzVLsd9z8k+Jbd9ZId3d47GovdmPBjq+ftu3iF1j+NFeJE5e2PK0mEPqIR8lDhkhgW9gIomSICg5WqgKMvj4KEn09cWsx3DQ4Pd8Us79vXkvaT2xK2HfYFYqZL+tmO+75eAgQadtpUcKb6eQ7Aq1ia0fynr+rmnppZpblnk7240Z+5eoRMlPDdlOfCdmD0dlOP1XYyYfwby3QuQ/5S8wH2FoaBJbU4Rp00HxpSAKMKqM657RvaLj7pUwd79wEKu8tA06zb6znLwNVaQfbO/WGhu8Sf8++0n+5phcy2AoKL9/JAmbXGlwx9QOGEvjNlw+wDQYE0U42cfAun1nC0OcKKWkgcyZiSDiXyMSGi1uSNx269nbVumPROcnEujvXTe2tlGOcQdTkHYcxZRKSb33TrpEflJtuZXiSVP1xcY8juWaSsCwJgqDY402FievER6GQDbSjmOSBCXmlDGXol7pAaeKV9r9CWoZEHXDqtwaC7m8LdgloHLufX0JU90h9gSpyGKDAhe+zhPHoT0830t7jPihDHmbHj0r8aKbYwqARDuk4DxYI8k1MWBrw2qr+sMHmvHYTOhh0v3JRKofpwHauWQlxXi8SQfx+IBoCa9Fkreq9xtqJ5fTRPAp5QmJJKVB7ar02ZdZ+mXGEBZWrepD2+yPCzmMNpKUimsRbeSINxegiYXc5bf2Svf9CaXEY2KEoyPlKzCFvpjVyfQovtQOmnjW6035Hzc+UGCAQgSOsVmN+3Qus89B7r4dO5rmdYw5uDuVlyFq9rGxYDbsklrW0hfN17qs6EO3+YuQ5mQykV0NswRgWs4ruTCV1EcGOAaxydfL6clXjnURzeiamBWEcFIwbPSeeg+oXorWX7QbElk8r1FyhqgZYLbud1Lx0IiWJZSRAt6jbdd6yRy5B+6BSD6sBVl+y7QJ0vb2e4VwoJACBl1qIVzqXEwD. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNnX5vKBumE85AubfTi8kB/jNA619NtxyQpswItxVKy9afsO0FfANHFgWPT9M5ADL/ktIlGB3duajJhx+BbhKAny1kVEX408prNFLe+kv+MssTfc9k8NzPQlk7zNtKmAMvlrFiojlq5cNVb7ZDNO0NqbDxumC+KnrNtGTjvApYIRtNXsrWki877c/9OySHbzC4c2eTEzKwAQh8eD46tQNmJDWuYqNPr/B32IONQDo2f+y72qfcQl3brK0P2uyxO3qG1Eu0XAk78C07s61wo2I7TZvpzsvdLL93oBZMF9JJ77LboWUasEcqYIRgYH7JZAyyaSbbbrIvM5VYpgfQaIuoL6R1foiS5Ofonup7vOYI0OjXyL1PdPdZzLeDI0he3WZ3i9TnXB9KHIdu/ULa4lJ4fs8HrJh3pLlMvfTxMiFQmIek6KDPimKHlMrvVblNglJ4MoW8lEG36eif0FhH2+1uvxtt2GKRFjQgGkWqy0KftQQzVLsd9z8k+Jbd9ZId3d47GovdmPBjq+ftu3iF1j+NFeJE5e2PK0mEPqIR8lDhkhgW9gIomSICg5WqgKMvj4KEn09cWsx3DQ4Pd8Us79vXkvaT2xK2HfYFYqZL+tmO+75eAgQadtpUcKb6eQ7Aq1ia0fynr+rmnppZpblnk7240Z+5eoRMlPDdlOfCdmD0dlOP1XYyYfwby3QuQ/5S8wH2FoaBJbU4Rp00HxpSAKMKqM657RvaLj7pUwd79wEKu8tA06zb6znLwNVaQfbO/WGhu8Sf8++0n+5phcy2AoKL9/JAmbXGlwx9QOGEvjNlw+wDQYE0U42cfAun1nC0OcKKWkgcyZiSDiXyMSGi1uSNx269nbVumPROcnEujvXTe2tlGOcQdTkHYcxZRKSb33TrpEflJtuZXiSVP1xcY8juWaSsCwJgqDY402FievER6GQDbSjmOSBCXmlDGXol7pAaeKV9r9CWoZEHXDqtwaC7m8LdgloHLufX0JU90h9gSpyGKDAhe+zhPHoT0830t7jPihDHmbHj0r8aKbYwqARDuk4DxYI8k1MWBrw2qr+sMHmvHYTOhh0v3JRKofpwHauWQlxXi8SQfx+IBoCa9Fkreq9xtqJ5fTRPAp5QmJJKVB7ar02ZdZ+mXGEBZWrepD2+yPCzmMNpKUimsRbeSINxegiYXc5bf2Svf9CaXEY2KEoyPlKzCFvpjVyfQovtQOmnjW6035Hzc+UGCAQgSOsVmN+3Qus89B7r4dO5rmdYw5uDuVlyFq9rGxYDbsklrW0hfN17qs6EO3+YuQ5mQykV0NswRgWs4ruTCV1EcGOAaxydfL6clXjnURzeiamBWEcFIwbPSeeg+oXorWX7QbElk8r1FyhqgZYLbud1Lx0IiWJZSRAt6jbdd6yRy5B+6BSD6sBVl+y7QJ0vb2e4VwoJACBl1qIVzqXEwD. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/10/2011 21:17:01
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNtI9Jyk5QeDIb5h4UZn10iQC62smSwwr3xFdUBrY8x7YfxeVxoG1k4vJQqfj15jSqSghuAvTRHfLQBRK1tl00_NavegadorControl1_HyperLinkNavExperienciaProfissional. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOLSgNtI9Jyk5QeDIb5h4UZn10iQC62smSwwr3xFdUBrY8x7YfxeVxoG1k4vJQqfj15jSqSghuAvTRHfLQBRK1tl00_NavegadorControl1_HyperLinkNavExperienciaProfissional. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/11/2011 13:46:47
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/11/2011 13:47:06
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/11/2011 13:49:38
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+24/11/2011 14:48:03
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LV;). Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=yOlJFtcpCYkKpaLdKNolN_0Lp8LV;). Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/11/2011 19:15:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas2.aspx?pesquisa=a. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas2.aspx?pesquisa=a. Mensagem de erro: The file '/_anonimo/vagas2.aspx' does not exist.
+__________________________
+
+Log Entry : 
+24/11/2011 22:04:13
+Error in: http://www.jobclick.com.br/ anonimo/vagas.aspx?pesquisa+2011/001004449-3. Error Message:Erro na página: http://www.jobclick.com.br/ anonimo/vagas.aspx?pesquisa+2011/001004449-3. Mensagem de erro: The file '/ anonimo/vagas.aspx' does not exist.
+__________________________

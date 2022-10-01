@@ -1,0 +1,1750 @@
+
+Log Entry : 
+11/01/2013 09:57:44
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$contentPlaceHolder1$resumoTextBox="... DE CAIXA <PRINCIPAIS ATIVIDAD...").
+__________________________
+
+Log Entry : 
+11/01/2013 10:08:12
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 10:52:53
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/01/2013 11:01:13
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/01/2013 11:01:30
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/01/2013 11:02:12
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/01/2013 14:10:26
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:10:59
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:12:29
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046429-5&pesquisa=2013P/001046429-5. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046429-5&pesquisa=2013P/001046429-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:14:12
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:14:59
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:15:05
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:15:31
+Error in: http://www.jobclick.com.br/_parceiro/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_parceiro/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:15:41
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:16:12
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046168-9&pesquisa=2013P/001046168-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:16:20
+Error in: http://www.jobclick.com.br/_parceiro/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_parceiro/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:16:44
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.63.210.52
+	Port: 49523
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; FunWebProducts)
+	ViewState: /wEPDwUKMTUxMjY1NDU5NA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjU0NWRkAkcPZBYSZg9kFgICAQ8PFgIfAAX5ESAgICAgICAgPHRhYmxlIHN0eWxlPSJ3aWR0aDogMTAwJSI+DQogICAgICAgIAk8dHI+DQogICAgICAgIAkJPHRkPjxiPlBlbnNlIGFudGVzIGRlIGltcHJpbWlyLjwvYj48YnIgLz4NCiAgICAgICAgCQlQcmVzc2lvbmFyIG8gYm90w6NvIGRlIGltcHJlc3PDo28gw6kgbXVpdG8gZsOhY2lsLCBtYXMgdXRpbGl6YXIgZGVzdGUgDQogICAgICAgIAkJcmVjdXJzbyBwYXJhIGltcHJpbWlyIHVtIEN1cnLDrWN1bG8gbm9zIGRpYXMgZGUgaG9qZSwgw6kgYWxnbyBuw6NvIA0KICAgICAgICAJCXJlY29tZW5kYWRvLjxiciAvPg0KICAgICAgICAJCTxiPk5hIEpvYkNsaWNrIGV4aXN0ZW0gdsOhcmlhcyBtYW5laXJhcyBkZSBkaXZ1bGdhciBzZXUgQ3VycsOtY3VsbyBzZW0gYSBuZWNlc3NpZGFkZSBkZSBpbXByaW1pciBuZW5odW1hIGZvbGhhIGRlIHBhcGVsLjwvYj48YnIgLz4NCiAgICAgICAgCQk8L3RkPg0KICAgICAgICAJPC90cj4NCiAgICAgICAgP...
+__________________________
+
+Log Entry : 
+11/01/2013 14:20:04
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:20:36
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:25:32
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/01/2013 14:27:45
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/01/2013 14:32:13
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/01/2013 14:32:55
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046450-1&pesquisa=2013P/001046450-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046450-1&pesquisa=2013P/001046450-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:34:41
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046429-5&pesquisa=2013P/001046429-5. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046429-5&pesquisa=2013P/001046429-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:40:55
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:41:11
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:41:25
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:41:56
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:42:28
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:48:55
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:49:58
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:50:29
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:51:26
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:57:37
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046042-6&pesquisa=2013P/001046042-6. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046042-6&pesquisa=2013P/001046042-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 14:58:09
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046042-6&pesquisa=2013P/001046042-6. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046042-6&pesquisa=2013P/001046042-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:11:34
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:11:56
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:12:04
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:12:27
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:12:35
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001046446-9&pesquisa=2013P/001046446-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:14:33
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 15:15:05
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 17:42:18
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 18:08:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/01/2013 18:08:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 201.18.89.50
+	Port: 57504
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+	ViewState: /wEPDwUKMTcyNzY5NTY2Ng9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjc2NmRkAkcPZBYCZg9kFgICAg8QDxYCHgtfIURhdGFCb3VuZGdkDxYbAgICAwIEAgUCBgIHAggCCQIKAgsCDAINAg4CDwIQAhEC
+__________________________
+
+Log Entry : 
+11/01/2013 18:20:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 201.18.89.50
+	Port: 17128
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.97 Safari/537.11
+	ViewState: /wEPDwUKMTcyNzY5NTY2Ng9kFgJmD2QWAgIBD2QWDgJBDw8WAh4EVGV4dAULVmFnYXM6IDI3NjZkZAJHDw8WBB8ABQZMb2dvdXQeC1Bvc3RCYWNrVXJsBQwvbG9nb3V0LmFzcHhkZAJJDw8WAh4ISW1hZ2VVcmwFOWh0dHA6Ly9mb3RvLmpvYmNsaWNrLmNvbS5ici9fY2FuZGlkYXRvL2ZvdG8vY3Zub0ltYWdlLnBuZ2Rk
+__________________________
+
+Log Entry : 
+11/01/2013 18:43:44
+Error in: http://www.jobclick.com.br/_parceiro/pesquisaCVBase.aspx?menu=4. Error Message:Erro na página: http://www.jobclick.com.br/_parceiro/pesquisaCVBase.aspx?menu=4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/01/2013 19:14:31
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 20:01:20
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/01/2013 20:20:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/01/2013 21:27:10
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/01/2013 21:34:46
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 21:36:29
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 21:39:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/01/2013 22:22:33
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3TO3_t8d7TaqC3VuOX2-Q1sEgMK<!DOCTYPE html> <html lang=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3TO3_t8d7TaqC3VuOX2-Q1sEgMK<!DOCTYPE html> <html lang=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+11/01/2013 22:23:27
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF94351. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF94351. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/02/2013 04:09:34
+Error in: http://www.jobclick.com.br/index.php?option=com_morfeoshow&Itemid=10/?option=com_job&controller=../../../../../../../../../../../../../../../../../../../../../../../../proc/self/environ 00. Error Message:Erro na página: http://www.jobclick.com.br/index.php?option=com_morfeoshow&Itemid=10/?option=com_job&controller=../../../../../../../../../../../../../../../../../../../../../../../../proc/self/environ 00. Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (?).
+__________________________
+
+Log Entry : 
+11/02/2013 14:51:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 14:52:58
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 14:54:00
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 18:56:24
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 201.9.128.16
+	Port: 63489
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.68 Safari/537.22
+	ViewState: /wEPDwUKMTUxMjY1NDU5NA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMzA0NmRkAkcPZBYOZg9kFgICAQ8PFgIfAAX5ESAgICAgICAgPHRhYmxlIHN0eWxlPSJ3aWR0aDogMTAwJSI+DQogICAgICAgIAk8dHI+DQogICAgICAgIAkJPHRkPjxiPlBlbnNlIGFudGVzIGRlIGltcHJpbWlyLjwvYj48YnIgLz4NCiAgICAgICAgCQlQcmVzc2lvbmFyIG8gYm90w6NvIGRlIGltcHJlc3PDo28gw6kgbXVpdG8gZsOhY2lsLCBtYXMgdXRpbGl6YXIgZGVzdGUgDQogICAgICAgIAkJcmVjdXJzbyBwYXJhIGltcHJpbWlyIHVtIEN1cnLDrWN1bG8gbm9zIGRpYXMgZGUgaG9qZSwgw6kgYWxnbyBuw6NvIA0KICAgICAgICAJCXJlY29tZW5kYWRvLjxiciAvPg0KICAgICAgICAJCTxiPk5hIEpvYkNsaWNrIGV4aXN0ZW0gdsOhcmlhcyBtYW5laXJhcyBkZSBkaXZ1bGdhciBzZXUgQ3VycsOtY3VsbyBzZW0gYSBuZWNlc3NpZGFkZSBkZSBpbXByaW1pciBuZW5odW1hIGZvbGhhIGRlIHBhcGVsLjwvYj48YnIgLz4NCiAgICAgICAgCQk8L3RkPg0KICAgICAgICAJ...
+__________________________
+
+Log Entry : 
+11/02/2013 19:39:55
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 19:40:05
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 19:41:04
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 19:42:08
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/02/2013 21:57:15
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...cadêmica
+<br><br>2º Grau Comp...").
+__________________________
+
+Log Entry : 
+11/03/2013 00:54:51
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056314-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056314-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:54:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056315-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056315-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:54:57
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:55:12
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:55:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056316-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056316-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:55:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056317-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056317-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:55:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056318-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056318-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:12
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056319-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056319-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:27
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/login.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/login.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:28
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056320-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056320-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:44
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/login.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/login.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056321-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056321-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:56:57
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:13
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056322-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056322-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:29
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056323-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056323-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:38
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:53
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:57:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056324-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056324-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:58:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056325-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056325-2. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:58:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056326-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056326-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:58:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056327-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056327-8. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:59:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056328-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056328-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:59:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056329-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056329-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 00:59:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056330-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056330-2. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:00:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056331-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056331-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:00:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056332-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056332-8. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:00:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056333-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056333-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:01:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056334-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056334-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:01:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056335-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056335-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:01:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056336-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056336-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:07
+Error in: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&action=login&css=blue&estado=CE&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/index.php/login.html. Error Message:Erro na página: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&action=login&css=blue&estado=CE&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/index.php/login.html. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:09
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056337-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056337-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:23
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056338-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056338-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:02:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056339-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056339-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:03
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:03
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056340-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056340-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:27
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056341-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056341-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:03:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056342-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056342-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:04:05
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:04:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056343-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056343-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:04:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056344-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056344-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:04:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056345-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056345-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:05:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056346-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056346-8. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:05:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056347-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056347-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:05:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056348-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056348-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:06:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056349-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056349-2. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:06:32
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:06:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056350-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056350-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:06:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056351-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001056351-8. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:13:04
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=26067. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=26067. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2013 01:16:31
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=26067. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=26067. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2013 01:24:52
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+11/03/2013 01:26:59
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2013 01:28:30
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2013 12:23:18
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/03/2013 12:36:23
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/03/2013 12:42:02
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/03/2013 12:47:55
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.49.139.145
+	Port: 50369
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0; MANMJS)
+	ViewState: /wEPDwUKMTUxMjY1NDU5NA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjQyN2RkAkcPZBYOZg9kFgICAQ8PFgIfAAX5ESAgICAgICAgPHRhYmxlIHN0eWxlPSJ3aWR0aDogMTAwJSI+DQogICAgICAgIAk8dHI+DQogICAgICAgIAkJPHRkPjxiPlBlbnNlIGFudGVzIGRlIGltcHJpbWlyLjwvYj48YnIgLz4NCiAgICAgICAgCQlQcmVzc2lvbmFyIG8gYm90w6NvIGRlIGltcHJlc3PDo28gw6kgbXVpdG8gZsOhY2lsLCBtYXMgdXRpbGl6YXIgZGVzdGUgDQogICAgICAgIAkJcmVjdXJzbyBwYXJhIGltcHJpbWlyIHVtIEN1cnLDrWN1bG8gbm9zIGRpYXMgZGUgaG9qZSwgw6kgYWxnbyBuw6NvIA0KICAgICAgICAJCXJlY29tZW5kYWRvLjxiciAvPg0KICAgICAgICAJCTxiPk5hIEpvYkNsaWNrIGV4aXN0ZW0gdsOhcmlhcyBtYW5laXJhcyBkZSBkaXZ1bGdhciBzZXUgQ3VycsOtY3VsbyBzZW0gYSBuZWNlc3NpZGFkZSBkZSBpbXByaW1pciBuZW5odW1hIGZvbGhhIGRlIHBhcGVsLjwvYj48YnIgLz4NCiAgICAgICAgCQk8L3RkPg0KICAgICAgICAJPC90cj4NCiAgICAgICAgPC90YWJs...
+__________________________
+
+Log Entry : 
+11/03/2013 12:55:06
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 13:12:56
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/03/2013 13:31:21
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/03/2013 14:15:52
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/03/2013 17:13:23
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:41
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:44
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:46
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.206.215.25
+	Port: 50557
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx
+	Path: /_anonimo/cadastroCandidato.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.22 (KHTML, like Gecko) Chrome/25.0.1364.152 Safari/537.22
+	ViewState: /wEPDwUKMTUxMjY1NDU5NA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjQyN2RkAkcPZBYSZg9kFgICAQ8PFgIfAAX5ESAgICAgICAgPHRhYmxlIHN0eWxlPSJ3aWR0aDogMTAwJSI+DQogICAgICAgIAk8dHI+DQogICAgICAgIAkJPHRkPjxiPlBlbnNlIGFudGVzIGRlIGltcHJpbWlyLjwvYj48YnIgLz4NCiAgICAgICAgCQlQcmVzc2lvbmFyIG8gYm90w6NvIGRlIGltcHJlc3PDo28gw6kgbXVpdG8gZsOhY2lsLCBtYXMgdXRpbGl6YXIgZGVzdGUgDQogICAgICAgIAkJcmVjdXJzbyBwYXJhIGltcHJpbWlyIHVtIEN1cnLDrWN1bG8gbm9zIGRpYXMgZGUgaG9qZSwgw6kgYWxnbyBuw6NvIA0KICAgICAgICAJCXJlY29tZW5kYWRvLjxiciAvPg0KICAgICAgICAJCTxiPk5hIEpvYkNsaWNrIGV4aXN0ZW0gdsOhcmlhcyBtYW5laXJhcyBkZSBkaXZ1bGdhciBzZXUgQ3VycsOtY3VsbyBzZW0gYSBuZWNlc3NpZGFkZSBkZSBpbXByaW1pciBuZW5odW1hIGZvbGhhIGRlIHBhcGVsLjwvYj48YnIgLz4NCiAgICAgICAgCQk8L3RkPg0KICAgICAgI...
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:49
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:22:49
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:54
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:55
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:56
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:56
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:57
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:57
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:57
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 18:23:59
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/03/2013 22:06:58
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/03/2013 22:07:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/03/2013 23:11:40
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...BILIDADE
+<br><br>Auxiliar Con...").
+__________________________
+
+Log Entry : 
+11/03/2013 23:13:27
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/03/2013 23:42:48
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 00:20:08
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 00:21:29
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 00:21:34
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 00:58:06
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 01:01:16
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 11:44:22
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+11/04/2013 12:06:21
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 12:34:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 12:41:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 12:58:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 13:45:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.120.191.181
+	Port: 52925
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; NP02)
+	ViewState: /wEWuAMC2PfinQ0C3/fNzwICt5rj5gICwNbasAgChJ/vtwkCjf/azQQClNvV3QoC2eiF8gUCwJy5ygQCrvDfqw0Cq9mlwwwCiZ2R4gsCxYm4/gMChMKyzwEC28KG0gEC28Ki0gEC28Ku0gEC28Ly0gEC2sK+0gEC2cKO0gEC2MKK0gEC38LG0gEC3cK20gEC58K+0gEC58KW0gEC58LG0gEC58LC0gEC9MK+0gEC9MK60gEC9MKO0gEC9MLe0gEC9ML60gEC6sLa0gEC6sKq0gEC6sK20gEC6sL60gEC6sLG0gEC6cKG0gEC6cKO0gEC6cLy0gEC6MK20gEC29bg8AECvKuyCwKzrYeXDQK356/tCwK2pq7fBQKd66u3CQLhxbXyAQKa0rLDCwKa9oTHBQKIuMnLBgL4x/u8AwKv6rqZCQKc6oXcCwKGoPGVDwKZmaGYCwK87rfcCQL99uzoCwLFrvu8CgLXj9/kDwLfuoT7BQLOxZXECgLY1/LIBgLBteSsCgLK7OeWDgL7w/e4CwK8w7aKCwKWuOjCDAL288aPBwLSk6ajDQKk+cDdCALPh+G5DAKQ8uPDAgK7krfeDQLb5e+zCgLX763uCALp9IDaCwLogpjoBQKIi7ybBQK9gOj2CgKy0IjVCQKik7z6DQLvypyJBwLeoIONDALulvpTAoykk/oKAsGgiyYCyejkpgkCnZra4QUCvNqN3A8CkuTKkwsC9Ou7owkCjuiy7A0C1sqgdwLT/amxCA...
+__________________________
+
+Log Entry : 
+11/04/2013 13:53:13
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/04/2013 13:55:23
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 13:55:23
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/04/2013 13:55:27
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/04/2013 13:57:09
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 14:08:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 15:55:05
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 16:39:01
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/04/2013 18:03:44
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/04/2013 18:03:46
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/04/2013 18:33:05
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.119.44.120
+	Port: 49521
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+	ViewState: /wEPDwUKMTUxMjY1NDU5NA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjgxOGRkAkcPZBYOZg9kFgICAQ8PFgIfAAX5ESAgICAgICAgPHRhYmxlIHN0eWxlPSJ3aWR0aDogMTAwJSI+DQogICAgICAgIAk8dHI+DQogICAgICAgIAkJPHRkPjxiPlBlbnNlIGFudGVzIGRlIGltcHJpbWlyLjwvYj48YnIgLz4NCiAgICAgICAgCQlQcmVzc2lvbmFyIG8gYm90w6NvIGRlIGltcHJlc3PDo28gw6kgbXVpdG8gZsOhY2lsLCBtYXMgdXRpbGl6YXIgZGVzdGUgDQogICAgICAgIAkJcmVjdXJzbyBwYXJhIGltcHJpbWlyIHVtIEN1cnLDrWN1bG8gbm9zIGRpYXMgZGUgaG9qZSwgw6kgYWxnbyBuw6NvIA0KICAgICAgICAJCXJlY29tZW5kYWRvLjxiciAvPg0KICAgICAgICAJCTxiPk5hIEpvYkNsaWNrIGV4aXN0ZW0gdsOhcmlhcyBtYW5laXJhcyBkZSBkaXZ1bGdhciBzZXUgQ3VycsOtY3VsbyBzZW0gYSBuZWNlc3NpZGFkZSBkZSBpbXByaW1pciBuZW5odW1hIGZvbGhhIGRlIHBhcGVsLjwvYj48YnIgLz4NCiAgICAgICAgCQk8L3RkPg0KICAgICAgICAJPC90cj4NCiAgICAgICAgPC90YWJsZ...
+__________________________
+
+Log Entry : 
+11/04/2013 18:41:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/04/2013 19:11:56
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/04/2013 19:24:26
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 19:39:19
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/04/2013 21:01:03
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 21:03:10
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 21:05:21
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 21:07:31
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/04/2013 21:10:01
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001061728-0&pesquisa=2013P/001061728-0. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001061728-0&pesquisa=2013P/001061728-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:11:20
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:11:21
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:11:51
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:12:21
+Error in: http://www.jobclick.com.br/_candidato/indicacandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/indicacandidato.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:12:22
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:12:52
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:13:22
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:13:53
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:13:56
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:14:29
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:15:01
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:15:26
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:15:57
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:15:57
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:16:22
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:17:05
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:18:53
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:20:26
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:20:39
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+11/04/2013 21:29:39
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001061399-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001061399-0. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 22:26:33
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001061446-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001061446-9. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/04/2013 22:33:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/05/2013 13:14:05
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/05/2013 18:30:13
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/06/2013 00:39:25
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/06/2013 00:39:30
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/06/2013 00:39:34
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/06/2013 01:19:59
+Error in: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Mensagem de erro: The file '/comercial/_anonimo/vagas.aspx' does not exist.
+__________________________
+
+Log Entry : 
+11/06/2013 04:53:24
+Error in: http://www.jobclick.com.br/comercial/equipe.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/equipe.aspx. Mensagem de erro: The requested script resource 'Compat.Timer.Timer.js' requires version 'AjaxControlToolkit, Version=4.1.50508.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e' of the ASP.NET AJAX Framework. To use this resource, make sure that the application references version 'AjaxControlToolkit, Version=4.1.50508.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e'.
+__________________________
+
+Log Entry : 
+11/06/2013 09:04:24
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...OMPLETO)
+<br><br><br><br><br>...").
+__________________________
+
+Log Entry : 
+11/06/2013 09:23:08
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/06/2013 09:28:35
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 09:28:54
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 10:50:17
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+11/06/2013 11:18:08
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 11:22:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 11:24:20
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 12:33:50
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+11/06/2013 12:42:05
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2013P/001069927-0. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2013P/001069927-0. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/06/2013 13:10:02
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/06/2013 13:11:45
+Error in: http://www.jobclick.com.br/_candidato/formacaoAcademica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacaoAcademica.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.92.201.23
+	Port: 64653
+	Referer: http://www.jobclick.com.br/_candidato/formacaoAcademica.aspx
+	Path: /_candidato/formacaoAcademica.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36
+	ViewState: I0bkE7cyUvAOlMeDu57HjpMpf4QB36Ony3sheGOehlAfvH6R+Y32Lsk8/RVjwPC6yxoEZBS00LVE/+nc3Ad4lR2c9NTz8liqjuN5xruNjKimd24M5RBVlvDWXgc1m0ECBCMGrX1i8OKGr/E/Ci534XmavYFiKRLMLugSfS069W4ud4ycmtO+vkoDqByuxbTgxgnU88qOaSyh1F2/CcSS
+__________________________
+
+Log Entry : 
+11/06/2013 15:40:22
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=s7nDQRdiFB8OfPkDDfceMmysRyu4LChXvsX1M-Is3Rcdhjo7MM>                        <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=s7nDQRdiFB8OfPkDDfceMmysRyu4LChXvsX1M-Is3Rcdhjo7MM>                        <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+11/06/2013 15:57:48
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=s7nDQRdiFB8OfPkDDfceMmysRyu4LChXvsX1M-Is3Rcdhjo7MM>                        <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=s7nDQRdiFB8OfPkDDfceMmysRyu4LChXvsX1M-Is3Rcdhjo7MM>                        <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+11/06/2013 16:11:31
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 16:12:32
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 17:07:38
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+11/06/2013 21:27:23
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 21:46:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 21:46:37
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 21:59:09
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 22:00:02
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/06/2013 22:02:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+11/07/2013 10:36:40
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/07/2013 10:36:45
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+11/07/2013 15:27:28
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+11/08/2013 16:26:50
+Error in: http://www.jobclick.com.br/_anonimo/conta.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/conta.aspx. Mensagem de erro: O arquivo '/DefaultPage.master' não existe.
+__________________________
+
+Log Entry : 
+11/08/2013 20:19:05
+Error in: http://www.jobclick.com.br/my.aspx?type=customization. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx?type=customization. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/08/2013 21:40:27
+Error in: http://www.jobclick.com.br/vaga.aspx/. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx/. Mensagem de erro: O arquivo '/vaga.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/09/2013 00:14:58
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/09/2013 00:53:01
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+11/09/2013 08:54:43
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+11/10/2013 06:48:11
+Error in: http://www.jobclick.com.br/my.aspx?type=subscriptions. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx?type=subscriptions. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/10/2013 09:24:20
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=12. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=12. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:24:26
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=7&idFAQresAssunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=7&idFAQresAssunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/10/2013 09:25:43
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=7&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=7&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/10/2013 09:27:04
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:27:13
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:27:19
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:27:50
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:27:57
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=12. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=12. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/10/2013 09:28:54
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/10/2013 09:28:59
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+11/10/2013 09:29:05
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/10/2013 09:29:12
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/10/2013 13:24:18
+Error in: http://www.jobclick.com.br/_parceiroJobClick/cadastro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_parceiroJobClick/cadastro.aspx. Mensagem de erro: Could not find stored procedure '_USP_ALTERA_SENHA_ACESSO_PARCEIRO'.
+__________________________
+
+Log Entry : 
+11/10/2013 16:41:20
+Error in: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Mensagem de erro: O arquivo '/comercial/_anonimo/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/10/2013 17:20:42
+Error in: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&t=634971607065510185. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&t=634971607065510185. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+11/10/2013 17:20:43
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/11/2013 07:36:55
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=14. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=14. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:37:02
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:38:10
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:38:12
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:04
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:07
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:22
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:24
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:28
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:36
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:39:42
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:37
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=8. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=8. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:40
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:45
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=9. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=9. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:50
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:53
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:56
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+11/11/2013 07:41:59
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+11/11/2013 08:01:02
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:01:19
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'&idmultimidiainfo=1. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'&idmultimidiainfo=1. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:01:25
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:01:26
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:01:48
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:07
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:24
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:34
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:39
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:40
+Error in: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx?idmultimidiainfocategoria=-1'. Mensagem de erro: Unclosed quotation mark after the character string ')'.
+Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:44
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:50
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:56
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/11/2013 08:02:59
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+11/11/2013 08:03:04
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/11/2013 08:03:08
+Error in: http://www.jobclick.com.br/info.aspx. Error Message:Erro na página: http://www.jobclick.com.br/info.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+11/12/2013 05:13:57
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=QjNp4Rvfx_OfChcuE0w-zxTuQNaGJxL-NIHit1hcUOnGWzmZOIHpmipMT_5Sa0Syv_6qwCm3DE4vork_U0EwanCaGMebhble5aU01YSCvmgXJ6wlXMkxtIB9dTOLAA_7QMyAHkiT8FhaY1BOovwewQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=QjNp4Rvfx_OfChcuE0w-zxTuQNaGJxL-NIHit1hcUOnGWzmZOIHpmipMT_5Sa0Syv_6qwCm3DE4vork_U0EwanCaGMebhble5aU01YSCvmgXJ6wlXMkxtIB9dTOLAA_7QMyAHkiT8FhaY1BOovwewQ2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 05:17:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=wbEY6Cm2wE079QR6C61HSFq090UY-chHM_kXY9wjlh8OqpkO2NB1Mpu9bpoHMcdyUws_4xUtukCOFSO2Bvm7RDbAbjVmy-kcWDBufA_9K9NnrKJZfMVb8DuM_p0uGlCnqJ1_mdTobVILkjPTFJ2AIg2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=wbEY6Cm2wE079QR6C61HSFq090UY-chHM_kXY9wjlh8OqpkO2NB1Mpu9bpoHMcdyUws_4xUtukCOFSO2Bvm7RDbAbjVmy-kcWDBufA_9K9NnrKJZfMVb8DuM_p0uGlCnqJ1_mdTobVILkjPTFJ2AIg2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 05:23:57
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=1obvPo3dCzSpTxUnvCVSjaLOL9CGhqWwNOBnbgmh-HoI-0g-dR9uxNuw_oE9EKkpXZ-4EGZXlB6SQtUtFnJ1NKiEIS06yrdZ87WpIrwokhGz__RYRIP01Yhn_5l2k3HzdxmAMPQX7ZT5RtKv-nhRHw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=1obvPo3dCzSpTxUnvCVSjaLOL9CGhqWwNOBnbgmh-HoI-0g-dR9uxNuw_oE9EKkpXZ-4EGZXlB6SQtUtFnJ1NKiEIS06yrdZ87WpIrwokhGz__RYRIP01Yhn_5l2k3HzdxmAMPQX7ZT5RtKv-nhRHw2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 05:28:59
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=QjNp4Rvfx_OfChcuE0w-zxTuQNaGJxL-NIHit1hcUOnGWzmZOIHpmipMT_5Sa0Syv_6qwCm3DE4vork_U0EwanCaGMebhble5aU01YSCvmgXJ6wlXMkxtIB9dTOLAA_7QMyAHkiT8FhaY1BOovwewQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=QjNp4Rvfx_OfChcuE0w-zxTuQNaGJxL-NIHit1hcUOnGWzmZOIHpmipMT_5Sa0Syv_6qwCm3DE4vork_U0EwanCaGMebhble5aU01YSCvmgXJ6wlXMkxtIB9dTOLAA_7QMyAHkiT8FhaY1BOovwewQ2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 05:31:30
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 05:46:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 06:01:39
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 06:05:51
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=wDH--5cGSdnOd1xAn8B23Oq3BstwK5X_j7IvwQBLpwiISVtzB2E4XzMPhhZ87BUUpT-bSsM2yWfkfFc4FRYswPGxLsB37Xk12ow5laS9kodSA_KKyeN7weEFsmhAHA7l9MQyNlErh0EPjgNjaT7M05Fqxg5G5nLHQGEmj2RHXoM1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=wDH--5cGSdnOd1xAn8B23Oq3BstwK5X_j7IvwQBLpwiISVtzB2E4XzMPhhZ87BUUpT-bSsM2yWfkfFc4FRYswPGxLsB37Xk12ow5laS9kodSA_KKyeN7weEFsmhAHA7l9MQyNlErh0EPjgNjaT7M05Fqxg5G5nLHQGEmj2RHXoM1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 06:16:41
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=bAEkD4h49w8bLGEnEHJtD2ERpArR9pfg-1nLCYNBc9aSH6mc8bC1T8msg7l1k91zz43gdOlB8J5t3kLldzWSPE7rrZoVXK5djLsy74Vf14iK0_xTCigNRLz-KpaDt44zh2hldjTB6A4R_HFPu6xL2exA1nx2_uYmXhIzmeI0uFk1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 06:16:45
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=ugk64Sdv-i_i02443j8UrQo9cZBER4H6G4Gd2DIoj7Qul2CqRqNo9RHEPPZ4eevvpji6H7dHkyuI8X7fpXqkJOW0C4nUrEHZTsDFjXc-NBLGWXMBhXZcaqRwiOuVCscz5IHJ23P0Cmm_i0jnJIAVGA2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=ugk64Sdv-i_i02443j8UrQo9cZBER4H6G4Gd2DIoj7Qul2CqRqNo9RHEPPZ4eevvpji6H7dHkyuI8X7fpXqkJOW0C4nUrEHZTsDFjXc-NBLGWXMBhXZcaqRwiOuVCscz5IHJ23P0Cmm_i0jnJIAVGA2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 06:16:49
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=SyJy7ESwFpKfKV-LMAYiH4qb8eKLooAMtqEWbQ-VlgfrRBhKpT9sKSJYbnGOYxGtt8UgZFoEQQP1QRCizaNger4wjZHFUXDhL6bt_cHxIf2-NtfwEEejymZ8PxXbIwWfQlUAWiOZEyfuecDjvyO7pZpJvT6KAZf2BUXEKCviysw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=SyJy7ESwFpKfKV-LMAYiH4qb8eKLooAMtqEWbQ-VlgfrRBhKpT9sKSJYbnGOYxGtt8UgZFoEQQP1QRCizaNger4wjZHFUXDhL6bt_cHxIf2-NtfwEEejymZ8PxXbIwWfQlUAWiOZEyfuecDjvyO7pZpJvT6KAZf2BUXEKCviysw1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+11/12/2013 08:50:13
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001035865-3&pesquisa=2013P/001035865-3. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2013P/001035865-3&pesquisa=2013P/001035865-3. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 08:52:02
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 08:55:44
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 09:00:58
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 10:42:00
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 10:45:22
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 11:10:48
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+11/12/2013 11:19:11
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 11:19:27
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/12/2013 11:46:48
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 11:47:31
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 13:43:52
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2013P/001040776-5. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2013P/001040776-5. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+11/12/2013 13:46:49
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=tel&limit=150&timestamp=1386776780808. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=tel&limit=150&timestamp=1386776780808. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 13:46:49
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=telefonista&limit=150&timestamp=1386776785105. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=telefonista&limit=150&timestamp=1386776785105. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 13:46:49
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=tele&limit=150&timestamp=1386776783433. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=tele&limit=150&timestamp=1386776783433. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 16:29:52
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 20:36:59
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+11/12/2013 21:15:02
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+11/12/2013 21:21:00
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________

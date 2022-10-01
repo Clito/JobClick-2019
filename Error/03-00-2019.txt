@@ -1,0 +1,35 @@
+
+Log Entry : 
+03/06/2019 18:19:38
+Error in: http://192.168.100.3:8085/_admin/mailing.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_admin/mailing.aspx. Mensagem de erro: Não é possível abrir o banco de dados "_Mailing_Jobclick" solicitado pelo logon. Falha de logon.
+Falha de logon do usuário 'sa'.
+__________________________
+
+Log Entry : 
+03/06/2019 18:19:38
+Error in: http://192.168.100.3:8085/_admin/mailing.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_admin/mailing.aspx. Mensagem de erro: Não é possível abrir o banco de dados "_Mailing_Jobclick" solicitado pelo logon. Falha de logon.
+Falha de logon do usuário 'sa'.
+__________________________
+
+Log Entry : 
+03/06/2019 18:19:55
+Error in: http://192.168.100.3:8085/_admin/mailingEmpresa.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_admin/mailingEmpresa.aspx. Mensagem de erro: Não é possível abrir o banco de dados "_Mailing_Jobclick" solicitado pelo logon. Falha de logon.
+Falha de logon do usuário 'sa'.
+__________________________
+
+Log Entry : 
+03/06/2019 20:38:23
+Error in: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Mensagem de erro: 'DropDownListANO' tem um SelectedValue que é inválido porque ele não existe na lista de itens.
+Nome do parâmetro: value
+__________________________
+
+Log Entry : 
+03/06/2019 20:40:06
+Error in: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Mensagem de erro: O procedimento ou a função 'spCEP' espera o parâmetro '@CEP', que não foi fornecido.
+__________________________
+
+Log Entry : 
+03/06/2019 20:41:45
+Error in: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Error Message:Erro na página: http://192.168.100.3:8085/_parceiroJobClick/vagaPatrocinada.aspx. Mensagem de erro: 'DropDownListANO' tem um SelectedValue que é inválido porque ele não existe na lista de itens.
+Nome do parâmetro: value
+__________________________

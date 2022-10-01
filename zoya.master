@@ -1,0 +1,82 @@
+﻿<%@ Master Language="VB" CodeFile="zoya.master.vb" Inherits="_anonimo_zoya" %>
+
+
+
+<%@ Register src="../App_Include/rodapeZoya.ascx" tagname="rodapeZoya" tagprefix="uc1" %>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns:o='urn:schemas-microsoft-com:office:office'xmlns:w='urn:schemas-microsoft-com:office:word'xmlns='http://www.w3.org/TR/REC-html40'>
+
+<!--[if gte mso 9]>
+<xml>
+<w:WordDocument>
+<w:View>Print</w:View>
+<w:Zoom>90</w:Zoom>  
+</w:WordDocument>
+</xml>
+<![endif]-->
+
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />  
+    
+<style>
+<!-- /* Style Definitions */@page Section1{size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in;mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1{page:Section1;}-->
+</style>
+  
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" style="height: 100px">
+                <script type="text/javascript">
+                    <!--
+                        var teste = new Flash("/swf/bannerZoya.swf", "Banner", "750", "100"); 
+                        teste.write();
+                    //-->
+                </script>                                    
+                </td>
+            </tr>
+        </table>
+        <table id="mybody" align="center" cellpadding="20" cellspacing="20" width="750px">
+            <tr>
+                <td width="750px" valign="top"><asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+            </tr>
+        </table>
+        <br />
+        <br />
+        
+        <table id="myrp" align="center" cellspacing="0" cellpadding="0" width="750px">
+            <tr>
+                <td><img border="0" src="/images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left">
+                        <tr>
+                            <td align="left">
+                                <uc1:rodapeZoya ID="rodapeZoya1" runat="server" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                      
+        </table>
+        
+    </div>
+    
+    <%=Application("google")%> 
+    <p>
+        &nbsp;</p>
+    
+    </form>
+    </body>
+</html>

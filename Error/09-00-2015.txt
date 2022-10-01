@@ -1,0 +1,10 @@
+
+Log Entry : 
+09/02/2015 18:15:57
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/02/2015 19:17:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20146422E00019919-NF. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20146422E00019919-NF. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

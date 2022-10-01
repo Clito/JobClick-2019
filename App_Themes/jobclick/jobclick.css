@@ -1,0 +1,171 @@
+﻿div
+{
+    text-align: center;
+	margin: 0px;
+	border: 0px;  
+}
+body
+{
+	font-size: 3mm;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+	margin: 0px;
+	border: 0px;
+	height: 0px; 
+}
+
+a:link
+{
+	text-decoration: underline;
+	color: #8D8D8D;
+	background-color: transparent;
+	text-align: right;
+	font-weight: bold;
+}
+a:visited {text-decoration:underline;color:#8D8D8D; background-color:transparent;font-weight: bold;}
+a:active  {text-decoration:underline;color:#8D8D8D; background-color:transparent;font-weight: bold;}
+a:hover   {text-decoration:underline;color:#505050; background-color:transparent;font-weight: bold;}
+
+a.banner:link    {text-decoration:none;color:#505050;background-color:transparent;font-weight: normal;}
+a.banner:visited {text-decoration:none;color:#505050;background-color:transparent;font-weight: normal;}
+a.banner:hover   {text-decoration:underline;color:#F03D00;background-color:transparent;font-weight: normal;}
+a.banner:active  {text-decoration:underline;color:#F03D00;background-color:transparent;font-weight: normal;}
+
+a.button:link    {text-decoration:none;color:#ffffff;background-color:transparent}
+a.button:visited {text-decoration:none;color:#ffffff;background-color:transparent}
+a.button:hover   {text-decoration:underline;color:#ffffff;background-color:transparent}
+a.button:active  {text-decoration:underline;color:#ffffff;background-color:transparent}
+
+a.button_CINZA:link    {text-decoration:none;color:#000000;background-color:transparent}
+a.button_CINZA:visited {text-decoration:none;color:#000000;background-color:transparent}
+a.button_CINZA:hover   {text-decoration:underline;color:#000000;background-color:transparent}
+a.button_CINZA:active  {text-decoration:underline;color:#000000;background-color:transparent}
+
+.TituloG
+{
+	font-size: 12pt;
+	color: #F03D00;
+	font-family: Verdana;
+	text-decoration: none;
+	margin: 0px;
+	font-weight: bold;
+}
+.Titulo
+{
+    font-size: 10pt;
+    color: #F03D00;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: bolder;
+    }
+.SubTitulo
+{
+    font-size: 7pt;
+    color: #F03D00;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: bolder;
+}
+.SubTituloPreto
+{
+    font-size: 7pt;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: bolder;
+}
+.textDescritivo
+{
+    font-size: 8pt;
+    color: #333333;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: normal;
+}
+.textBold
+{
+    font-size: 8pt;
+    color: #333333;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: normal;
+}
+.BgBUTTOM
+{
+    background-color: #F03D00;
+}
+.BgBUTTOM_CINZA
+{
+    background-color: #e8e8e8;
+}
+.PP {padding: 1px; margin: 1px; z-index: 100; position: absolute; top: 135px; left: 200px; 
+height: 101px; width: 535px; }
+.msnNOK
+{
+    font-size: 8pt;
+    color: #CC3300;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: bolder;
+}
+.msnOK
+{
+    font-size: 8pt;
+    color: #1C5801;
+    font-family: Verdana;
+    text-decoration: none;
+    margin: 0px;
+    font-weight: bolder;
+}
+
+.stylemail
+{
+    font-size: 8pt;
+    color: black;
+    font-family: Verdana;
+    text-decoration: none;
+}
+.DGINDICAPosition
+{
+    border: 1px dashed #C0C0C0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 390px;
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    cursor: move;
+    background-color: #FAFAFA;
+    top: 350px;
+    left: 30%;
+}
+.backgroundFirstContent 
+{
+    background-image: url(/image_site/bgnd.png);
+	background-repeat: repeat;
+
+}
+
+.panelProfissional
+{
+    text-align: center;
+    border: 1px solid #707070;
+    padding: 0px;
+    float: inherit;
+    z-index: 100;
+    position: fixed;
+    background-color: #FBFBFB;
+    width: 500px;
+    height: 350px;
+    top: 20%;
+    left: 30%;
+}

@@ -1,0 +1,3 @@
+URL para empresas
+
+https://graph.facebook.com/oauth/authorize?client_id=411134985579132&scope=publish_stream,manage_pages&redirect_uri=http://www.jobclick.com.br/facebook/permissaofanpage.aspx%3FidClient=1&response_type=token

@@ -1,0 +1,5 @@
+
+Log Entry : 
+31/05/2019 19:23:27
+Error in: http://192.168.100.3/_anonimo/sponsoredAD.aspx?pesquisa=. Error Message:Erro na página: http://192.168.100.3/_anonimo/sponsoredAD.aspx?pesquisa=. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________

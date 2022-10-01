@@ -1,0 +1,67 @@
+
+Log Entry : 
+22/10/2011 15:01:48
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001563-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001563-4. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/10/2011 16:06:49
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+22/11/2011 01:26:34
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2011/001003459-3. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2011/001003459-3. Mensagem de erro: The file '/anonimo/vagas.aspx' does not exist.
+__________________________
+
+Log Entry : 
+22/11/2011 11:39:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 12:52:20
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 186.206.228.165
+	Port: 3796
+	Referer: http://www.jobclick.com.br/_candidato/cursos.aspx
+	Path: /_candidato/cursos.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+	ViewState: wTdL4z4fHCP+yLgMsLWczhtRCbTYp6E50/NN417XgHWhUxVf0tJCoQIc47MsrmAuGomTd37ngtfBbj+V43mN9leclq59EycgeFFafOKPXN6VfsFym9iNNI6O5yv2thqhXzxqrw+bUqMGWeKiOuQdMfVYj5sBtHEjk88pJq7QAgCIIscc6A61tb1oXGeDZnac7WagUVAccfYFslYyT6g/hOVAMElXAztQCAPjXcj49nCmhuhw8tOm4QcnUAT9/3Uv6VVnMxngMw3HQaG9zhFCJhSQuvTEOVfzHHYD3+x/QFirvAAenNTHGCFwRgnvRHj+cXBYbR5xDcSWteXFGsrYYSL2lZevsaun+8SUWcExsGYsG6heOeVyx6ZOB2wCEQTX5SQ+aMnBO/ppatW2KRVVNZ4oE2RHpYBbvh8+QaqlVm4BgxP6fwLI50yupsu0B4tNaMwFarrP+5LmMhC+RL37uRMU79SlBDL9PX1+ZQCBLAZhAT4W5CkWHpu/V6MaYsLRbeiTvDAa7F5rS5L3PdOkohNgyc4M7xzVNtJFDZMO3u8NgEybuPJ7wC663amEPqS9s8SJaZ1n2fRQcon6cDc1Nf98TZG8IEGf2rl3IMN+u4QstRZEFz2eFj4z4jvNd1Lrz7BStc0XMB7li/GzR7zNNFiAcjboc/SNwD0gPxS5dmW2RX9fntXsfaJug4Ec5soS/OzAU4UBVPKHAE9q0NO3M/u216kQkV8+/qI2EqdmcBNcOH/aGKbHzN...
+__________________________
+
+Log Entry : 
+22/11/2011 12:54:05
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 15:46:45
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 17:45:26
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+22/11/2011 18:23:18
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 18:23:25
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 18:23:28
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+22/11/2011 19:55:53
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________

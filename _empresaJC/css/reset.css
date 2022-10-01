@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* 
+html5doctor.com Reset Stylesheet
+v1.4 
+2009-07-27
+Author: Richard Clark - http://richclarkdesign.com
+*/
+
+img, tr, th, td, table
+{
+	border-style: none;
+	border-width: 100%;
+	border-color: inherit;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: top;
+	background: transparent;
+}
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, caption, tbody, tfoot, thead, article, aside, dialog, figure, footer, header, hgroup, menu, nav, section, time, mark, audio, video
+{
+	border-style: none;
+	border-width: 100%;
+	border-color: inherit;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: middle;
+	background: transparent;
+}
+
+
+body {
+    line-height:1;
+	font:75%/1.5em Arial, Helvetica, "Liberation sans", "Bitstream Vera Sans", sans-serif;
+}
+
+article, aside, dialog, figure, footer, header, 
+hgroup, nav, section { 
+    display:block;
+}
+
+footer
+{
+	font-family: Verdana;
+	font-size: 10pt;
+}
+
+nav ul {
+    list-style:none;
+}
+
+blockquote, q {
+    quotes:none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:'';
+    content:none;
+}
+
+a {
+    margin:0;
+    padding:0;
+    border:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+
+ins {
+    background-color:#ff9;
+    color:#000;
+    text-decoration:none;
+}
+
+mark {
+    background-color:#ff9;
+    color:#000; 
+    font-style:italic;
+    font-weight:bold;
+}
+
+del {
+    text-decoration: line-through;
+}
+
+abbr[title], dfn[title] {
+    border-bottom:1px dotted #000;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #505050;
+    margin:1em 0;
+    padding:0;
+}
+
+input, select {
+    vertical-align:middle;
+}

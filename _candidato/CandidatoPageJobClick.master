@@ -1,0 +1,254 @@
+﻿<%@ Master Language="VB" CodeFile="CandidatoPageJobClick.master.vb" Inherits="_candidato_CandidatoPageJobClick" %>
+
+<%@ Register assembly="AjaxControlToolkit" namespace="AjaxControlToolkit" tagprefix="asp" %>
+
+<%@ Register src="../App_Include/NavegadorControl.ascx" tagname="NavegadorControl" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="MyHead" runat="server">
+	<title>JobClick</title>
+
+    <!--#include file="/metatag.shtml"-->
+    <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+    <META HTTP-EQUIV="EXPIRES" CONTENT="0">
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+	<!-- Google+1 button -->
+	<meta itemprop="name" content="JobClick">
+	<meta itemprop="description" content="Bem-vindo ao JobClick, o primeiro buscador de empregos 100% gratuito para profissionais. Procure seu emprego e hospede seu currículo.">
+	<meta itemprop="image" content="http://www.jobclick.com.br/icone.ico">
+	<!-- /Google+1 button -->
+
+    <link href="/App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+    <script src="/jquery-1.7.min.js" type="text/javascript"></script>
+	<link type="text/css" href="../App_Themes/ui-lightness/jquery-ui-1.8.19.custom.css" rel="Stylesheet" />	
+    <script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+    <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script type="text/javascript" src="/scripts/geolocate.js"></script>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+     <script src="/_candidato/CandidatoPageJobClick.master.js" type="text/javascript"></script>
+
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerHome" runat="server" 
+        EnableScriptGlobalization="True">
+        <Services>
+        </Services>
+    </asp:ScriptManager>
+    <asp:Label ID="URLLabel" runat="server" Visible="False"></asp:Label>
+    <div id="Nav" style="width: 100%">
+        <ul id="menu" style="width: 100%">
+            <li>
+                <asp:Image ID="Image2" runat="server" ImageUrl="~/images/icon_menuprincipal.png" GenerateEmptyAlternateText="True" />
+                <asp:HyperLink ID="HyperLink_MenuPrincipal" runat="server" NavigateUrl="/_candidato/" Text="Menu Principal"></asp:HyperLink>
+                <ul>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Agenda" runat="server" NavigateUrl="~/_candidato/agenda.aspx" Text="Minha Agenda Pessoal" ToolTip="A sua agenda pessoal, aqui você poderá anotar seus compromissos e ser avisado por email."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_AgendaVirtual" runat="server" NavigateUrl="~/_candidato/agenda_virtual.aspx" Text="Agenda de Entrevista Virtual" ToolTip="Esta é sua agenda de entrevistas virtuais com o recrutador."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_AgendaPresencial" runat="server" NavigateUrl="~/_candidato/agenda_candidato.aspx" Text="Agenda de Entrevista Presencial" ToolTip="Esta é sua agenda de entrevistas presenciais com o recrutador."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_IndicacaoPessoal" runat="server" NavigateUrl="~/_candidato/indicacandidatoEmpresa.aspx" Text="Indicações Pessoais" ToolTip="Solicite uma indicação pessoal para um profissional que você conheça"></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_IndicacaoCandidato" runat="server" Text="Indicações recebidas por e-mail" ToolTip="Você recebeu uma indicação por e-mail? Confirme sua candidatura aqui!" NavigateUrl="~/_candidato/indicacandidato.aspx"></asp:HyperLink> 
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_EnvioEmail" runat="server" NavigateUrl="~/_candidato/publicar.aspx" Text="Enviar meu Curriculo por email" ToolTip="Envie seu Currículo para qualquer empresa que desejar."></asp:HyperLink> 
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Conta" runat="server" NavigateUrl="~/_candidato/conta.aspx" Text="Minha Conta de Acesso" ToolTip="Clique aqui para alterar seus dados de acesso"></asp:HyperLink>
+                    </li>
+                    <!-- li>
+                        Siga-nos nas redes sociais <br />
+                        <a href="http://www.facebook.com/PortalJobclick" target="_blank" class="linksocial"><asp:Image ID="Image_Facebook" runat="server" ImageUrl="~/images/layoutNew/facebook.gif" AlternateText="Facebook" /></a>
+                        <a href="http://www.linkedin.com/company/2562057?trk=tyah" target="_blank" class="linksocial"><asp:Image ID="Image_Linkedin" runat="server" ImageUrl="~/images/layoutNew/linkedin.gif" AlternateText="LinkedIn" /></a>
+                        <a href="https://twitter.com/_jobclick" target="_blank" class="linksocial"><asp:Image ID="Image_Twitter" runat="server" ImageUrl="~/images/layoutNew/twitter.png" AlternateText="Twitter" /></a>
+                        <a href="https://plus.google.com/117523594974970752948" target="_blank" class="linksocial"><asp:Image ID="Image_GooglePlus" runat="server" ImageUrl="~/images/layoutNew/googleplus.jpg" AlternateText="Google+" /></a>
+                    </li -->
+                </ul>
+            </li>
+            <li>
+                <asp:Image ID="Image3" runat="server" ImageUrl="~/images/icon_curriculo.png" GenerateEmptyAlternateText="True" />
+                <asp:HyperLink ID="HyperLink_Curriculo" runat="server" NavigateUrl="~/_candidato/mycurriculo.aspx" Text="Meus Currículos" ToolTip="Impressão, visualização e editar outros CVs"></asp:HyperLink>
+                <ul>
+                    <li>                    
+                        <asp:HyperLink ID="HyperLink_Empresa" runat="server" NavigateUrl="~/_candidato/mycurriculo.aspx" Text="Visualizar meu Currículo ativo" ToolTip="Veja o seu Curriculo ativo."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_OutroCurriculo" runat="server" NavigateUrl="~/_candidato/cv.aspx" Text="Editar outro Currículo " ToolTip="Crie ou edite outros Curriculos."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_DadosPessoais" runat="server" NavigateUrl="~/_candidato/administraCV.aspx" Text="Dados Pessoais" ToolTip="Atualizar seus dados pessoais, como endereço, e-mail e outras informações importantes."></asp:HyperLink> 
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Telefone" runat="server" NavigateUrl="~/_candidato/contato.aspx" Text="Telefones para contato" ToolTip="Atualize ou informe os seus telefones para contato."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_ExperienciaProfissional" runat="server" NavigateUrl="~/_candidato/experiencia.aspx" Text="Experiência profissional" ToolTip="Atualize ou informe as empresas nas quais você trabalhou, suas conquistas e fale dos pontos positivos da empresa."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_FormacaoAcademica" runat="server" NavigateUrl="~/_candidato/formacaoAcademica.aspx" Text="Formação acadêmica" ToolTip="Atualize ou informe as escolas nas quais você estudou."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_ConhecimentoInformatica" runat="server" NavigateUrl="~/_candidato/conhecimento.aspx" Text="Conhecimentos em informática" ToolTip="Atualize ou informe quais conhecimentos você possui e especifique o grau de conhecimento em softwares."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Idiomas" runat="server" NavigateUrl="~/_candidato/idiomas.aspx" Text="Idiomas" ToolTip="Atualize ou informe os idiomas que você domina e sua proficiência."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Objetivo" runat="server" NavigateUrl="~/_candidato/objetivo.aspx" Text="Apresentação pessoal" ToolTip="Atualize ou informe sua apresentação pessoal"></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_FormacaoComplementar" runat="server" NavigateUrl="~/_candidato/cursos.aspx" Text="Formação complementar" ToolTip="Atualize ou informe os cursos complementares nos quais você participou."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_InformacoesAdicionais" runat="server" NavigateUrl="~/_candidato/informacoes.aspx" Text="Informações adicionais" ToolTip="Atualize ou informe quando solicitado pela empresa seus documentos e outras comprovações."></asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_AtividadesExtraCurriculares" runat="server" NavigateUrl="~/_candidato/extraCurricular.aspx" Text="Atividade extra curricular" ToolTip="Atualize ou informe suas atividades extra curriculares"></asp:HyperLink>
+                    </li>
+                    <!-- li>
+                        <asp:HyperLink ID="HyperLink_Multimidia" runat="server" NavigateUrl="~/_candidato/multimidia.aspx" Text="Foto e apresentação multimídia" ToolTip="Atualize ou informe sua foto em seu CV e seus vídeo-curriculos/portifólios publicados no YouTube."></asp:HyperLink>
+                    </li -->
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Intercambio" runat="server" NavigateUrl="~/_candidato/intercambio.aspx" Text="Intercâmbio" ToolTip="Atualize ou informe os países que você fez intercâmbio e suas experiências."></asp:HyperLink>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="/_candidato/vagas.aspx"><asp:Image ID="Image5" runat="server" ImageUrl="~/images/icon_news.png" GenerateEmptyAlternateText="True" /></a>
+                <asp:HyperLink ID="HyperLinkHome" runat="server" NavigateUrl="~/_candidato/vagas.aspx" Text="Vagas" ToolTip="Veja o painel de vagas"></asp:HyperLink>
+                <ul>
+                    <li>
+                        <asp:HyperLink ID="HyperLink_Vagas2" runat="server" NavigateUrl="~/_candidato/vagas.aspx" Text="Pesquisa de Vagas" ToolTip="Veja o painel de vagas"></asp:HyperLink> 
+                    </li>
+                </ul>
+            </li>
+            <li class="lilogin">
+                <asp:Image ID="Image_Login" runat="server" ImageUrl="~/images/icon_key.png" GenerateEmptyAlternateText="True" />
+                <asp:LinkButton ID="LinkButtonLogin" runat="server" CausesValidation="False">Fazer login </asp:LinkButton>
+                <asp:Image ID="ImageLogout_UserThumb" runat="server" ImageUrl="http://foto.jobclick.com.br/_candidato/foto/cvnoImage.png" GenerateEmptyAlternateText="True" cssClass="LogoutImagemThumb"/>
+                <ul>
+                    <li>
+                        <table>
+                            <tr>
+                                <td>
+                                    <asp:ImageButton ID="ImageLogout_User" runat="server" ImageUrl="http://foto.jobclick.com.br/_candidato/foto/cvnoImage.png" cssClass="LogoutImagem" AlternateText="Imagem" ToolTip="Clique aqui para alterar sua foto." PostBackUrl="~/_candidato/administraCV.aspx" />
+                                </td>
+                                <td style="vertical-align: top">
+                                    <div class="LogoutText">
+                                        <strong><asp:Label ID="LabelLogout_UserName" runat="server" Text=""></asp:Label></strong><br />
+                                        <br />
+                                        <strong>Curriculo Ativo:</strong> <asp:Label ID="LabelLogout_UserCurriculo" runat="server" Text=""></asp:Label>
+                                    </div>
+                                </td>
+                            </tr>
+                        </table>
+                    </li>
+                    <li style="background-color: #eee !important;">
+                        <asp:HyperLink ID="HyperLink_Logout" runat="server" NavigateUrl="~/logout.aspx" Text="Sair" ToolTip="Clique aqui para sair" ></asp:HyperLink>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div style="clear: both"></div>
+    <div align="center">
+    <table align="center" cellpadding="0" cellspacing="0" width="100%" id="HOME">
+        <tr>
+            <td><asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder></td>
+        </tr>
+    </table>        
+    </div>
+ <asp:Panel ID="PanelLogin" runat="server" CssClass="LoginPanel" Visible="False" DefaultButton="ImageButtonLoginLogica">
+        <table cellpadding="0" cellspacing="0" width="100%" id="Login_Int">
+            <tr>
+                <td>
+                    <asp:ImageButton ID="ImageButtonClose" runat="server" 
+                        ImageUrl="~/images/layoutNew/close.png" CausesValidation="False" />
+                </td>
+            </tr>
+            <tr>
+                <td style="text-align: center">
+                               &nbsp; <asp:Label ID="msn" runat="server" CssClass="msn"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <table width="100%" cellpadding="5" cellspacing="5" id="Form">
+                        <tr>
+                            <td align="right">
+                                <asp:Label ID="LabelEmail" runat="server" Font-Bold="True" Text="E-mail:"></asp:Label>
+                            </td>
+                            <td>
+                                <asp:TextBox ID="TextBoxEmail" runat="server" CssClass="login" Width="345px" 
+                                    ValidationGroup="FormLogin"></asp:TextBox>
+                                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                                    ControlToValidate="TextBoxEmail" Display="Dynamic" 
+                                    ErrorMessage="E-mail é obrigatório." ValidationGroup="FormLogin">*</asp:RequiredFieldValidator>
+                                <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                                    ControlToValidate="TextBoxEmail" Display="Dynamic" 
+                                    ErrorMessage="Informe e-mail válido." 
+                                    ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*" 
+                                    ValidationGroup="FormLogin">*</asp:RegularExpressionValidator>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td id="tdEsquerdo" runat="server" align="right" visible="true">
+                                <asp:Label ID="LabelSenha" runat="server" Font-Bold="True" Font-Italic="False" 
+                                    Text="Senha:"></asp:Label>
+                            </td>
+                            <td id="tdDireito" runat="server" visible="true">
+                                <asp:TextBox ID="TextBoxSenha" runat="server" CssClass="login" 
+                                    TextMode="Password" Width="345px" ValidationGroup="FormLogin"></asp:TextBox>
+                                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                                    ControlToValidate="TextBoxSenha" Display="Dynamic" 
+                                    ErrorMessage="Senha é obrigatória" ValidationGroup="FormLogin">*</asp:RequiredFieldValidator>
+                                <br />
+                                <asp:LinkButton ID="LinkButtonLembrete" runat="server" CausesValidation="False">Esqueci a senha de acesso!</asp:LinkButton>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td align="right"></td>
+                            <td align="right">
+								 <asp:LinkButton ID="LinkButtonDoLogin" runat="server" CssClass="button" 
+                                    ToolTip="Para ter acesso você precisa ter uma conta no portal." 
+                                    ValidationGroup="FormLogin">Login</asp:LinkButton>
+                                <asp:LinkButton ID="LinkButtonRecuperar" runat="server" CssClass="button" 
+                                    ValidationGroup="FormLogin" Visible="False">Recuperar senha</asp:LinkButton>
+                                <asp:LinkButton ID="Voltar" runat="server" CssClass="button" Visible="False">Voltar</asp:LinkButton>
+                                <asp:LinkButton ID="LinkButtonCadastro" runat="server" CssClass="button" 
+                                    PostBackUrl="~/_anonimo/cadastroCandidato.aspx">Cadastre-se</asp:LinkButton>
+								<br />
+                                <asp:ImageButton ID="ImageButtonEnviarSenha" runat="server" 
+                                    ToolTip="Informe seu e-mail e clique aqui para ser informado." 
+                                    ValidationGroup="FormLogin"  style="display:none" />
+                                <asp:ImageButton ID="ImageButtonLoginLogica" runat="server" 
+                                    ToolTip="Preencha o formulário e clique aqui para entrar." 
+                                    ValidationGroup="FormLogin" style="display:none"/> 
+                                <asp:ValidationSummary ID="ValidationSummaryLogin" runat="server" 
+                                    ShowMessageBox="True" ShowSummary="False" ValidationGroup="FormLogin" />
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </asp:Panel>
+    <asp:DragPanelExtender ID="PanelLogin_DragPanelExtender" runat="server" 
+        DragHandleID="PanelLogin" Enabled="True" TargetControlID="PanelLogin">
+    </asp:DragPanelExtender>
+    </form>
+    <%=Application("google")%>
+</body>
+</html>

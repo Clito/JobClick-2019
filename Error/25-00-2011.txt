@@ -1,0 +1,130 @@
+
+Log Entry : 
+25/09/2011 13:44:36
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+25/09/2011 13:44:46
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+25/09/2011 13:44:56
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+25/09/2011 15:49:42
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=of2H-kNc4PqTenF3sDCFcJAkfsJoi1Ia3FBTxMS6nsu_-Ryb1tYNwS26DskHawzjjfXf8Uodm54C1pWwMsZmsF9gcujSUI7toussyfgxch6a-PXlPVnzknI-VAucSInmZ7_xQbakH7fuCvWd6KRjvqcBgS201NhqLDdcoFeCBnOm5FcuskD-n4IMGLUfdhlF0&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=of2H-kNc4PqTenF3sDCFcJAkfsJoi1Ia3FBTxMS6nsu_-Ryb1tYNwS26DskHawzjjfXf8Uodm54C1pWwMsZmsF9gcujSUI7toussyfgxch6a-PXlPVnzknI-VAucSInmZ7_xQbakH7fuCvWd6KRjvqcBgS201NhqLDdcoFeCBnOm5FcuskD-n4IMGLUfdhlF0&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/09/2011 15:49:43
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=ZGaH-2N7-Re4SSkvmM1ghMpZ_mwdAT-Hs385u6R1JjXjol4bnkzN5zkFAgnABN8zcMJ9LKc_lUdcb6KLcAW8B8Iahqj2BP_Zkc7d203UtUBvQVnzVl1-LiAQM99-2wWQ5ZwobSN59D9g-bEV-VfinoIt7zG5T6uDHHd-7j5udBg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=ZGaH-2N7-Re4SSkvmM1ghMpZ_mwdAT-Hs385u6R1JjXjol4bnkzN5zkFAgnABN8zcMJ9LKc_lUdcb6KLcAW8B8Iahqj2BP_Zkc7d203UtUBvQVnzVl1-LiAQM99-2wWQ5ZwobSN59D9g-bEV-VfinoIt7zG5T6uDHHd-7j5udBg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/09/2011 15:49:43
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=45PVDazBYzlajcLBYRgWfMsZWzoXzH2Ofzo4NzMTICaVdIlM7azn7JhpptiC04Sa7ZEnw9eV8lAs-r84X9fCQPMY_IjGw-vhDrgpCVooOmvUK554U4iKkI61EqdOhsZAn1Y5deih8FqEO0li9jYUeLFoCCWVEXsJShsLz9vODuA1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=45PVDazBYzlajcLBYRgWfMsZWzoXzH2Ofzo4NzMTICaVdIlM7azn7JhpptiC04Sa7ZEnw9eV8lAs-r84X9fCQPMY_IjGw-vhDrgpCVooOmvUK554U4iKkI61EqdOhsZAn1Y5deih8FqEO0li9jYUeLFoCCWVEXsJShsLz9vODuA1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/09/2011 22:52:25
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=21492. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=21492. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+25/09/2011 22:53:41
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=18383. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=18383. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+25/09/2011 23:36:26
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+25/09/2011 23:36:35
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+25/10/2011 08:18:01
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKha</td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKha</td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/10/2011 12:31:11
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaP</li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaP</li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/10/2011 15:39:06
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+25/10/2011 16:11:20
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001979-2. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001979-2. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+25/10/2011 16:29:47
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/10/2011 16:29:50
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/10/2011 16:29:55
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+25/10/2011 20:28:43
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+25/11/2011 10:50:08
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/11/2011 11:26:44
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/11/2011 16:21:53
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/11/2011 16:22:58
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/11/2011 16:43:46
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/11/2011 17:24:50
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+25/11/2011 19:26:59
+Error in: http://www.jobclick.com.br/_candidato/objetivo.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/objetivo.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________

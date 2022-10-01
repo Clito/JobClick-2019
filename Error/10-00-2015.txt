@@ -1,0 +1,5 @@
+
+Log Entry : 
+10/02/2015 11:02:35
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getAD">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="IPLiberaContagem" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="cidadeAD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="estadoAD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="paisAD" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pesquisaOnServer" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getADResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getADResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getADView">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="idAD" type="s:int" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getADViewResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getADViewResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="DataSet" nillable="true">
+        <s:complexType>
+          <s:sequence>
+            <s:element ref="s:schema" />
+            <s:any />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getADSoapIn">
+    <wsdl:part name="parameters" element="tns:getAD" />
+  </wsdl:message>
+  <wsdl:message name="getADSoapOut">
+    <wsdl:part name="parameters" element="tns:getADResponse" />
+  </wsdl:message>
+  <wsdl:message name="getADViewSoapIn">
+    <wsdl:part name="parameters" element="tns:getADView" />
+  </wsdl:message>
+  <wsdl:message name="getADViewSoapOut">
+    <wsdl:part name="parameters" element="tns:getADViewResponse" />
+  </wsdl:message>
+  <wsdl:message name="getADHttpGetIn">
+    <wsdl:part name="IPLiberaContagem" type="s:string" />
+    <wsdl:part name="cidadeAD" type="s:string" />
+    <wsdl:part name="estadoAD" type="s:string" />
+    <wsdl:part name="paisAD" type="s:string" />
+    <wsdl:part name="pesquisaOnServer" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getADHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="getADViewHttpGetIn">
+    <wsdl:part name="idAD" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getADViewHttpGetOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="getADHttpPostIn">
+    <wsdl:part name="IPLiberaContagem" type="s:string" />
+    <wsdl:part name="cidadeAD" type="s:string" />
+    <wsdl:part name="estadoAD" type="s:string" />
+    <wsdl:part name="paisAD" type="s:string" />
+    <wsdl:part name="pesquisaOnServer" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getADHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:message name="getADViewHttpPostIn">
+    <wsdl:part name="idAD" type="s:string" />
+  </wsdl:message>
+  <wsdl:message name="getADViewHttpPostOut">
+    <wsdl:part name="Body" element="tns:DataSet" />
+  </wsdl:message>
+  <wsdl:portType name="WSsponsoredADSoap">
+    <wsdl:operation name="getAD">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas em dataset</wsdl:documentation>
+      <wsdl:input message="tns:getADSoapIn" />
+      <wsdl:output message="tns:getADSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas</wsdl:documentation>
+      <wsdl:input message="tns:getADViewSoapIn" />
+      <wsdl:output message="tns:getADViewSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="WSsponsoredADHttpGet">
+    <wsdl:operation name="getAD">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas em dataset</wsdl:documentation>
+      <wsdl:input message="tns:getADHttpGetIn" />
+      <wsdl:output message="tns:getADHttpGetOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas</wsdl:documentation>
+      <wsdl:input message="tns:getADViewHttpGetIn" />
+      <wsdl:output message="tns:getADViewHttpGetOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="WSsponsoredADHttpPost">
+    <wsdl:operation name="getAD">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas em dataset</wsdl:documentation>
+      <wsdl:input message="tns:getADHttpPostIn" />
+      <wsdl:output message="tns:getADHttpPostOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">AD Vagas Patrocinadas</wsdl:documentation>
+      <wsdl:input message="tns:getADViewHttpPostIn" />
+      <wsdl:output message="tns:getADViewHttpPostOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="WSsponsoredADSoap" type="tns:WSsponsoredADSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAD">
+      <soap:operation soapAction="http://tempuri.org/getAD" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <soap:operation soapAction="http://tempuri.org/getADView" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSsponsoredADSoap12" type="tns:WSsponsoredADSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getAD">
+      <soap12:operation soapAction="http://tempuri.org/getAD" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <soap12:operation soapAction="http://tempuri.org/getADView" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSsponsoredADHttpGet" type="tns:WSsponsoredADHttpGet">
+    <http:binding verb="GET" />
+    <wsdl:operation name="getAD">
+      <http:operation location="/getAD" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <http:operation location="/getADView" />
+      <wsdl:input>
+        <http:urlEncoded />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="WSsponsoredADHttpPost" type="tns:WSsponsoredADHttpPost">
+    <http:binding verb="POST" />
+    <wsdl:operation name="getAD">
+      <http:operation location="/getAD" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getADView">
+      <http:operation location="/getADView" />
+      <wsdl:input>
+        <mime:content type="application/x-www-form-urlencoded" />
+      </wsdl:input>
+      <wsdl:output>
+        <mime:mimeXml part="Body" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WSsponsoredAD">
+    <wsdl:port name="WSsponsoredADSoap" binding="tns:WSsponsoredADSoap">
+      <soap:address location="http://wsjobclick.jobclick.com.br/WSsponsoredAD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSsponsoredADSoap12" binding="tns:WSsponsoredADSoap12">
+      <soap12:address location="http://wsjobclick.jobclick.com.br/WSsponsoredAD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSsponsoredADHttpGet" binding="tns:WSsponsoredADHttpGet">
+      <http:address location="http://wsjobclick.jobclick.com.br/WSsponsoredAD.asmx" />
+    </wsdl:port>
+    <wsdl:port name="WSsponsoredADHttpPost" binding="tns:WSsponsoredADHttpPost">
+      <http:address location="http://wsjobclick.jobclick.com.br/WSsponsoredAD.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

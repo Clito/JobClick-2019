@@ -1,0 +1,256 @@
+
+Log Entry : 
+04/09/2011 14:10:23
+Error in: http://www.jobclick.com.br/vaga.aspx. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx. Mensagem de erro: The file '/vaga.aspx' does not exist.
+__________________________
+
+Log Entry : 
+04/09/2011 17:05:40
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: The file '/App_Include/NavegadorControl.ascx' does not exist.
+__________________________
+
+Log Entry : 
+04/09/2011 17:18:50
+Error in: http://www.jobclick.com.br/_candidato/agenda.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/agenda.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\agenda.aspx(116): error BC30456: 'DropDownListIni_SelectedIndexChanged' is not a member of 'ASP._candidato_agenda_aspx'.
+__________________________
+
+Log Entry : 
+04/09/2011 17:19:02
+Error in: http://www.jobclick.com.br/_candidato/agenda_candidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/agenda_candidato.aspx. Mensagem de erro: The file '/_candidato/agenda_candidato.aspx.vb' does not exist.
+__________________________
+
+Log Entry : 
+04/09/2011 17:20:15
+Error in: http://www.jobclick.com.br/_candidato/agenda_candidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/agenda_candidato.aspx. Mensagem de erro: The file '/_candidato/agenda_candidato.aspx.vb' does not exist.
+__________________________
+
+Log Entry : 
+04/09/2011 17:22:24
+Error in: http://www.jobclick.com.br/_candidato/agenda.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/agenda.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\agenda.aspx(116): error BC30456: 'DropDownListIni_SelectedIndexChanged' is not a member of 'ASP._candidato_agenda_aspx'.
+__________________________
+
+Log Entry : 
+04/09/2011 17:23:08
+Error in: http://www.jobclick.com.br/_candidato/agenda.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/agenda.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\agenda.aspx(116): error BC30456: 'DropDownListIni_SelectedIndexChanged' is not a member of 'ASP._candidato_agenda_aspx'.
+__________________________
+
+Log Entry : 
+04/09/2011 17:31:09
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=&id=55&idRes=103. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=&id=55&idRes=103. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/09/2011 17:39:24
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=&id=55&idRes=105. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=&id=55&idRes=105. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/09/2011 17:45:08
+Error in: http://www.jobclick.com.br/_candidato/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/faq.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\faq.aspx.vb(2): error ASPNET: Make sure that the class defined in this code file matches the 'inherits' attribute, and that it extends the correct base class (e.g. Page or UserControl).
+__________________________
+
+Log Entry : 
+04/10/2011 02:26:04
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=71kRXkAaG1k=&id=hmg96KBso5Y=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=71kRXkAaG1k=&id=hmg96KBso5Y=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+04/10/2011 07:53:41
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid viewstate. 
+	Client IP: 187.0.251.22
+	Port: 27172
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; MS-RTC LM 8; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)
+	ViewState: SayHq3wfWSOxumIXNd1rjvzIYDaMlcmIUtaBdFAanEcdEoKXZGx7hV/xNDGS6FdGMbM1nBVRiEwgq+NexW0TI/yjtGM5TzrdQrbVY2oUDR32lHSonBKFIY/UoIHe1P/h58HViytNlZs6jEHb+yqe9Md0ZWVl3RlaHH3IcOY7EkZbxV0WIU89wrXSxsACuFLFA//0hKfz7FsANqYtIN6ybeqfdgm3inPICs0bLDHMr/R/xMTO+HGoqDamKKEj6JPE7VxtPMU7WAp5iJZTEPGeyXYA3hJppqedUWbUdQ+NatNkls+78cFzjqYFoCs1aAsA12WdVroV60nxVmodFc/kdM8Crdw98HM4ehutL7bWRYZaHVU3QVNv4FQ+4Ru1DLDgkjVODu5sEpXIQnyZfL27uCBRhhmq+FFQrBbbKkH9u9H1JMJMeFVjwAu9jz+oSsuR71uuHp/so0C4K929UcWgpAGQGuRojt0F3/Dj2eviWvQ1pMeBl40lt0WUavcheKf/9F0qWqF3u7YZFCNnW5KHaz7iX0PiBEE6YQJW+Y2od3Zlip87jiKo2CQG2HDKWzZbBUINzixbggzEDZtetvIxdqyvXvRtdkyo/Xbwb2GY3TOE5PwM+NQxPC66/GbWLl7ytIZwh3c8F+FFFccXuw31Gh+RZjIdVvNSkk6Tyl1/yUm1u2RjKYsdY4lTzVIWKKL...
+__________________________
+
+Log Entry : 
+04/10/2011 07:56:46
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 08:00:51
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 08:32:20
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 10:15:45
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+04/10/2011 10:27:00
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HlayoutNew/rss.png. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HlayoutNew/rss.png. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+04/10/2011 10:36:52
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 10:59:35
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/10/2011 10:59:43
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/10/2011 12:52:47
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 12:53:01
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/10/2011 14:38:56
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 14:41:34
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/10/2011 14:55:10
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Mensagem de erro: The control with ID 'PanelCV_DragPanelExtender' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+__________________________
+
+Log Entry : 
+04/10/2011 14:55:13
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Mensagem de erro: The control with ID 'PanelCV_DragPanelExtender' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+__________________________
+
+Log Entry : 
+04/10/2011 14:55:21
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx. Mensagem de erro: The control with ID 'PanelCV_DragPanelExtender' requires a ScriptManager on the page. The ScriptManager must appear before any controls that need it.
+__________________________
+
+Log Entry : 
+04/10/2011 15:17:51
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH4ZjT3ZThV3b660EORjAX8-d8Hblf-VeMSkcyAAtUKp_wGjzXufOzTtQascript. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7mVucv6jH4ZjT3ZThV3b660EORjAX8-d8Hblf-VeMSkcyAAtUKp_wGjzXufOzTtQascript. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+04/10/2011 16:52:11
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/10/2011 20:08:35
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001511-3. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001001511-3. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+04/10/2011 20:48:13
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvm                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvm                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+04/10/2011 21:52:14
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+04/10/2011 21:58:52
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+04/11/2011 17:21:04
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 17:33:58
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(202): error BC30615: 'End' statement cannot be used in class library projects.
+__________________________
+
+Log Entry : 
+04/11/2011 17:34:21
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(202): error BC30615: 'End' statement cannot be used in class library projects.
+__________________________
+
+Log Entry : 
+04/11/2011 17:50:53
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 17:55:34
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 17:57:47
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(203): error BC30451: 'ExtencaoLabel' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+04/11/2011 17:58:01
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(203): error BC30451: 'ExtencaoLabel' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+04/11/2011 17:59:03
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(202): error BC30451: 'ExtencaoLabel' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+04/11/2011 17:59:07
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(202): error BC30451: 'ExtencaoLabel' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+04/11/2011 18:00:21
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\multimidia.aspx.vb(202): error BC30451: 'ExtencaoLabel' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+04/11/2011 18:05:45
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:09:22
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:11:16
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:15:24
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:18:54
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:21:13
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+04/11/2011 18:27:41
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________

@@ -1,0 +1,104 @@
+<%@ Master Language="VB" CodeFile="ComercialMasterPage.master.vb" Inherits="_empresa_EmpresaPage" %>
+<%@ Register Src="../App_Include/lateral_empresa.ascx" TagName="lateral_empresa" TagPrefix="uc1" %>
+
+
+<%@ Register src="../App_Include/MenuControl.ascx" tagname="MenuControl" tagprefix="uc2" %>
+
+
+<%@ Register src="../App_Include/bannerControlEmpresa.ascx" tagname="bannerControlEmpresa" tagprefix="uc3" %>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+        <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="INDEX,FOLLOW" />
+<script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <title><%=Application("Title")%></title>
+    <link href="css/todaspaginas.css" rel="stylesheet" type="text/css" />
+    <link href="/App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+    <script src="/jquery-1.7.min.js" type="text/javascript"></script>
+    <link type="text/css" href="../App_Themes/ui-lightness/jquery-ui-1.8.19.custom.css" rel="Stylesheet" />	
+    <script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+    <style type="text/css">
+        .style1
+        {
+            text-align: left;
+            vertical-align: top;
+            width: 800px;
+            height: 400px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: auto;
+            background-color: transparent;
+        }
+    </style>
+</head>
+<body>
+     <script src="/_comercial/ComercialMasterPage.master.js" type="text/javascript"></script>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerEMP" runat="server" 
+        EnableScriptGlobalization="True">
+    </asp:ScriptManager>
+            <div id="Nav" style="width: 100%">
+                <ul id="menu" style="width: 100%">
+                    <li>
+                        <asp:LinkButton ID="LinkButtonMP" runat="server"  
+                                        PostBackUrl="~/_comercial/Default.aspx?Info=10" 
+                                        ToolTip="Clique aqui para voltar ao menu principal" 
+                            CausesValidation="False">Menu Principal</asp:LinkButton>
+                    </li>
+                    <li>
+                        <asp:HyperLink ID="HyperLinkNOVAVAGA" runat="server" 
+                                        NavigateUrl="~/_comercial/_cadastroCliente.aspx?Info=20" 
+                                        ToolTip="Clique aqui para cadastrar uma nova conta (Empresa)" 
+                                        >Cadastrar uma nova conta</asp:HyperLink>
+                    </li>
+                    <li>
+                        <asp:LinkButton ID="LinkButtonPESQUISAVAGA" runat="server" 
+                                        PostBackUrl="~/_comercial/_cadastroLevantamento.aspx?Info=30" 
+                                                            
+                                        ToolTip="Clique aqui para liberar a emissão de boletos e NFs" 
+                                         CausesValidation="False"> Emissão de Cobrança (Nota Fiscal)</asp:LinkButton>
+                    </li>
+                    <li class="lilogin">
+                        <asp:Image ID="Image_Login" runat="server" ImageUrl="~/images/icon_key.png" GenerateEmptyAlternateText="True" />
+                        <asp:LinkButton ID="LinkButtonLOGOUT" runat="server" 
+                                        PostBackUrl="~/_comercial/logout.aspx?Info=60" 
+                                        ToolTip="Clique aqui para encerrar as suas atividades" 
+                                        >Sair</asp:LinkButton>
+                    </li>
+                </ul>
+            </div>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px" class="tableEmp">
+            <tr>
+                <td width="750px" valign="top">
+                
+                
+                    <table class="tableEmpInt" cellpadding="5" cellspacing="5">
+                        <tr>
+                            <td class="style1">             
+                    <asp:Label ID="ApresentaCabec" runat="server" 
+                                                CssClass="h1" Visible="False"></asp:Label>
+                                            <asp:Label ID="PPLabelNomeEmpresa" runat="server" 
+                                                            CssClass="bannerNavegadorInternoNomeEmpresa" Visible="False"></asp:Label>
+
+                                <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder>
+                            </td>
+                        </tr>
+                    </table>                
+                
+                
+                </td>
+            </tr>
+        </table>
+        
+                <br />
+        <br />
+        
+    </div>
+    </form>
+    <%=Application("google")%> 
+</body>
+</html>

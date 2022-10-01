@@ -1,0 +1,22 @@
+
+Log Entry : 
+29/05/2019 11:34:39
+Error in: http://192.168.100.3:8080/_anonimo/sponsoredAD.aspx?pesquisa=São Paulo. Error Message:Erro na página: http://192.168.100.3:8080/_anonimo/sponsoredAD.aspx?pesquisa=São Paulo. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________
+
+Log Entry : 
+29/05/2019 12:28:01
+Error in: http://192.168.100.3:8080/_corporativo/default.aspx. Error Message:Erro na página: http://192.168.100.3:8080/_corporativo/default.aspx. Mensagem de erro: Não é possível abrir o banco de dados "SMSCenter" solicitado pelo logon. Falha de logon.
+Falha de logon do usuário 'sa'.
+__________________________
+
+Log Entry : 
+29/05/2019 14:01:05
+Error in: http://192.168.100.3:8080/_corporativo/default.aspx. Error Message:Erro na página: http://192.168.100.3:8080/_corporativo/default.aspx. Mensagem de erro: Não é possível abrir o banco de dados "SMSCenter" solicitado pelo logon. Falha de logon.
+Falha de logon do usuário 'sa'.
+__________________________
+
+Log Entry : 
+29/05/2019 17:17:16
+Error in: http://192.168.100.3:8080/_anonimo/sponsoredAD.aspx?pesquisa=. Error Message:Erro na página: http://192.168.100.3:8080/_anonimo/sponsoredAD.aspx?pesquisa=. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________

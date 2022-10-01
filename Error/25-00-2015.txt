@@ -1,0 +1,25 @@
+
+Log Entry : 
+25/02/2015 08:29:35
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+25/02/2015 08:38:59
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1424864297361. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=a&limit=150&timestamp=1424864297361. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+25/02/2015 08:49:18
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+25/02/2015 09:04:53
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2015e%252s224000311-7. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2015e%252s224000311-7. Mensagem de erro: O arquivo '/anonimo/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/02/2015 09:16:48
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________

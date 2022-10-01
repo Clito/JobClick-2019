@@ -1,0 +1,5 @@
+
+Log Entry : 
+09/09/2020 11:33:47
+Error in: http://localhost:8085/_anonimo/sponsoredAD.aspx?pesquisa=Analista. Error Message:Erro na página: http://localhost:8085/_anonimo/sponsoredAD.aspx?pesquisa=Analista. Mensagem de erro: O nome remoto não pôde ser resolvido: 'wsjobclick.jobclick.com.br'
+__________________________

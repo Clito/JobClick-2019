@@ -1,0 +1,241 @@
+
+Log Entry : 
+09/01/2014 05:25:59
+Error in: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+09/01/2014 08:49:07
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+09/01/2014 17:53:27
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/01/2014 18:39:30
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+09/01/2014 21:01:51
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/01/2014 21:02:19
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/01/2014 23:15:27
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001041193-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2013P/001041193-2. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/02/2014 12:07:15
+Error in: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+09/02/2014 15:08:16
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+09/02/2014 21:42:37
+Error in: http://www.jobclick.com.br/vaga.aspx. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx. Mensagem de erro: O arquivo '/vaga.aspx' não existe.
+__________________________
+
+Log Entry : 
+09/03/2014 01:50:35
+Error in: http://www.jobclick.com.br/slide003.aspx. Error Message:Erro na página: http://www.jobclick.com.br/slide003.aspx. Mensagem de erro: O arquivo '/slide003.aspx' não existe.
+__________________________
+
+Log Entry : 
+09/03/2014 17:00:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?=__VIEWSTATE&__EVENTTARGET=&crfdhvfn=2014358182R%252s155000035731627-8/Default.aspx?m_rsmManager_TSM&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67171acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67184acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q=ctl00_m_rfdDecorator_ClientState&ahyy=ctl00_m_rmMainMenu_ClientState&ahyy/Default.aspx?m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?=__VIEWSTATE&__EVENTTARGET=&crfdhvfn=2014358182R%252s155000035731627-8/Default.aspx?m_rsmManager_TSM&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67171acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67184acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q=ctl00_m_rfdDecorator_ClientState&ahyy=ctl00_m_rmMainMenu_ClientState&ahyy/Default.aspx?m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+09/03/2014 17:00:53
+Error in: http://www.jobclick.com.br/Default.aspx?__EVENTTARGET=&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67180acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Error Message:Erro na página: http://www.jobclick.com.br/Default.aspx?__EVENTTARGET=&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67180acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+09/03/2014 17:00:54
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAQ9kFgYCAw8PFgIeBFRleHQFIi9fY2FuZGlkYXRvL19jcmVkaXRvY2FuZGlkYXRvLmFzcHhkZAJDDw8WAh8ABQtWYWdhczogNzI4MWRkAksPDxYCHgdWaXNpYmxlZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRZjdGwwMCRJbWFnZUJ1dHRvbkNsb3NlBRxjdGwwMCRJbWFnZUJ1dHRvbkVudmlhclNlbmhhBRxjdGwwMCRJbWFnZUJ1dHRvbkxvZ2luTG9naWNh1dc39F2Eocf+WitpbQx/+knGQJRS8NNwhGr9Mzxylx0=&__PREVIOUSPAGE=pLO7Jjh5On2QPVs1kBLji6IrVAsrFZlNHm4QIjq7DZaBN_lWsnAIWu6MpfZoQ-o26D0oBaxseUDFl0USb8wA4QJkw1B3b-lqdfdWKWdbPN81&__EVENTVALIDATION=/wEdAAuxkMCzerdfXCpO0uD82aJdM9HfzU+YvmvuAq5euh0LJyDEuPjJ5ZwLRBQYWzbbc9rQv6EuVKnmHUuiqdx7n+VLmVV4DyvrlnfgsK8M3xNzoOtI8TfnFPzBIukzwhccLNthQVchMxvqWV0nEUH/DsHWF18H2eA16lBnXQ8eRG3m2sGU6ntGZ3+/PJeGcjCMvaM3NqK7t1x2EjiPxMGBnQfHBLQ7Gcg2ISfN8siXHx9wDckk0FSyK2+a50geXmWUM3ySAebxa+wObQyg67aS7I1y&ctl00$ImageButtonClose=null&ctl00$TextBoxEmail=null&ctl00$TextBoxSenha=null&ctl00$ImageButtonEnviarSenha=null&ctl00$ImageButtonLoginLogica=null. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgICAQ9kFgYCAw8PFgIeBFRleHQFIi9fY2FuZGlkYXRvL19jcmVkaXRvY2FuZGlkYXRvLmFzcHhkZAJDDw8WAh8ABQtWYWdhczogNzI4MWRkAksPDxYCHgdWaXNpYmxlZ2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYDBRZjdGwwMCRJbWFnZUJ1dHRvbkNsb3NlBRxjdGwwMCRJbWFnZUJ1dHRvbkVudmlhclNlbmhhBRxjdGwwMCRJbWFnZUJ1dHRvbkxvZ2luTG9naWNh1dc39F2Eocf+WitpbQx/+knGQJRS8NNwhGr9Mzxylx0=&__PREVIOUSPAGE=pLO7Jjh5On2QPVs1kBLji6IrVAsrFZlNHm4QIjq7DZaBN_lWsnAIWu6MpfZoQ-o26D0oBaxseUDFl0USb8wA4QJkw1B3b-lqdfdWKWdbPN81&__EVENTVALIDATION=/wEdAAuxkMCzerdfXCpO0uD82aJdM9HfzU+YvmvuAq5euh0LJyDEuPjJ5ZwLRBQYWzbbc9rQv6EuVKnmHUuiqdx7n+VLmVV4DyvrlnfgsK8M3xNzoOtI8TfnFPzBIukzwhccLNthQVchMxvqWV0nEUH/DsHWF18H2eA16lBnXQ8eRG3m2sGU6ntGZ3+/PJeGcjCMvaM3NqK7t1x2EjiPxMGBnQfHBLQ7Gcg2ISfN8siXHx9wDckk0FSyK2+a50geXmWUM3ySAebxa+wObQyg67aS7I1y&ctl00$ImageButtonClose=null&ctl00$TextBoxEmail=null&ctl00$TextBoxSenha=null&ctl00$ImageButtonEnviarSenha=null&ctl00$ImageButtonLoginLogica=null. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+09/03/2014 17:01:01
+Error in: http://www.jobclick.com.br/_anonimo/Default.aspx?__EVENTTARGET=&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67122acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/Default.aspx?__EVENTTARGET=&ctl00_m_rmMainMenu_ClientState=ahyy&__VIEWSTATE=/jRCMjHCBTDkZQywAmZ3MzWxZGD0l9fCFHeWGtT67122acwBYC5MGRTmEmpeaxJSekN84sHLD%253Q&m_rsmManager_TSM=&ctl00_m_rfdDecorator_ClientState=ahyy&__EVENTARGUMENT=. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+09/03/2014 18:01:45
+Error in: http://www.jobclick.com.br/_candidato/publicar.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/publicar.aspx. Mensagem de erro: Referência de objeto não definida para uma instância de um objeto.
+__________________________
+
+Log Entry : 
+09/03/2014 23:02:56
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+09/04/2014 03:24:22
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 10:59:09
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/04/2014 11:19:33
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 14:50:24
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 14:53:09
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 14:54:23
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 14:54:55
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 14:56:16
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 16:29:44
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 17:05:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001067763-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001067763-1. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/04/2014 17:51:37
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014P/001056097-7&pesquisa=2014P/001056097-7. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014P/001056097-7&pesquisa=2014P/001056097-7. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 19:09:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001053985-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014P/001053985-6. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/04/2014 21:33:05
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014P/001066235-1&pesquisa=2014P/001066235-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2014P/001066235-1&pesquisa=2014P/001066235-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 21:55:19
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 22:29:29
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 22:38:22
+Error in: http://www.jobclick.com.br/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/canalrss.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/04/2014 22:38:39
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/06/2014 17:18:01
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=Estagio. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=Estagio. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+09/07/2014 14:49:04
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:49:45
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:51:23
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:51:25
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:51:27
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:51:49
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E0001-NF. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E0001-NF. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/07/2014 14:51:49
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+09/08/2014 11:25:14
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+09/08/2014 19:29:42
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+09/10/2014 06:55:51
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+09/11/2014 19:42:49
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+09/11/2014 21:44:30
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+09/11/2014 22:44:06
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________

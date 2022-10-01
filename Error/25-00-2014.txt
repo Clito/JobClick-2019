@@ -1,0 +1,136 @@
+
+Log Entry : 
+25/01/2014 10:16:21
+Error in: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/_anonimo/vagas.aspx. Mensagem de erro: O arquivo '/comercial/_anonimo/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/02/2014 09:21:57
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/02/2014 10:06:19
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+25/02/2014 10:12:48
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Tamanho máximo de solicitação excedido.
+__________________________
+
+Log Entry : 
+25/04/2014 00:51:14
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/04/2014 00:52:21
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/04/2014 00:52:36
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/04/2014 00:52:45
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/04/2014 01:34:34
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=N7cUmOtQp7qBr18DMXKxQuyNoK8ZM1yW_-M5Nz63nwwDaqxl2wPulOIzpPzOiLuC6uMzlPdGJzE4hH5pT-UopcFYTgUwakzyhCCJD5BPo42lvMCG4toFTM2LhFqud-aZDyAUO30ZffaDvStdblqVkpElBxtXnCAod6zVXD9Zb2k1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=N7cUmOtQp7qBr18DMXKxQuyNoK8ZM1yW_-M5Nz63nwwDaqxl2wPulOIzpPzOiLuC6uMzlPdGJzE4hH5pT-UopcFYTgUwakzyhCCJD5BPo42lvMCG4toFTM2LhFqud-aZDyAUO30ZffaDvStdblqVkpElBxtXnCAod6zVXD9Zb2k1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:34:42
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uUcqPS2pYYdK-7IPlxgm4H7Mdnd8QLKWc9GWzjMNJmAGGjnmJeTSb3_rJ2LEkK6UMRULmBRfLsmOjAUhtBgLOhXjLXI67KVEd5PPx0RsYtXOb4--7_zuwGepjVnCo2MHp9leGYXyiGdz0DVlGhZp9UHMjbC5_ZdsT4NAyA8bJTw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uUcqPS2pYYdK-7IPlxgm4H7Mdnd8QLKWc9GWzjMNJmAGGjnmJeTSb3_rJ2LEkK6UMRULmBRfLsmOjAUhtBgLOhXjLXI67KVEd5PPx0RsYtXOb4--7_zuwGepjVnCo2MHp9leGYXyiGdz0DVlGhZp9UHMjbC5_ZdsT4NAyA8bJTw1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:34:50
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=GKDYA7dgt9GfK6W6vnRtG9_htOu46H3jEF4msY0cEAjegRkpoIDVnayXATtSU3l5e3TTID94nfH3N1JpnO9HqQAA_ui30WzhMO-Ssr6F_EUcBZjO2kDpBrUuHIQv9_57-Bz_0KNELV9qYmZozZcafg2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=GKDYA7dgt9GfK6W6vnRtG9_htOu46H3jEF4msY0cEAjegRkpoIDVnayXATtSU3l5e3TTID94nfH3N1JpnO9HqQAA_ui30WzhMO-Ssr6F_EUcBZjO2kDpBrUuHIQv9_57-Bz_0KNELV9qYmZozZcafg2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:34:57
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=fIaFkDh_p-m3klde527ewYkQB1CD8A8Yd8cF2xvWEAnehUVOvcZKuql_IRwAz547gTRljtWQXtZl99Z5Cn9RNDo-F3z0DGLrts573i3S9HD7u1W5lIg0vY31rUyinZ7U8xx_IQMbqy_jwcMZQFU16g2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=fIaFkDh_p-m3klde527ewYkQB1CD8A8Yd8cF2xvWEAnehUVOvcZKuql_IRwAz547gTRljtWQXtZl99Z5Cn9RNDo-F3z0DGLrts573i3S9HD7u1W5lIg0vY31rUyinZ7U8xx_IQMbqy_jwcMZQFU16g2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:35:03
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=2SjIoZhHgYvZyv0PNOlye-xOSci9doJFaTxYFkklu3EgN9xVjo4DMHvPxdEX1cAgVmjxxT5vnq9anQ5RAV9nNV_iKJmHcbKDhFJzqx7TuR3vTBEe-Yz_UPuKO3r5y0cL60CzxanqEj_gANhHgJizUUkEzppOBeDvOt_M8jozq_41&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=2SjIoZhHgYvZyv0PNOlye-xOSci9doJFaTxYFkklu3EgN9xVjo4DMHvPxdEX1cAgVmjxxT5vnq9anQ5RAV9nNV_iKJmHcbKDhFJzqx7TuR3vTBEe-Yz_UPuKO3r5y0cL60CzxanqEj_gANhHgJizUUkEzppOBeDvOt_M8jozq_41&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:35:14
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=O5Aa1f0AGPLwDzd7nf9snJJITtQGGbHGLkz9nAM2YF0wWbZmOf4Vgev8Dss3IQDWkIrvRxb_LUhvSf0ramkwLIUyMhC0dz50Kc0ZIQ0ZlD5ndJdTlc4IvWwVQiEjV_z53XntLrLGp-UjaOao4E0v5Ai6-BnyusYdqk5R13wKXdk1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=O5Aa1f0AGPLwDzd7nf9snJJITtQGGbHGLkz9nAM2YF0wWbZmOf4Vgev8Dss3IQDWkIrvRxb_LUhvSf0ramkwLIUyMhC0dz50Kc0ZIQ0ZlD5ndJdTlc4IvWwVQiEjV_z53XntLrLGp-UjaOao4E0v5Ai6-BnyusYdqk5R13wKXdk1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 01:35:21
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=_Zfv76CbCv-G0OC2tTql6ja3QF1YYO7uWuQON0xYvQF7TS64ZPrZoyvGSybFKNoxiz1pJtPYOtb_lWihxdgVqbhdSdDpki8Q6jJJyYg7NCiaa_CwPJBOcwopk7E5QLd0l9u0-EcAPbz6KO9AdV9GHg2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=_Zfv76CbCv-G0OC2tTql6ja3QF1YYO7uWuQON0xYvQF7TS64ZPrZoyvGSybFKNoxiz1pJtPYOtb_lWihxdgVqbhdSdDpki8Q6jJJyYg7NCiaa_CwPJBOcwopk7E5QLd0l9u0-EcAPbz6KO9AdV9GHg2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+25/04/2014 14:48:05
+Error in: http://www.jobclick.com.br/_parceiroJobClick/publicarNovaVaga.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_parceiroJobClick/publicarNovaVaga.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+25/04/2014 20:22:34
+Error in: http://www.jobclick.com.br/my.aspx?type=subscriptions. Error Message:Erro na página: http://www.jobclick.com.br/my.aspx?type=subscriptions. Mensagem de erro: O arquivo '/my.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/06/2014 02:51:31
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$resumoTextBox="...kpcdmjdl, <a href="http://www....").
+__________________________
+
+Log Entry : 
+25/06/2014 12:31:19
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=Analista+de+sistemas+Belo+Horizonte. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=Analista+de+sistemas+Belo+Horizonte. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/06/2014 13:42:34
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/06/2014 17:21:34
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/06/2014 22:03:06
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+25/07/2014 15:18:06
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+25/10/2014 07:18:46
+Error in: http://www.jobclick.com.br/contato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/contato.aspx. Mensagem de erro: O arquivo '/contato.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/10/2014 07:18:52
+Error in: http://www.jobclick.com.br/equipe.aspx. Error Message:Erro na página: http://www.jobclick.com.br/equipe.aspx. Mensagem de erro: O arquivo '/equipe.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/10/2014 07:18:56
+Error in: http://www.jobclick.com.br/missaovisaovalor.aspx. Error Message:Erro na página: http://www.jobclick.com.br/missaovisaovalor.aspx. Mensagem de erro: O arquivo '/missaovisaovalor.aspx' não existe.
+__________________________
+
+Log Entry : 
+25/10/2014 07:19:01
+Error in: http://www.jobclick.com.br/tecnologia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/tecnologia.aspx. Mensagem de erro: O arquivo '/tecnologia.aspx' não existe.
+__________________________

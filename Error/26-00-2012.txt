@@ -1,0 +1,650 @@
+
+Log Entry : 
+26/06/2012 11:06:46
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+26/06/2012 11:06:57
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/06/2012 18:16:27
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=EEeBFmFA57YAjs7Obf591OiLY9nqsaSr2fQww68pJ2sN4RWx2OqKjEam_ta9XmtDu0Uh-fWclc1YQr5-i_IGBhiguX3ttOMqrf1uRiz2R5IoD_KTPHEKkm3psgnCrIi57221_k6L1l8ik_N4IRapkG6BjtySUvQqpL5CAKX1tJ8Arfi6OwEAuLP19ICArvxv8kGAsSf/I8FArmC7aEBAvWf4KcDAriKk/EHAs+nzYkLArGt8+QGAoX11uMOAvij7+YBAouq854OAr/x4NAFAr/x4PwFAq2Owv0LAvSUgW4CpfG8KwLP/9vkDwLNm/TyAQLdsrXvDALF2pmNBgKSzIXBCAKmzq3uCgKFuNnECwK8w9ndAgKNueOhCgLOs8WZBAL/r8GvAwLOw9igCgLIttjNCgLKhI+KDwKgwq+ABQLM1Pb7BwKg99gRAqeIkKcFApCVgK0CAuOThY8BAv7GiKgHAsHBvdYNAqTTi78IAprYzZoPArDz/K8EAqzqvI4FArejt50BAs/v9LwPAqXaiasEAobzpKIOArHal6EGAorIk/0KAr2Jm6kFAvH/+NMDArK/o8kFAsXPiuINAv/E280HAt37wZ4HAtOk7awLAqmr3p8NAob8pOEIAqGC+vcEAqrF6bwHAru4+rUGApbl+dEMAtqd9rQEApHrw7QFAobltocEAufBmpYNAtfhw58EAtS5uYwBAojb9eoOAumDsrANAoD9laIJAsOdsfgGAq+g7dMCAq746uAEArjug/IGAuf+kKIEAsuFkKkKApr6zKgEAtjL/JQMAuX1kcIMAv3O5OIDApnrpMsLAs6O25MOAqKtlaoEAvXFi5EMAqyovtcCAuXM5LYNAtW215AIAqt6Ap+LmqYPAtnAyfYBAu+A7+MBApzAjZANAq6T2boNAoLyyJwGAraLzvkCApTyxPsOAsaEsoMEAo61ockMAu+q/PEKAtSIpeUKAsvE4fIIAoG9/pkGAt+hsZIEApDK0OANAoDnj90BAre1t7cNAve9r88FApzP5sgIAt+2mo0DAqD15rEIArqsp4sLAoGCrdIEAqSsx54HAqqrgrEKAvGR6NcEApGc3MgDAtDMqrQJAoHn8dAOArPutbwCAvflocMOAoGdm/YLAuC8yqAFAp6mt5kOArqHrGMC4pPbrw4CiYrY2wYClsbOmAMCp/LanAMCnbOU9gUC4qKQmwgCvNbA7AICoKLY1QoCt8CMiwoC0q6JwQsC6Kn1cgKPlLzfDQLX29TnCALyt4zlAgKY59O0AwL5wZagCwLr2eKPCAKetNK5DwLHr8zYDALVxLnKDQL/y+SuAQKqg8btDAK0nan/DwKt2L6MCALmlK+MCQLL4ojkDwLw8qvkBgL4o5ElAt/XpPgHArfq9LQMAtHpjfIEAt3YpcYLAtPazNsFApCC9OMJAp6M868FAtC5u+IHAtr+veENAsDo5a8NAoCBypYNArDdm90NAqvCnIgFAtLdg6AFAsOfvI8OAv2+g+kLAofa4qEFApffk88KAsrN48QNAuH2zIIIAuX45vUOApujmPYGAs3hlcwHAteF2uMEArjz4TICoc6l/wQCi4+0xAkCp6u39AMC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCruSJtAwCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcCx5XGwwkC5/ibgwUCooHK0AQCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQKNspqtDAL9zfDeDQLmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAvX0iJQIAtqL6/4NAr+izekDArK5/MgHAuCTh+0EAtzQsKUFAqnO6vMPAtiz6IAJAo6s1YsOArW3i+0LAv7T5/wLArSspIkGAr/uj8kJAuaszPoHAvmszPoHAunD5pQLApXlgrMBAuyo6rYCAs+C3kAC546hsAMCwNi3pQMC76n9wwkCgfDIlQUCpsDT1QsCs/uVrQgC6PS4lgJpEe0lQdm0hW2mkKZJeJ+ZwQVMY0LOdm++chZtbr5JGw==. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=EEeBFmFA57YAjs7Obf591OiLY9nqsaSr2fQww68pJ2sN4RWx2OqKjEam_ta9XmtDu0Uh-fWclc1YQr5-i_IGBhiguX3ttOMqrf1uRiz2R5IoD_KTPHEKkm3psgnCrIi57221_k6L1l8ik_N4IRapkG6BjtySUvQqpL5CAKX1tJ8Arfi6OwEAuLP19ICArvxv8kGAsSf/I8FArmC7aEBAvWf4KcDAriKk/EHAs+nzYkLArGt8+QGAoX11uMOAvij7+YBAouq854OAr/x4NAFAr/x4PwFAq2Owv0LAvSUgW4CpfG8KwLP/9vkDwLNm/TyAQLdsrXvDALF2pmNBgKSzIXBCAKmzq3uCgKFuNnECwK8w9ndAgKNueOhCgLOs8WZBAL/r8GvAwLOw9igCgLIttjNCgLKhI+KDwKgwq+ABQLM1Pb7BwKg99gRAqeIkKcFApCVgK0CAuOThY8BAv7GiKgHAsHBvdYNAqTTi78IAprYzZoPArDz/K8EAqzqvI4FArejt50BAs/v9LwPAqXaiasEAobzpKIOArHal6EGAorIk/0KAr2Jm6kFAvH/+NMDArK/o8kFAsXPiuINAv/E280HAt37wZ4HAtOk7awLAqmr3p8NAob8pOEIAqGC+vcEAqrF6bwHAru4+rUGApbl+dEMAtqd9rQEApHrw7QFAobltocEAufBmpYNAtfhw58EAtS5uYwBAojb9eoOAumDsrANAoD9laIJAsOdsfgGAq+g7dMCAq746uAEArjug/IGAuf+kKIEAsuFkKkKApr6zKgEAtjL/JQMAuX1kcIMAv3O5OIDApnrpMsLAs6O25MOAqKtlaoEAvXFi5EMAqyovtcCAuXM5LYNAtW215AIAqt6Ap+LmqYPAtnAyfYBAu+A7+MBApzAjZANAq6T2boNAoLyyJwGAraLzvkCApTyxPsOAsaEsoMEAo61ockMAu+q/PEKAtSIpeUKAsvE4fIIAoG9/pkGAt+hsZIEApDK0OANAoDnj90BAre1t7cNAve9r88FApzP5sgIAt+2mo0DAqD15rEIArqsp4sLAoGCrdIEAqSsx54HAqqrgrEKAvGR6NcEApGc3MgDAtDMqrQJAoHn8dAOArPutbwCAvflocMOAoGdm/YLAuC8yqAFAp6mt5kOArqHrGMC4pPbrw4CiYrY2wYClsbOmAMCp/LanAMCnbOU9gUC4qKQmwgCvNbA7AICoKLY1QoCt8CMiwoC0q6JwQsC6Kn1cgKPlLzfDQLX29TnCALyt4zlAgKY59O0AwL5wZagCwLr2eKPCAKetNK5DwLHr8zYDALVxLnKDQL/y+SuAQKqg8btDAK0nan/DwKt2L6MCALmlK+MCQLL4ojkDwLw8qvkBgL4o5ElAt/XpPgHArfq9LQMAtHpjfIEAt3YpcYLAtPazNsFApCC9OMJAp6M868FAtC5u+IHAtr+veENAsDo5a8NAoCBypYNArDdm90NAqvCnIgFAtLdg6AFAsOfvI8OAv2+g+kLAofa4qEFApffk88KAsrN48QNAuH2zIIIAuX45vUOApujmPYGAs3hlcwHAteF2uMEArjz4TICoc6l/wQCi4+0xAkCp6u39AMC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCruSJtAwCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcCx5XGwwkC5/ibgwUCooHK0AQCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQKNspqtDAL9zfDeDQLmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAvX0iJQIAtqL6/4NAr+izekDArK5/MgHAuCTh+0EAtzQsKUFAqnO6vMPAtiz6IAJAo6s1YsOArW3i+0LAv7T5/wLArSspIkGAr/uj8kJAuaszPoHAvmszPoHAunD5pQLApXlgrMBAuyo6rYCAs+C3kAC546hsAMCwNi3pQMC76n9wwkCgfDIlQUCpsDT1QsCs/uVrQgC6PS4lgJpEe0lQdm0hW2mkKZJeJ+ZwQVMY0LOdm++chZtbr5JGw==. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+26/06/2012 18:16:51
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj57f2bY93YG3Q_3P9PHvarLj8zrswE4xnpQBqbQAsMp_G1FZ-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. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj57f2bY93YG3Q_3P9PHvarLj8zrswE4xnpQBqbQAsMp_G1FZ-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. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+26/06/2012 18:35:57
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1TQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1TQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:38:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+26/06/2012 18:46:49
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:51:08
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1HDXRUKsfrK9kpAqXVPCrPyt9VVoRU91WrSnB2YcV3n_R_lPRAGQ&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1HDXRUKsfrK9kpAqXVPCrPyt9VVoRU91WrSnB2YcV3n_R_lPRAGQ&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:52:33
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1HDXRUKsfrK9kpAqXVPCrPyt9VVoRU91WrSnBhz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6iTd1tmkoeV1EJrkt6iCh7ZtZob_IsDxb-9Rqf6yUaK1yjU-i3cs1HDXRUKsfrK9kpAqXVPCrPyt9VVoRU91WrSnBhz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:52:34
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.95.45.244
+	Port: 50013
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx
+	Path: /_anonimo/cadastroCandidato.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; NP02)
+	ViewState: /wEPDwULLTE3NDI2NjQ3OTUPZBYCZg9kFgICAQ9kFgYCAw8PFgIeBFRleHRkZGQCBQ8PFgIfAAULVmFnYXM6IDIyODlkZAIXD2QWAgIRD2QWAmYPZBYCAgEPZBYeAgcPZBYCZg9kFgQCCQ8PFgIeCU1heExlbmd0aGZkZAILDxYUHhlDdWx0dXJlRGVjaW1hbFBsYWNlaG9sZGVyBQEsHgtDdWx0dXJlTmFtZQUFcHQtQlIeFkN1bHR1cmVUaW1lUGxhY2Vob2xkZXIFAToeCkFjY2VwdEFtUG1oHhtDdWx0dXJlVGhvdXNhbmRzUGxhY2Vob2xkZXIFAS4eFkN1bHR1cmVBTVBNUGxhY2Vob2xkZXJlHiBDdWx0dXJlQ3VycmVuY3lTeW1ib2xQbGFjZWhvbGRlcgUCUiQeE092ZXJyaWRlUGFnZUN1bHR1cmVoHhZDdWx0dXJlRGF0ZVBsYWNlaG9sZGVyBQEvHhFDdWx0dXJlRGF0ZUZvcm1hdAUDRE1ZZAIPDxAPFgIeC18hRGF0YUJvdW5kZ2QQFQcJQ2FuZGlkYXRvCUNvbnN1bHRvcgpGcmVlbGFuY2VyBkdlc3RvcgdQcm9maWxlD1Byb2Zpc3Npb25hbCBQShdSZXByZXNlbnRhbnRlIENvbWVyY2lhbBUHCUNhbmRpZGF0bwlDb25zdWx0b3IKRnJlZWxhbmNlcgZHZXN0b3IHUHJvZmlsZQ9Qcm9maXNzaW9uYWwgUEoXUmVwcmV...
+__________________________
+
+Log Entry : 
+26/06/2012 18:52:37
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8vEg909NgUz03bB3BV7YzSg9FPqNUhwFJffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8vEg909NgUz03bB3BV7YzSg9FPqNUhwFJffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:53:42
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=w7_yBBIHFm_6bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+26/06/2012 18:54:11
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9aR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9aR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+26/06/2012 19:04:25
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Mensagem de erro: Conversion from type 'DBNull' to type 'Boolean' is not valid.
+__________________________
+
+Log Entry : 
+26/06/2012 19:04:55
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Mensagem de erro: Conversion from type 'DBNull' to type 'Boolean' is not valid.
+__________________________
+
+Log Entry : 
+26/06/2012 19:06:04
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx?menu=4. Mensagem de erro: Conversion from type 'DBNull' to type 'Boolean' is not valid.
+__________________________
+
+Log Entry : 
+26/06/2012 21:35:05
+Error in: http://www.jobclick.com.br/_candidato/contato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/contato.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/07/2012 09:48:34
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2012P/001014573-8&pesquisa=2012P/001014573-8. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2012P/001014573-8&pesquisa=2012P/001014573-8. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:48:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:48:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:48:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72192. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:48:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:05
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:07
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:13
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:28
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:31
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72217. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72329. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72329. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:39
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:47
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72329. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72329. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72441. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72441. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:49:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72351. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72351. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:07
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:11
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:13
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72351. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72351. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72239. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72239. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:28
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:34
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72239. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72239. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72313. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72288. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72288. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:48
+Error in: http://www.jobclick.com.br/services/CheckCandidatura.aspx?idCurriculo=14188&ProtocoloVaga=2012P/001023920-0&idNivelVaga=2&_=1343307014400. Error Message:Erro na página: http://www.jobclick.com.br/services/CheckCandidatura.aspx?idCurriculo=14188&ProtocoloVaga=2012P/001023920-0&idNivelVaga=2&_=1343307014400. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:50
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:54
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72288. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72288. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72199. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72199. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:50:58
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:07
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72519. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72519. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:10
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72199. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72199. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72321. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72321. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:19
+Error in: http://www.jobclick.com.br/services/CheckCandidatura.aspx?idCurriculo=14188&ProtocoloVaga=2012P/001023915-0&idNivelVaga=2&_=1343307028393. Error Message:Erro na página: http://www.jobclick.com.br/services/CheckCandidatura.aspx?idCurriculo=14188&ProtocoloVaga=2012P/001023915-0&idNivelVaga=2&_=1343307028393. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:24
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:28
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72321. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72321. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72160. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72160. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:48
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:49
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 09:51:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72160. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=APF72160. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+26/07/2012 10:00:23
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+26/07/2012 10:00:31
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+26/07/2012 10:00:35
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+26/07/2012 10:01:30
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+26/07/2012 16:13:33
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 01:42:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001028162-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001028162-4. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/08/2012 12:58:38
+Error in: http://www.jobclick.com.br/_candidato/publicar.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/publicar.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 12:59:26
+Error in: http://www.jobclick.com.br/_candidato/publicar.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/publicar.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 13:00:22
+Error in: http://www.jobclick.com.br/_candidato/publicar.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/publicar.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 13:17:19
+Error in: http://www.jobclick.com.br/_candidato/publicar.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/publicar.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 13:23:18
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 13:24:53
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 13:24:57
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 13:25:06
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 13:25:40
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/08/2012 21:23:38
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 21:26:30
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/08/2012 21:53:48
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P                  </ul>                    </li>                <li>                    <a href=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P                  </ul>                    </li>                <li>                    <a href=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+26/08/2012 23:39:16
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 06:44:23
+Error in: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?p=1&ID=6&txt=Coberturademsgeral. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+26/09/2012 10:46:00
+Error in: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?IDPROPOSTA=34&IDPROD=34. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+26/09/2012 12:07:30
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:08:20
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:08:57
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:12
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:15
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:16
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:34
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:47
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:09:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:10:43
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:14:18
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:16:53
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 12:17:55
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/09/2012 12:18:14
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/09/2012 12:21:23
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/09/2012 12:27:50
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/09/2012 13:10:24
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+26/09/2012 14:00:51
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+26/09/2012 16:39:03
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/09/2012 19:10:42
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+26/10/2012 00:00:50
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/10/2012 00:01:30
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/10/2012 12:42:19
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/10/2012 12:42:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/10/2012 14:10:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/10/2012 14:10:59
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/10/2012 15:41:17
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/10/2012 15:41:18
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/10/2012 15:41:18
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/10/2012 16:55:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/10/2012 17:19:01
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+26/10/2012 23:43:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/11/2012 08:03:49
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001037515-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001037515-2. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+26/11/2012 13:52:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 13:53:46
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 14:05:13
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 14:38:30
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+26/11/2012 16:09:45
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 20:00:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 20:02:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/11/2012 20:04:23
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/12/2012 00:53:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/12/2012 00:55:09
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Cannot insert the value NULL into column 'endereco', table 'jobclickdb.dbo.tbCadastroUser'; column does not allow nulls. UPDATE fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+26/12/2012 12:59:43
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+26/12/2012 16:56:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+26/12/2012 22:28:48
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________

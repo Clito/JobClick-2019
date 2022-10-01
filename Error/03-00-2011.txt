@@ -1,0 +1,145 @@
+
+Log Entry : 
+03/08/2011 09:43:19
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+03/08/2011 09:46:23
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: The directive contains duplicate 'maintainscrollpositiononpostback' attributes.
+__________________________
+
+Log Entry : 
+03/08/2011 09:46:30
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: The directive contains duplicate 'maintainscrollpositiononpostback' attributes.
+__________________________
+
+Log Entry : 
+03/08/2011 09:46:39
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: The directive contains duplicate 'maintainscrollpositiononpostback' attributes.
+__________________________
+
+Log Entry : 
+03/09/2011 18:32:42
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+03/09/2011 18:57:21
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 10:19:43
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 10:34:23
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+03/10/2011 10:37:11
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+03/10/2011 10:38:39
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 10:39:02
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+03/10/2011 10:43:28
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 11:13:22
+Error in: http://www.jobclick.com.br/_anonimo/ vagas.aspx?pesquisa=2011/001001990-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/ vagas.aspx?pesquisa=2011/001001990-9. Mensagem de erro: The file '/_anonimo/ vagas.aspx' does not exist.
+__________________________
+
+Log Entry : 
+03/10/2011 11:18:08
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKha>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKha>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+03/10/2011 12:17:44
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R9n=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R9n=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+03/10/2011 12:18:12
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8Py</td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8Py</td>                    <td>                        <input type=. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+03/10/2011 13:00:39
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 13:20:05
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=5H7a3BKr+YA=&id=0OrdjSa4F28=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=5H7a3BKr+YA=&id=0OrdjSa4F28=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+03/10/2011 17:44:01
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 19:29:51
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=s314qwgwgy5fzohmpsph5uw2&ip=177.77.181.69&user=2011C/001002266-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=s314qwgwgy5fzohmpsph5uw2&ip=177.77.181.69&user=2011C/001002266-3. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 20:14:01
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/10/2011 20:22:21
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/11/2011 00:04:52
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+03/11/2011 08:54:40
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/11/2011 10:58:36
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+03/11/2011 10:59:45
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+03/11/2011 14:21:46
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+03/11/2011 15:51:13
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+03/11/2011 16:23:07
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011P/001002056-8. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011P/001002056-8. Mensagem de erro: Incorrect syntax near ')'.
+__________________________

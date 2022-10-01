@@ -1,0 +1,78 @@
+﻿<%@ Master Language="VB" CodeFile="principal_MasterPage.master.vb" Inherits="_user_principal_MasterPage" %>
+
+<%@ Register src="../_modulo/user_navegador.ascx" tagname="user_navegador" tagprefix="uc1" %>
+<%@ Register src="../_modulo/user_rodape.ascx" tagname="user_rodape" tagprefix="uc2" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title><%=Session("title")%></title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../App_Themes/cssSMS/style.css" rel="stylesheet" type="text/css" />      
+    <link href="../App_Themes/cssSMS/sms.css" rel="stylesheet" type="text/css" />     
+</head>
+<body>
+<script type="text/javascript" language="javascript">
+    // ---------------------------------- Redimensionamento do Iframe -------------------
+    $('#Painel_Jobclick', parent.document).find('iframe').height(100);
+
+    (function (previousInnerHTML) {
+        return function () {
+            if (document.body.innerHTML !== previousInnerHTML) {
+                $('#Painel_Jobclick', parent.document).find('iframe').height($(document.body).height());
+                $('#Painel_Jobclick', parent.document).height($(document.body).height());
+                parent.jobclick_config['jobclick_height'] = $(document.body).height();
+            }
+            setTimeout(arguments.callee, 33);
+        };
+    })(document.body.innerHTML)();
+    // ---------------------------------- Redimensionamento do Iframe -------------------
+
+</script>
+    <form id="form1" runat="server">
+    <div>
+        <table id="Principal" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td width="33%">
+                    &nbsp;</td>
+                <td width="34%">
+                    <table id="banner" cellpadding="5" cellspacing="5"  width="100%">
+                        <tr>
+                            <td><uc1:user_navegador ID="user_navegador1" runat="server" /></td> 
+                        </tr> 
+                    </table>         
+                </td>
+                <td width="33%">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td width="33%">
+                    &nbsp;</td>
+                <td width="34%">
+                    <table id="Apresenta" cellpadding="5" cellspacing="5" width="800px">
+                        <tr>
+                            <td><asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder></td>
+                        </tr>
+                    </table>
+                </td>
+                <td width="33%">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td width="33%">
+                    &nbsp;</td>
+                <td width="34%">
+                    <uc2:user_rodape ID="user_rodape1" runat="server" />
+                </td>
+                <td width="33%">
+                    &nbsp;</td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

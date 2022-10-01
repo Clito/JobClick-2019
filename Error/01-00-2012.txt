@@ -1,0 +1,341 @@
+
+Log Entry : 
+01/03/2012 08:22:55
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=BcyH2LsLsC1rhp2GpILQWfXqPJ9I7dEjrhTzQGOdyOO3lqkXVSCL5U96wvcodRFGp27vDd_Bwaq1js1jWmm7ZLAdbeZhnTONemw5F-Ewv7ZFZaKV19fCHy7U3               </td>                    <td align=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=BcyH2LsLsC1rhp2GpILQWfXqPJ9I7dEjrhTzQGOdyOO3lqkXVSCL5U96wvcodRFGp27vDd_Bwaq1js1jWmm7ZLAdbeZhnTONemw5F-Ewv7ZFZaKV19fCHy7U3               </td>                    <td align=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+01/03/2012 08:41:12
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=2KKel27sspWe6KSEd8qag2dHFrTxZ0G2B22AXwG9o4IGeclTNbRv2O631rKaEOE3_r7eiCdGNIC_xOMd96Tz5PpZuKxBpFAWMNwwt1RpNs0vvc_j1qZ5qCCdvg-uu6geEvZDiT35me4pL5KDVT8Cy0I6qifqJM1&t=634622683686350000. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=2KKel27sspWe6KSEd8qag2dHFrTxZ0G2B22AXwG9o4IGeclTNbRv2O631rKaEOE3_r7eiCdGNIC_xOMd96Tz5PpZuKxBpFAWMNwwt1RpNs0vvc_j1qZ5qCCdvg-uu6geEvZDiT35me4pL5KDVT8Cy0I6qifqJM1&t=634622683686350000. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+01/03/2012 08:47:11
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=2KKel27sspWe6KSEd8qag2dHFrTxZ0G2B22AXwG9o4IGeclTNbRv2ato/. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=2KKel27sspWe6KSEd8qag2dHFrTxZ0G2B22AXwG9o4IGeclTNbRv2ato/. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+01/03/2012 14:53:17
+Error in: http://www.jobclick.com.br/_candidato/cursos.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cursos.aspx. Mensagem de erro: String was not recognized as a valid DateTime.
+__________________________
+
+Log Entry : 
+01/03/2012 17:32:20
+Error in: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibBQflig0hOi8Yffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibBQflig0hOi8Yffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+01/03/2012 17:32:25
+Error in: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibV0yQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibV0yQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+01/03/2012 17:32:40
+Error in: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibBQflig0hOi8YFfffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=0wCOGq1c77Sy0Dw8BCaALxIAeAuL-97loS2j87Q_mkB90ydGM479KMRpADibBQflig0hOi8YFfffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+01/03/2012 20:59:04
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/03/2012 21:02:29
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/03/2012 21:17:20
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/03/2012 21:22:05
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/07/2012 12:28:49
+Error in: http://www.jobclick.com.br/_empresaJC/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 12:29:02
+Error in: http://www.jobclick.com.br/_empresaJC/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 12:29:36
+Error in: http://www.jobclick.com.br/_empresaJC/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 12:31:54
+Error in: http://www.jobclick.com.br/_empresaJC/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 12:38:10
+Error in: http://www.jobclick.com.br/_empresaJC/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 14:34:52
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Mensagem de erro: A field or property with the name 'nome' was not found on the selected data source.
+__________________________
+
+Log Entry : 
+01/07/2012 14:34:59
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Mensagem de erro: A field or property with the name 'nome' was not found on the selected data source.
+__________________________
+
+Log Entry : 
+01/07/2012 14:35:04
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Mensagem de erro: A field or property with the name 'nome' was not found on the selected data source.
+__________________________
+
+Log Entry : 
+01/07/2012 14:35:07
+Error in: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/candidatura.aspx?menu=5. Mensagem de erro: A field or property with the name 'nome' was not found on the selected data source.
+__________________________
+
+Log Entry : 
+01/07/2012 14:39:17
+Error in: http://localhost:54251/_empresaJC/default.aspx. Error Message:Erro na página: http://localhost:54251/_empresaJC/default.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+01/07/2012 17:26:10
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/07/2012 17:26:29
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/07/2012 18:26:33
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=CwUL6u3QlpCotGg8ewOMFPmo61ockMAu+q/PEKAtSIpeUKAsvE4fIIAoG9/pkGAt+hsZIEApDK0OANAoDnj90BAre1t7cNAve9r88FApzP5sgIAt+2mo0DAqD15rEIArqsp4sLAoGCrdIEAqSsx54HAqqrgrEKAvGR6NcEApGc3MgDAtDMqrQJAoHn8dAOArPutbwCAvflocMOAoGdm/YLAuC8yqAFAp6mt5kOAomK2NsGApbGzpgDAqfy2pwDAp2zlPYFAuKikJsIArzWwOwCAqCi2NUKArfAjIsKAtKuicELAuip9XICj5S83w0C19vU5wgC8reM5QICmOfTtAMC+cGWoAsC69nijwgCnrTSuQ8Cx6/M2AwC1cS5yg0C/8vkrgECqoPG7QwCtJ2p/w8Crdi+jAgC5pSvjAkCy+KI5A8C8PKr5AYC+KORJQLf16T4BwK36vS0DALR6Y3yBALd2KXGCwLT2szbBQKQgvTjCQKejPOvBQLQubviBwLa/r3hDQLA6OWvDQKAgcqWDQKw3ZvdDQKrwpyIBQLS3YOgBQLDn7yPDgL9voPpCwKH2uKhBQKX35PPCgLKzePEDQLh9syCCALl+Ob1DgKbo5j2BgLN4ZXMBwLXhdrjBAK48+EyAqHOpf8EAouPtMQJAqert/QDAuvFrogLAsO0iJwLAuXhoKEGAruEmIYOAriU7/4JAq7kibQMArWUmc8BAuCtwsoPAuiu7KMGAoX+iIkHAtHFptgIAu7z6asGAvGKtM8HAseVxsMJAuf4m4MFAqKBytAEArCR6JMFAr33sD4CiZz18w4Cn8K4ygUC9+vi/gQC4aHS+QUCjbKarQwC/c3w3g0C5pn25QsCtaz3lQYCsKThkQoCrOq7mgEC3oH8QwKs/qmOBQLsk4iiDAKUrKymCALu+4DBDQL19IiUCALai+v+DQK/os3pAwKyufzIBwLgk4ftBALc0LClBQKpzurzDwLYs+iACQKOrNWLDgK1t4vtCwL+0+f8CwK0rKSJBgK/7o/JCQLmrMz6BwL5rMz6BwLpw+aUCwLsqOq2Ajn7HVpWbFNqEvHVjqcbotgYRZfS9+Rn6yCf87LFaKTe. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=CwUL6u3QlpCotGg8ewOMFPmo61ockMAu+q/PEKAtSIpeUKAsvE4fIIAoG9/pkGAt+hsZIEApDK0OANAoDnj90BAre1t7cNAve9r88FApzP5sgIAt+2mo0DAqD15rEIArqsp4sLAoGCrdIEAqSsx54HAqqrgrEKAvGR6NcEApGc3MgDAtDMqrQJAoHn8dAOArPutbwCAvflocMOAoGdm/YLAuC8yqAFAp6mt5kOAomK2NsGApbGzpgDAqfy2pwDAp2zlPYFAuKikJsIArzWwOwCAqCi2NUKArfAjIsKAtKuicELAuip9XICj5S83w0C19vU5wgC8reM5QICmOfTtAMC+cGWoAsC69nijwgCnrTSuQ8Cx6/M2AwC1cS5yg0C/8vkrgECqoPG7QwCtJ2p/w8Crdi+jAgC5pSvjAkCy+KI5A8C8PKr5AYC+KORJQLf16T4BwK36vS0DALR6Y3yBALd2KXGCwLT2szbBQKQgvTjCQKejPOvBQLQubviBwLa/r3hDQLA6OWvDQKAgcqWDQKw3ZvdDQKrwpyIBQLS3YOgBQLDn7yPDgL9voPpCwKH2uKhBQKX35PPCgLKzePEDQLh9syCCALl+Ob1DgKbo5j2BgLN4ZXMBwLXhdrjBAK48+EyAqHOpf8EAouPtMQJAqert/QDAuvFrogLAsO0iJwLAuXhoKEGAruEmIYOAriU7/4JAq7kibQMArWUmc8BAuCtwsoPAuiu7KMGAoX+iIkHAtHFptgIAu7z6asGAvGKtM8HAseVxsMJAuf4m4MFAqKBytAEArCR6JMFAr33sD4CiZz18w4Cn8K4ygUC9+vi/gQC4aHS+QUCjbKarQwC/c3w3g0C5pn25QsCtaz3lQYCsKThkQoCrOq7mgEC3oH8QwKs/qmOBQLsk4iiDAKUrKymCALu+4DBDQL19IiUCALai+v+DQK/os3pAwKyufzIBwLgk4ftBALc0LClBQKpzurzDwLYs+iACQKOrNWLDgK1t4vtCwL+0+f8CwK0rKSJBgK/7o/JCQLmrMz6BwL5rMz6BwLpw+aUCwLsqOq2Ajn7HVpWbFNqEvHVjqcbotgYRZfS9+Rn6yCf87LFaKTe. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+01/07/2012 21:34:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/08/2012 09:00:48
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="... equipe.
+<br><br>").
+__________________________
+
+Log Entry : 
+01/08/2012 19:04:46
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="
+<br>Márcia Henrique ...").
+__________________________
+
+Log Entry : 
+01/08/2012 19:21:59
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="... Office)
+<br><br>- Ampla expe...").
+__________________________
+
+Log Entry : 
+01/09/2012 10:13:40
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+01/09/2012 10:15:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+01/09/2012 15:30:41
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001028600-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001028600-3. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/09/2012 16:14:24
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/09/2012 16:16:49
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/09/2012 17:16:55
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+01/09/2012 17:19:03
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=3625. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=3625. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+01/09/2012 19:35:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:10
+Error in: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$HyperLinkHome&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$HyperLinkHome&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:11
+Error in: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$contentPlaceHolder1$LinkButton_btPesquisaGeral&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$contentPlaceHolder1$LinkButton_btPesquisaGeral&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:11
+Error in: http://www.jobclick.com.br/comercial/javascript:__doPostBack(&#39;ctl00$LinkButtonLogin&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/comercial/javascript:__doPostBack(&#39;ctl00$LinkButtonLogin&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:12
+Error in: http://www.jobclick.com.br/javascript:__doPostBack(&#39;ctl00$LinkButtonLembrete&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/javascript:__doPostBack(&#39;ctl00$LinkButtonLembrete&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:12
+Error in: http://www.jobclick.com.br/comercial/javascript:__doPostBack(&#39;ctl00$HyperLinkHome&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/comercial/javascript:__doPostBack(&#39;ctl00$HyperLinkHome&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:14
+Error in: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$LinkButtonLogin&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$LinkButtonLogin&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:10:14
+Error in: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$contentPlaceHolder1$LBNormas&#39;,&#39;&#39;). Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/javascript:__doPostBack(&#39;ctl00$contentPlaceHolder1$LBNormas&#39;,&#39;&#39;). Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (:).
+__________________________
+
+Log Entry : 
+01/09/2012 22:36:11
+Error in: http://www.jobclick.com.br/comercial/slide008.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/slide008.aspx. Mensagem de erro: The file '/comercial/slide008.aspx' does not exist.
+__________________________
+
+Log Entry : 
+01/10/2012 00:08:22
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+01/10/2012 00:09:15
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+01/10/2012 00:09:45
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+01/10/2012 00:15:38
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+01/10/2012 00:22:16
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+01/10/2012 16:37:28
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001029468-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001029468-4. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/10/2012 17:02:27
+Error in: http://www.jobclick.com.br/DefaultCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/DefaultCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/10/2012 17:02:38
+Error in: http://www.jobclick.com.br/DefaultCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/DefaultCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/10/2012 19:01:37
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/10/2012 19:01:47
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/10/2012 19:01:47
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/10/2012 19:01:49
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/11/2012 10:00:49
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2012/001033131-2. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2012/001033131-2. Mensagem de erro: The file '/anonimo/vagas.aspx' does not exist.
+__________________________
+
+Log Entry : 
+01/11/2012 11:28:32
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+01/11/2012 14:03:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001037479-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001037479-1. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/11/2012 16:09:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+01/11/2012 20:47:37
+Error in: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/11/2012 22:29:16
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2012 22:37:08
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/12/2012 14:27:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/12/2012 14:27:51
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+01/12/2012 16:28:13
+Error in: http://www.jobclick.com.br/_candidato/idiomas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/idiomas.aspx. Mensagem de erro: Cannot insert the value NULL into column 'idcurriculo', table 'jobclickdb.dbo.tbIdiomaC'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+01/12/2012 21:47:35
+Error in: http://www.jobclick.com.br/comercial/slide003.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/slide003.aspx. Mensagem de erro: The file '/comercial/slide003.aspx' does not exist.
+__________________________

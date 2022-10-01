@@ -1,0 +1,20 @@
+
+Log Entry : 
+23/05/2019 10:24:30
+Error in: http://localhost:54810/cropImage.aspx. Error Message:Erro na página: http://localhost:54810/cropImage.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+23/05/2019 12:31:35
+Error in: http://localhost:54810/termosecondicoes.aspx. Error Message:Erro na página: http://localhost:54810/termosecondicoes.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+23/05/2019 13:22:35
+Error in: http://localhost:54810/tabela.aspx. Error Message:Erro na página: http://localhost:54810/tabela.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+23/05/2019 13:23:04
+Error in: http://localhost:54810/erro.aspx?aspxerrorpath=/tabela.aspx. Error Message:Erro na página: http://localhost:54810/erro.aspx?aspxerrorpath=/tabela.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________

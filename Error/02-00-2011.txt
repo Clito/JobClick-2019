@@ -1,0 +1,329 @@
+
+Log Entry : 
+02/08/2011 12:00:28
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Mensagem de erro: The file '/profissional_jobclick.aspx' does not exist.
+__________________________
+
+Log Entry : 
+02/08/2011 12:12:55
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=2. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=2. Mensagem de erro: C:\inetpub\wwwroot_jobclick\profissional_jobclick.aspx.vb(17): error BC30648: String constants must end with a double quote.
+__________________________
+
+Log Entry : 
+02/08/2011 12:13:09
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=3. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=3. Mensagem de erro: C:\inetpub\wwwroot_jobclick\profissional_jobclick.aspx.vb(17): error BC30648: String constants must end with a double quote.
+__________________________
+
+Log Entry : 
+02/08/2011 12:13:13
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Mensagem de erro: C:\inetpub\wwwroot_jobclick\profissional_jobclick.aspx.vb(17): error BC30648: String constants must end with a double quote.
+__________________________
+
+Log Entry : 
+02/08/2011 12:13:14
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=2. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=2. Mensagem de erro: C:\inetpub\wwwroot_jobclick\profissional_jobclick.aspx.vb(17): error BC30648: String constants must end with a double quote.
+__________________________
+
+Log Entry : 
+02/08/2011 12:16:40
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Mensagem de erro: C:\inetpub\wwwroot_jobclick\profissional_jobclick.aspx.vb(17): error BC30648: String constants must end with a double quote.
+__________________________
+
+Log Entry : 
+02/08/2011 12:43:32
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=uceep545moyfha2doao32gzw&ip=201.24.63.202&user=Ana Lara. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=uceep545moyfha2doao32gzw&ip=201.24.63.202&user=Ana Lara. Mensagem de erro: Type 'AjaxControlToolkit.CalendarExtender' does not have a public property named 'DefaultView'.
+__________________________
+
+Log Entry : 
+02/08/2011 12:43:43
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=uceep545moyfha2doao32gzw&ip=201.24.63.202&user=Ana Lara. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=uceep545moyfha2doao32gzw&ip=201.24.63.202&user=Ana Lara. Mensagem de erro: Type 'AjaxControlToolkit.CalendarExtender' does not have a public property named 'DefaultView'.
+__________________________
+
+Log Entry : 
+02/08/2011 12:52:16
+Error in: http://www.jobclick.com.br/ajax.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ajax.aspx. Mensagem de erro: Could not find any resources appropriate for the specified culture or the neutral culture.  Make sure "AjaxControlToolkit.Properties.Resources.NET4.resources" was correctly embedded or linked into assembly "AjaxControlToolkit" at compile time, or that all the satellite assemblies required are loadable and fully signed.
+__________________________
+
+Log Entry : 
+02/08/2011 12:52:51
+Error in: http://www.jobclick.com.br/ajax.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ajax.aspx. Mensagem de erro: Could not find any resources appropriate for the specified culture or the neutral culture.  Make sure "AjaxControlToolkit.Properties.Resources.NET4.resources" was correctly embedded or linked into assembly "AjaxControlToolkit" at compile time, or that all the satellite assemblies required are loadable and fully signed.
+__________________________
+
+Log Entry : 
+02/08/2011 12:56:19
+Error in: http://localhost:50259/wwwroot_jobclick/ajax.aspx. Error Message:Erro na página: http://localhost:50259/wwwroot_jobclick/ajax.aspx. Mensagem de erro: Could not find any resources appropriate for the specified culture or the neutral culture.  Make sure "AjaxControlToolkit.Properties.Resources.NET4.resources" was correctly embedded or linked into assembly "AjaxControlToolkit" at compile time, or that all the satellite assemblies required are loadable and fully signed.
+__________________________
+
+Log Entry : 
+02/08/2011 13:45:17
+Error in: http://localhost:50259/wwwroot_jobclick/ajax.aspx. Error Message:Erro na página: http://localhost:50259/wwwroot_jobclick/ajax.aspx. Mensagem de erro: Could not find any resources appropriate for the specified culture or the neutral culture.  Make sure "AjaxControlToolkit.Properties.Resources.NET4.resources" was correctly embedded or linked into assembly "AjaxControlToolkit" at compile time, or that all the satellite assemblies required are loadable and fully signed.
+__________________________
+
+Log Entry : 
+02/08/2011 14:04:00
+Error in: http://localhost:50259/favicon.ico. Error Message:Erro na página: http://localhost:50259/favicon.ico. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+02/08/2011 14:24:55
+Error in: http://jobclick.com.br/_empresa/vagapublica.aspx. Error Message:Erro na página: http://jobclick.com.br/_empresa/vagapublica.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'Analista%de%siste' to data type int.
+__________________________
+
+Log Entry : 
+02/08/2011 17:46:38
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: The file '/loginEmpresa.aspx' does not exist.
+__________________________
+
+Log Entry : 
+02/08/2011 19:15:37
+Error in: http://www.jobclick.com.br/_empresa/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresa/vagapublica.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_empresa\vagapublica.aspx.vb(12): error BC30002: Type 'geraProtocolo' is not defined.
+__________________________
+
+Log Entry : 
+02/09/2011 09:37:13
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 09:50:46
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 09:51:02
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 09:51:23
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 09:52:43
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+02/09/2011 09:53:57
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 10:21:59
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 10:22:12
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 12:27:58
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+02/09/2011 12:28:53
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS019np9OJ05DvDmx5OJ_pQrnB2e7nPt9bzjy4TN4ca7XPhJohYv_CrDmn3meErpl5qzicPFdPG-cPIFdStng. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+02/09/2011 14:21:44
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 15:12:22
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 15:12:32
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 15:12:42
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 15:12:53
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/09/2011 15:24:48
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+02/10/2011 00:06:31
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 01:01:10
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+02/10/2011 01:01:33
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+02/10/2011 01:02:05
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+02/10/2011 02:42:28
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 02:51:59
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 02:52:42
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 02:58:17
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 07:53:46
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 10:05:15
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+02/10/2011 10:05:55
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Incorrect function. (Exception from HRESULT: 0x80070001)
+__________________________
+
+Log Entry : 
+02/10/2011 10:57:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 10:59:45
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 11:04:41
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+02/10/2011 14:12:10
+Error in: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+02/10/2011 18:30:16
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=rDf6f8UwiYk=&id=LEARV89aylU=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+02/10/2011 19:51:55
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001567-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001001567-5. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.27.200.114
+	Port: 64499
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011%2f001001567-5
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; GTB7.1; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C; MANM)
+	ViewState: P/HSrxVmvEWBWT8NX9bxJHlGkT/kILvyNP2dRKIkyNC4IL40nA+JYlRQjOQ2/YMH785Soh4kx/OLLZt+B06dLQPuS4R/SnpAxZKIsujwwl62PQEzzsexrexbjle9xQiFi4vQYCyLq4t+ad4mJnztuG8YqlV54UbMrCP7Rx5kJCfnwU0IxeLdP4urI6febfhZLrJv1ILmzuUCulc4e4u7Vh5DQiY0NDzVpOTxGmWplw/kbiTnmJT5BfUatdKGVyTzCZ7KBcs5LJdkIwt6GDcF9uRA8PO5/LsmJSWxiXhsrNlMiQRdxr7tGZc2uBZ0KsGwm4ITIfGhEyO96w7hCGpzFIZ9qwr4DEuNTjvYqQM1czBR70D8OwKEREkye5GOjyq+8zZ57XsiZURppW4fWcuEKnde0aDg1QY9CNLH0l3iRUhTodPe6Snlt8cRC0ij7cbx0tH/nwlkNOMDk0nlH8MlElihPGecJi6qyEjyyhDnUCVH8F26aAXfkAr0X9lIH4ezuBEXFbNtTkSA4MkQE07ItguAHRmCkoGdr+6UKB/yVBbQT2b1x0DuSfudaRSnV+5zypyWfLP5eT2q3f5SZJKXSnMfxJADKS1eD7lpVkxWB0yEv7ELVttNHfFxc5euZnfc/+WPXMfkuY+/SWSu32avrMq5czA4xPgkcS/4zHpju...
+__________________________
+
+Log Entry : 
+02/10/2011 20:09:38
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 20:36:42
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 20:43:11
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/10/2011 21:09:22
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000504-9. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2011/001000504-9. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/11/2011 02:42:33
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001002315-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001002315-8. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/11/2011 12:33:15
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/11/2011 12:33:25
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+02/11/2011 17:46:11
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003165-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003165-6. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+02/11/2011 17:46:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003165-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001003165-6. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+02/11/2011 20:15:22
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001002821-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/001002821-5. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/12/2011 13:31:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=logistica. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=logistica. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+02/12/2011 16:36:24
+Error in: http://localhost:62322/_anonimo/vagas2.aspx. Error Message:Erro na página: http://localhost:62322/_anonimo/vagas2.aspx. Mensagem de erro: Unknown server tag 'cc1:DragPanelExtender'.
+__________________________
+
+Log Entry : 
+02/12/2011 17:30:15
+Error in: http://localhost:62322/_anonimo/~/images/layout/menuVagasClose.gif. Error Message:Erro na página: http://localhost:62322/_anonimo/~/images/layout/menuVagasClose.gif. Mensagem de erro: File does not exist.
+__________________________

@@ -1,0 +1,143 @@
+﻿body
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #505050;
+	background-image: url( '/images/bg.png' );
+	background-repeat: repeat-x;
+	background-position: top;
+}
+.titulo
+{
+	font-family: Verdana;
+	font-size: 16px;
+}
+
+a
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #0066CC;
+	cursor: hand;
+}
+a:hover
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:underline;color:#0066CC;cursor:hand;}
+a:visited
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:none;color:#0066CC;cursor:hand;}
+a:active
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:none;color:#0066CC;cursor:hand;}
+
+a.azulLink
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:none;color:#0066CC;cursor:hand;}
+a.azulLink:hover
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:underline;color:#0066CC;cursor:hand;}
+a.azulLink:visited
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:none;color:#0066CC;cursor:hand;}
+a.azulLink:active
+{font-family: Tahoma, Geneva, sans-serif;font-size: 12px;text-decoration:none;color:#0066CC;cursor:hand;}
+
+.divCentral {
+	width: 500px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	margin-top: -190px;
+	margin-left: -400px;
+	position: absolute;
+}
+
+.textoPadrao {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #444444;
+}
+.textoPadraoAzul {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #0066CC;
+}
+.textoCaixaAltaAzul {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	color: #0066CC;
+}
+.textoPadraoErro {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #B00606;
+}
+.textoPadraoOk
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+	color: #008000;
+}
+.textoPadraoRodape {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	color: #444444;
+}
+.formText {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	width: 319px;
+	color: #444444;
+}
+.cssSignupBtn {
+    border: 1px solid #EBEBEB;
+    font-family: Verdana;
+    font-size: 11px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: underline;
+    text-align: center;
+    cursor: pointer;
+    background-color: #EBEBEB;
+    height: 19px;
+}
+.textbox
+{
+	background-color: #FCFCFC;
+	border: 1px solid #808080;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #0066CC;
+}
+.errorMSN
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #CC3300;
+	font-weight: bold;
+}
+.okMSN
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #006600;
+	font-weight: bold;
+}
+.DropCadFormulario
+{
+    background-color: #F0F0F0;
+    font-size: 8pt;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: none;
+    border-right: #E6E6E6 1px solid;
+    border-top: #E6E6E6 1px solid;
+    border-left: #E6E6E6 1px solid;
+    border-bottom: #E6E6E6 1px solid;
+    padding-top: 2px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    margin: 0px;
+    cursor: hand;
+    font-weight: normal;
+    width: 310px;
+    height: 20px;
+    z-index: 0;
+    position: static;
+}

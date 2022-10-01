@@ -1,0 +1,28 @@
+﻿<%@ Master Language="VB" CodeFile="User_Page.master.vb" Inherits="App_Modulo_modulo_holomatica_master_User_Page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="../../../App_Themes/jobclick.css" rel="stylesheet" 
+        type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+            <asp:ScriptManager ID="ScriptManagerGERAL" runat="server" 
+                EnableScriptGlobalization="True">
+            </asp:ScriptManager>
+            <asp:Label ID="LabelTITULO" runat="server" Text="HOLOMÁTICA"></asp:Label>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,117 @@
+<%@ Master Language="VB" CodeFile="ParceiroPage.master.vb" Inherits="_parceiro_ParceiroPage" %>
+<!DOCTYPE html><html lang="pt-BR">
+<head id="Head1" runat="server">
+<meta charset="iso-8859-1" />
+<title>.: JobClick :.</title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+<script type="text/javascript" language="javascript" src="css/html5.js"></script><!-- this is the javascript allowing html5 to run in older browsers -->
+<link href="../App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="css/reset.css" media="screen" title="html5doctor.com Reset Stylesheet" />
+<link rel="stylesheet" type="text/css" href="css/general.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="css/grid.css" media="screen" />
+<link href="../scripts/jquery.autocomplete.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="../js/jquery-1.7.1.min.js"></script>
+<link type="text/css" href="../App_Themes/ui-lightness/jquery-ui-1.8.19.custom.css" rel="Stylesheet" />	
+<script type="text/javascript" src="../js/jquery-ui-1.8.18.custom.min.js"></script>
+<script src="/droplinemenu.js" type="text/javascript"></script>
+<script type="text/javascript">
+    droplinemenu.buildmenu("mydroplinemenu")
+</script>
+
+<style type="text/css">
+/* Feel free to remove these styles, they are for demo page */
+
+header {height:100px; position:relative; margin-bottom:5px;}
+	header .logo {font-size:2.5em; height:120px; padding-top:28px; font-weight:700; text-shadow:1px 1px 2px #000; color:#fff; filter: Shadow(Color=#666666, Direction=135, Strength=3);}
+	header .statement {width:20%; text-align:right; padding-top:20px;}
+header nav { background-color:#FFFFFF; color:#505050; height:10px;}
+	nav ul {list-style:none;}
+	nav ul li {float:left; margin-left:5px;}
+	nav ul li a {display:block; color:#505050; text-decoration:none; padding:2px 10px; margin-top:10px;  
+					-moz-border-radius-topleft: 5px; -webkit-border-top-left-radius: 5px; -moz-border-radius-topright: 5px; -webkit-border-top-right-radius: 5px;}
+	nav ul li a:hover, nav ul li.active a {background-color:#AAA; color:#000;}
+aside {min-height:525px;}	
+
+	.submit, .submit:visited {
+		background: #525252; 
+		display: inline-block; 
+		padding: 5px 10px 6px; 
+		color: #fff; 
+		-moz-border-radius: 5px; 
+		-webkit-border-radius: 5px;
+		box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+		-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+		-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+		border:none;
+		text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+		position: relative;
+		cursor: pointer;
+		margin-bottom:5px;
+	}
+
+footer { font-size:.8em; } 
+</style>
+</head>
+<body>
+<div class="row">
+<script src="/_parceiro/ParceiroPage.master.js" type="text/javascript"></script>
+    <header>
+        <table id="GET_PROMO" runat="server" visible="true" align="left" cellpadding="0" cellspacing="0" class="col_7">
+            <tr><td><img src="images/hd.png" alt="" /></td></tr>
+        </table>                
+        <blockquote class="right">JobClick o modelo do futuro!</blockquote> 
+        <div class="clear"></div>
+                    <nav>
+        	            <ul>
+            	            <li id="MENUPRINCIPAL_LI" runat="server" class="active"><asp:HyperLink ID="HyperLinkMENUPRINCIPAL" runat="server" NavigateUrl="~/_parceiro/Default.aspx?menu=1" ToolTip="Clique aqui para voltar ao menu principal">Menu Principal</asp:HyperLink></li>
+                            <li id="DADOSEMPRESA_LI" runat="server"><asp:HyperLink ID="HyperLinkDADOSDAEMPRESA" 
+                                    runat="server" NavigateUrl="~/_parceiro/cliente.aspx?menu=2" 
+                                    ToolTip="Clique aqui para atualizar os dados da empresa">Clientes</asp:HyperLink></li>
+                            <li id="ACESSO_LI" runat="server"><asp:HyperLink ID="HyperLinkACESSO" 
+                                    runat="server" NavigateUrl="~/_parceiro/vagapublica.aspx?menu=3" 
+                                    ToolTip="Clique aqui para mudar sua senha de acesso">Vagas</asp:HyperLink></li>
+                            <li id="ABERTURAVAGA_LI" runat="server"><asp:HyperLink ID="HyperLinkABERTURAVAGA" 
+                                    runat="server" NavigateUrl="~/_parceiro/pesquisaCVBase.aspx?menu=4" 
+                                    ToolTip="Clique aqui para abrir uma nova vaga">Pesquisa na Base</asp:HyperLink></li>
+                            <li id="CANDIDATURA_LI" runat="server"><asp:HyperLink ID="HyperLinkCANDIDATURA" 
+                                    runat="server" NavigateUrl="~/_parceiro/REL_Empresa.aspx?menu=5" 
+                                    ToolTip="Clique aqui para analisar as candidaturas">Relatório</asp:HyperLink></li>
+                            <li id="LOGOUT_LI" runat="server"><asp:HyperLink ID="HyperLinkLOGOUTO" 
+                                    runat="server" NavigateUrl="~/_parceiro/logout.aspx?menu=7" 
+                                    ToolTip="Clique aqui para encerrar seus trabalhos">Sair</asp:HyperLink></li>
+                        </ul>  
+                    </nav>  
+                <img src="images/code.png" alt="" />
+    </header>
+    <div class="clear"></div>
+    <section class="content col_16 col">
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerHome" runat="server" 
+        EnableScriptGlobalization="True">
+        <Services>
+        </Services>
+    </asp:ScriptManager>
+    <div>
+        <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+        <article>
+            <div class="clear" style="height:20px;"></div>			
+			
+		 </article>
+    </section>
+    <!-- end content -->
+  <div class="clear" style="height:10px; border-bottom:1px solid #ccc;"></div>
+</div><!-- end wrap -->
+<footer class="row">
+    <section class="col_16 col align_right">
+    © Copyright JobClick 2012/2013 | Avenida Júlio Prestes 270 - Guarulhos - SP | (11) 2459- 0286 | comercial@jobclick.com.br
+    </section>
+</footer>
+</body>
+</html>

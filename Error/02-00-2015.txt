@@ -1,0 +1,50 @@
+
+Log Entry : 
+02/02/2015 11:05:46
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:07:02
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:07:39
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:08:26
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:09:01
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:09:39
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 11:11:15
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000272-1&pesquisa=2015E/224000272-1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+02/02/2015 19:15:29
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157761E%25253f2240002877671-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20157761E%25253f2240002877671-9. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+02/02/2015 19:15:29
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20155596E%25252f2240002877258-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20155596E%25252f2240002877258-9. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+02/02/2015 19:50:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20159568E%25231f2240002874050-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20159568E%25231f2240002874050-9. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

@@ -1,0 +1,20 @@
+
+Log Entry : 
+29/01/2015 15:51:40
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000287-9&pesquisa=2015E/224000287-9. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/vagas.aspx?pesquisa=2015E/224000287-9&pesquisa=2015E/224000287-9. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+29/01/2015 15:54:35
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+29/01/2015 16:28:34
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/experiencia.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+29/01/2015 17:08:00
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20155571E%2523f224000283712-8. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20155571E%2523f224000283712-8. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________

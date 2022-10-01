@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wizard>
+  <Menu Description="Home" title="Home" url="/_consultor/Default.aspx">
+    <SubMenu Description="Sair" title="Sair" url="/logout.aspx" />
+  </Menu>
+  <Menu Description="Incluir novo Cliente" title="Incluir novo Cliente" url="/_consultor/_cadastroCliente.aspx?autoTit=Cadastro de novo Cliente">
+    <SubMenu Description="Atualiza dados do Cliente" title="Atualiza dados do Cliente" url="/_consultor/_atualizacadastroCliente.aspx?autoTit=Atualiza informações de Clientes" />
+  </Menu>
+  <Menu Description="Cadastro de uma nova Vaga (Levantamento)" title="Cadastro de uma nova Vaga (Levantamento)" url="/_open/_cadastroLevantamento.aspx?autoTit=Cadastro de uma nova Vaga">
+    <SubMenu Description="Publicar Vaga" title="Publicar Vaga" url="/_open/_cadastraVaga.aspx?autoTit=Cadastro%20de%20novas%20Vagas" />
+    <SubMenu Description="Editar Vaga" title="Editar Vaga" url="/_open/_atualizaVaga.aspx?autoTit=Editar itens da Vaga"></SubMenu>
+  </Menu>
+  <Menu Description="Pesquisa de Candidatos" title="Pesquisa de Candidatos" url="/_open/_runProcessoSeletivo.aspx?autoTit=Pesquisa de Candidatos">
+    <SubMenu Description="Pesquisa de Candidatos (Filtros)" title="Pesquisa de Candidatos (Filtros)" url="/_consultor/_filtro_ProcessoSeletivo.aspx?autoTit=Filtros para pesquisa de Cadidatos" />
+    <SubMenu Description="Pesquisa de Candidatos (Fases)" title="Pesquisa de Candidatos (Fases)" url="/_consultor/_cadastroProcessoSeletivo.aspx?autoTit=Fases da Pesquisa de Cadidatos" />
+  </Menu>
+  <Menu Description="Candidatos na Base" title="Indicação de Profissionais" url="/_open/_indica.aspx?autoTit=Indicação de Profissional">
+  </Menu>
+</Wizard>

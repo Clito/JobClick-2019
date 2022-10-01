@@ -1,0 +1,20 @@
+
+Log Entry : 
+22/05/2019 14:52:12
+Error in: http://localhost:54810/bemvinda.aspx. Error Message:Erro na página: http://localhost:54810/bemvinda.aspx. Mensagem de erro: O arquivo '/bemvinda.aspx' não existe.
+__________________________
+
+Log Entry : 
+22/05/2019 15:09:26
+Error in: http://localhost:54810/bemvindo.aspx. Error Message:Erro na página: http://localhost:54810/bemvindo.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________
+
+Log Entry : 
+22/05/2019 15:09:26
+Error in: http://localhost:54810/erro.aspx?aspxerrorpath=/bemvinda.aspx. Error Message:O processo não pode acessar o arquivo 'C:\Projetos\2014\wwwroot_jobclick_portal\Error\22-00-2019.txt' porque ele está sendo usado por outro processo.
+__________________________
+
+Log Entry : 
+22/05/2019 15:09:55
+Error in: http://localhost:54810/erro.aspx?aspxerrorpath=/bemvindo.aspx. Error Message:Erro na página: http://localhost:54810/erro.aspx?aspxerrorpath=/bemvindo.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________

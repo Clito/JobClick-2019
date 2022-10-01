@@ -1,0 +1,83 @@
+
+Log Entry : 
+14/09/2011 10:43:06
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uUfl_f3PMp1ais e especifique o grau de conhecimento em softwares.</a></li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uUfl_f3PMp1ais e especifique o grau de conhecimento em softwares.</a></li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+14/09/2011 10:44:52
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uUfl_f3PMp1ais e especifique o grau de conhecimento em softwares.</a></li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uUfl_f3PMp1ais e especifique o grau de conhecimento em softwares.</a></li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+14/09/2011 11:12:07
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS href=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=uifb-Oh8FidlMc7TsRPJQYSw_1kDfcgm8Opc0DDW_XnkYGsiJPqHnTFn2LFJ5C6_yLgKKS href=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+14/10/2011 09:16:05
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=5. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=5. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 09:33:20
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=s5F3iaFacpk=&id=8ECqTB5rWLg=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=s5F3iaFacpk=&id=8ECqTB5rWLg=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+14/10/2011 11:41:44
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=5. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=5. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 11:45:18
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=5. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=5. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 11:45:33
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=5. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=5. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 11:45:46
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=2. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=2. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 11:46:43
+Error in: http://cammaleon.com.br/_pagina.aspx?idNav=5. Error Message:Erro na página: http://cammaleon.com.br/_pagina.aspx?idNav=5. Mensagem de erro: The file '/_pagina.aspx' does not exist.
+__________________________
+
+Log Entry : 
+14/10/2011 12:29:11
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=ad15o10qjgs1te4rp2ktpllv&ip=189.26.211.243&user=2011C/001002785-2. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=ad15o10qjgs1te4rp2ktpllv&ip=189.26.211.243&user=2011C/001002785-2. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_anonimo\cadastroCandidato.aspx.vb(1079): error BC30451: 'RBACOMBINAR' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+14/10/2011 14:25:31
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+14/10/2011 14:27:15
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=gwe13be1iri1lyolyg2obduh&ip=177.30.238.248&user=2011C/001002843-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx?service=jobclick&ticket=gwe13be1iri1lyolyg2obduh&ip=177.30.238.248&user=2011C/001002843-9. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+14/10/2011 15:33:34
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+14/10/2011 15:36:14
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+14/10/2011 17:07:19
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________

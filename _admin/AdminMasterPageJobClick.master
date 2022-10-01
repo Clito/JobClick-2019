@@ -1,0 +1,173 @@
+﻿<%@ Master Language="VB" CodeFile="AdminMasterPageJobClick.master.vb" Inherits="_admin_AdminMasterPageJobClick" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Administrador</title>
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="css/cssAdmin.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManagerADMIN" runat="server"></asp:ScriptManager>
+    <div>
+        <table class="banner" cellpadding="0" cellspacing="0">
+            <tr>
+                <td>
+                
+                <table border='0' width='100%' id='banner' cellpadding='0' cellspacing='0'>
+                <tr>
+                    <td align="center">
+                        <table id="HOME" cellpadding="5" cellspacing="5" width="880">
+                            <tr>
+                                <td width="188">
+                                    <asp:ImageButton ID="ImageButtonLOGO" runat="server" 
+                                        ImageUrl="~/_admin/images/logo.png" PostBackUrl="~/Default.aspx" 
+                                        CausesValidation="False" />
+                                </td>
+                                <td>
+                                    <asp:Menu ID="MenuTOP" runat="server" DynamicVerticalOffset="5" 
+                                        Orientation="Horizontal" BackColor="#EEEEEE" DynamicHorizontalOffset="2" 
+                                        Font-Names="Verdana" Font-Size="11px" ForeColor="#666666" 
+                                        StaticSubMenuIndent="10px" Width="100%">
+                                        <DynamicHoverStyle BackColor="#666666" ForeColor="White" />
+                                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                        <DynamicMenuStyle BackColor="#E3EAEB" />
+                                        <DynamicSelectedStyle BackColor="#1C5E55" />
+                                        <Items>
+                                            <asp:MenuItem NavigateUrl="Default.aspx" Text="Home" ToolTip="Home" 
+                                                Value="Home">
+                                                <asp:MenuItem NavigateUrl="~/_admin/montaQuiz.aspx" Text="Nova Avaliação" 
+                                                    ToolTip="Clique aqui para criar uma nova avaliação" Value="Nova Avaliação">
+                                                </asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/ramoAtividade.aspx" 
+                                                    Text="Ramo de atividade" ToolTip="Atualização de ramo de atividade" 
+                                                    Value="Ramo de atividade"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/excluirUser.aspx" Text="Excluir Usuário" ToolTip="Clique aqui para excluir um usuário" Value="Excluir Usuário"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/modelo.aspx" Text="Modelo Vagas" ToolTip="Modelos de Vagas" Value="Modelo Vagas"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/filtrosJSon.aspx" Text="Filtros JSon" ToolTip="Filtros JSon" Value="Filtros JSon"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/pagseguro.aspx" Text="Aquisições (PagSeguro)" ToolTip="PagSeguro" Value="Aquisições (PagSeguro)"></asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="Cargas no sistema" 
+                                                ToolTip="Clique aqui para ver as páginas necessárias que deverão ser aplicado a carga." 
+                                                Value="Cargas no sistema">
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaQuiz.aspx" 
+                                                    Text="Testes (Avaliações do candidato)" ToolTip="Teste (Quiz)" 
+                                                    Value="Testes (Avaliações do candidato)"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/contrato.aspx" 
+                                                    Text="Termos e Condições Gerais" 
+                                                    ToolTip="Termos e Condições Gerais para as empresas" 
+                                                    Value="Termos e Condições Gerais"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaTipoVaga.aspx" 
+                                                    Text="Tipo de Vaga (Contratação)" ToolTip="Carga para Tipo de Vaga" 
+                                                    Value="Tipo de Vaga (Contratação)"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaAnuncioVaga.aspx" 
+                                                    Text="Título de anúncio" 
+                                                    ToolTip="Clique aqui para incluir um título de anúncio" 
+                                                    Value="Título de anúncio"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaOrigem.aspx" 
+                                                    Text="Origem de cadastramento" 
+                                                    ToolTip="Carga na origem do cadastro do candidato" 
+                                                    Value="Origem de cadastramento"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaFases.aspx" 
+                                                    Text="Fases do processo seletivo" 
+                                                    ToolTip="Carga das fases do processo seletivo" 
+                                                    Value="Fases do processo seletivo"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/cargaInicial.aspx" 
+                                                    Text="Carga inicial (Apenas para novas empresas)" 
+                                                    ToolTip="Apenas para novas empresas" Value="Carga inicial"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/filtro.aspx" Text="Filtros Dinâmicos" 
+                                                    ToolTip="Clique aqui para aplicar a carga" Value="Filtros Dinâmicos">
+                                                </asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/relatorioParametrizacao.aspx" 
+                                                    Text="Relatórios" ToolTip="Carga Padrão de Relatórios" Value="Relatórios">
+                                                </asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="Setup Empresa" 
+                                                ToolTip="Atualizar dados do setup para empresas" Value="Setup Empresa">
+                                                <asp:MenuItem NavigateUrl="~/_admin/cadastraEmpresa.aspx" 
+                                                    Text="Cadastro de nova empresa" 
+                                                    ToolTip="Cadastro de empresas (JobOndemand) / (Consultorias) / (Corporativo)" 
+                                                    Value="Cadastro de nova empresa"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/idioma.aspx" Text="Idioma" 
+                                                    ToolTip="Ajustes no idioma" Value="Idioma"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/setup.aspx" 
+                                                    Text="Setup (Email, Apresentação)" ToolTip="Atualize os dados das empresas " 
+                                                    Value="Setup (Email, Apresentação)"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/dadosAcesso.aspx" Text="Dados de acesso" 
+                                                    ToolTip="Clique aqui para ver os níveis e os dados de acessos das empresas" 
+                                                    Value="Dados de acesso"></asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem NavigateUrl="~/_admin/produtoJobclick.aspx" 
+                                                Text="Produtos Jobclick" 
+                                                ToolTip="Administrador das linhas de produtos Jobclick" 
+                                                Value="Produtos Jobclick">
+                                                <asp:MenuItem NavigateUrl="~/_admin/extrato.aspx" Text="Extrato por empresa" 
+                                                    ToolTip="Clique aqui para ver os extratos por empresa" 
+                                                    Value="Extrato por empresa"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/clientes.aspx" Text="Clientes" Value="Clientes"></asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="Comunicação" ToolTip="Acessos e outras informações" 
+                                                Value="Comunicação">
+                                                <asp:MenuItem NavigateUrl="~/_admin/faqAdm.aspx" Text="FAQ" 
+                                                    ToolTip="Veja os acessos dos usuários" Value="FAQ"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/faq.aspx" Text="Responder FAQ" 
+                                                    ToolTip="Responder as dúvidas" Value="Responder FAQ"></asp:MenuItem>
+                                                <asp:MenuItem Text="Customer Care" ToolTip="Administração Customer Care" 
+                                                    Value="Customer Care" 
+                                                    NavigateUrl="~/_customercare/criaequipe.aspx?status=1"></asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem Text="Mailing" ToolTip="Administração de Mailing" Value="Mailing">
+                                                <asp:MenuItem NavigateUrl="mailing.aspx" Text="Layout Mailing" ToolTip="Layout" Value="Layout Mailing"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/mailingEmpresa.aspx" Text="Mailing Empresas" ToolTip="Envio de emails para empresas" Value="Mailing Empresas"></asp:MenuItem>
+                                                <asp:MenuItem NavigateUrl="~/_admin/mailingCandidato.aspx" Text="Mailing Candidatos" ToolTip="Envio de emails para candidatos" Value="Mailing Candidatos"></asp:MenuItem>
+                                            </asp:MenuItem>
+                                            <asp:MenuItem NavigateUrl="~/logout.aspx" Text="Sair" ToolTip="Encerrar" 
+                                                Value="Sair"></asp:MenuItem>
+                                        </Items>
+                                        <StaticHoverStyle BackColor="#666666" ForeColor="White" />
+                                        <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                                        <StaticSelectedStyle BackColor="#1C5E55" />
+                                    </asp:Menu>
+                                </td>
+                            </tr>
+                            </table>
+                    </td>
+                </tr>
+                </table>
+                                
+                </td>
+            </tr>
+        </table>
+        <div id="conteudo">
+            <table class="tableMaster" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td class="lateral">
+                        &nbsp;</td>
+                    <td class="apresenta"><asp:contentplaceholder id="ContentPlaceHolder1" runat="server">
+                        </asp:contentplaceholder>
+                    </td>
+                    <!-- <td class="destaque"></td> -->
+                </tr>
+            </table>
+        </div>
+         <div id="rodape">       
+            <table class="rp" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td align="left">           
+                        <asp:Label ID="LabelRodape" runat="server" 
+                            
+                            Text="&lt;br&gt;&lt;b&gt;Jobclick.&lt;/b&gt;&lt;br&gt;Fone: 55-11-2459-0286&lt;br&gt;Copyright 1998 - 2012 | All rights reserved&lt;br&gt;"></asp:Label>
+                   </td>
+                </tr>
+            </table> 
+         </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,148 @@
+
+Log Entry : 
+31/08/2011 20:17:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Procedure or function spVagasPrata has too many arguments specified.
+__________________________
+
+Log Entry : 
+31/08/2011 20:21:53
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Procedure or function spVagasPrata has too many arguments specified.
+__________________________
+
+Log Entry : 
+31/08/2011 20:44:48
+Error in: http://www.jobclick.com.br/vaga.aspx. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx. Mensagem de erro: The file '/vaga.aspx' does not exist.
+__________________________
+
+Log Entry : 
+31/08/2011 20:55:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/08/2011 20:56:23
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/08/2011 20:57:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/08/2011 21:01:10
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/08/2011 21:03:51
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/08/2011 21:03:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+__________________________
+
+Log Entry : 
+31/10/2011 09:32:20
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_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. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_AegOqSFmDMW6dYEDP3zVyqVAQL4hcGTDQLh59f3AQLqvtTNBQLbkcRjApyRhVECturbmQcC1qH11AwC8sGV+AYChKvzhgMC79XS4gcCsKDQmAkCm8CEhQYC+7fc6AEC972etQMCyaazAQLI0KuzDgKo2Y/ADgKd0tutAQKSgruOAgKCwY+hBgLPmK/SDAL+8rDWBwLOxMmICwKs9qChAQLh8rj9CwLputf9AgK9yOm6DgKciL6HBAKytvlIAtS5iPgCAq66gbcGAvaYk6wLAvOvmuoDAv+gnucDArWK1/QNArnN1qILAq2mvJYPAqfFvdYNAriw9bcJAq6Ap/0EAqnTtP4EAq3TjKQFAsLSkKEPAve/vtEBArO9te8PAqvpj5QMAq7FyfYBArLDs+UCApjc8b8PAu+ol+YFApvQ/Z0IApjU8dkPArGZjUYC7fWV2QYCqoaz1gcCypTgtgICkdOQpAIC1YLmtAoCl+yI/QICsv+M1A0Cx82t4QgCyeuk9AUCpMGCqQYC3rP6oAIC+5GWyQsCxN6vowUC8vPbhwsC7YP7mAkCuavoqw4C7qOulw8CnrzNsAcCxsaL/QgCgoqW+QQCstexqQMC3uCIwgEC3e6P3QECgfzmrAgCgNfJngYCscGs4QgCzZL6lwgChJrS5QgCqfmtxQwC3fyR9wgC4bSbwgIC0oO//wsCne/z9goC0tXQugMC/9qvvQECqdWQqQUChJL44wIC9JOFoAUC3tGorgICtv+RrwwCx/GE0QUCisPZ8wsCyYaQhAYCgcPFhggC0Orv1A8CquiDiw4C0svpuAwCwq2rug8CqonDoQoCu5mPmQYCy/LYqQoCxbLL+QkC9pzvuQUC8uOH4wcC7fqFgw4CmN7tzwsCxIDOpQ4CjcDfjA8ClO+9KQKuj//xAQLFpbTUCQKDs8KBDAL/utKBBAKS6OifCgLPz53fBAKcrZ/xDgLkyNDIDAKT/KfOCwLulbStAgLDh4LYBwKm7rDABQKeuOWpAQLm8fvBCwLHqp+rDQLTw8E2AoP+sJQEApOD98EIAoeqkvkIApfW0nwCt+Lo7AQC4s/X0gICu/G/yQYCxJ/8jwUCuYLtoQEC9Z/gpwMCuIqT8QcCz6fNiQsCsa3z5AYChfXW4w4C+KPv5gECi6rzng4Cv/Hg0AUCv/Hg/AUCrY7C/QsC9JSBbgKl8bwrAs//2+QPAs2b9PIBAt2yte8MAsXamY0GApLMhcEIAqbOre4KAoW42cQLArzD2d0CAo2546EKAs6zxZkEAv+vwa8DAs7D2KAKAsi22M0KAsqEj4oPAqDCr4AFAszU9vsHAqD32BECp4iQpwUCkJWArQIC45OFjwEC/saIqAcCwcG91g0CpNOLvwgCmtjNmg8CsPP8rwQCrOq8jgUCt6O3nQECz+/0vA8CpdqJqwQChvOkog4CsdqXoQYCisiT/QoCvYmbqQUC8f/40wMCsr+jyQUCxc+K4g0C/8TbzQcC3fvBngcC06TtrAsCqavenw0Chvyk4QgCoYL69wQCqsXpvAcCu7j6tQYCluX50QwC2p32tAQCkevDtAUChuW2hwQC58Galg0C1+HDnwQC1Lm5jAECiNv16g4C6YOysA0CgP2VogkCw52x+AYCr6Dt0wICrvjq4AQCuO6D8gYC5/6QogQCy4WQqQoCmvrMqAQC2Mv8lAwC5fWRwgwC/c7k4gMCmeukywsCzo7bkw4Coq2VqgQC9cWLkQwCrKi+1wIC5czktg0C1bbXkAgCq3oCn4uapg8C2cDJ9gEC74Dv4wECnMCNkA0CrpPZug0CgvLInAYCtovO+QIClPLE+w4CxoSygwQCjrWhyQwC76r88QoC1Iil5QoCy8Th8ggCgb3+mQYC36GxkgQCkMrQ4A0CgOeP3QECt7W3tw0C972vzwUCnM/myAgC37aajQMCoPXmsQgCuqyniwsCgYKt0gQCpKzHngcCqquCsQoC8ZHo1wQCkZzcyAMC0MyqtAkCgefx0A4Cs+61vAIC9+Whww4CgZ2b9gsC4LzKoAUCnqa3mQ4CuoesYwLik9uvDgKJitjbBgKWxs6YAwKn8tqcAwKds5T2BQLiopCbCAK81sDsAgKgotjVCgK3wIyLCgLSronBCwLoqfVyAo+UvN8NAtfb1OcIAvK3jOUCApjn07QDAvnBlqALAuvZ4o8IAp600rkPAsevzNgMAtXEucoNAv/L5K4BAqqDxu0MArSdqf8PAq3YvowIAuaUr4wJAsviiOQPAvDyq+QGAvijkSUC39ek+AcCt+r0tAwC0emN8gQC3dilxgsC09rM2wUCkIL04wkC0Lm74gcC2v694Q0CwOjlrw0CsN2b3Q0Cq8KciAUCooHK0AQC0t2DoAUCw5+8jw4C/b6D6QsCh9rioQUCl9+TzwoCys3jxA0C4fbMgggC5fjm9Q4Cm6OY9gYCzeGVzAcC14Xa4wQCoc6l/wQC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcC5/ibgwUCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQL9zfDeDQKNspqtDALmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAseVxsMJAoCBypYNAq7kibQMAp6M868FAqert/QDArjz4TICi4+0xAkC9fSIlAgC2ovr/g0Cv6LN6QMCsrn8yAcC3NCwpQUC2LPogAkCjqzViw4C/tPn/AsCtKykiQYCv+6PyQkC5qzM+gcC+azM+gcC6cPmlAsCleWCswEC7KjqtgICz4LeQALnjqGwAwLA2LelAwLvqf3DCQLo9LiWAlgFJaJmvIqE6MFISK4DrnPLdUo4DVRPNpjboXJNOs2F. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+31/10/2011 09:33:06
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=ozqp6dlCrBwXBSxQqypZ2aqQmuWMdARm1hPaNzRDPWrNnX4VeHiOWvLXRcCoDwMBXGjmYdOsD31ipFJ6esource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=ozqp6dlCrBwXBSxQqypZ2aqQmuWMdARm1hPaNzRDPWrNnX4VeHiOWvLXRcCoDwMBXGjmYdOsD31ipFJ6esource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 09:36:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_AegOqSFmDMW6dYEDP3zVyqV_Y8amLhQCIr2bu5Xm2pcQEB2i04H8Dket6NzLvc9Ihnrxsk8f-ix-XoVsl1mOEnAkCLxKxoSPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAWHGWpHErpSwM2HjtPSkNBPx8jdXSzsCaGoUYpQ2Qbc1uPL9cXZ8ogV8wQ1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_AegOqSFmDMW6dYEDP3zVyqV_Y8amLhQCIr2bu5Xm2pcQEB2i04H8Dket6NzLvc9Ihnrxsk8f-ix-XoVsl1mOEnAkCLxKxoSPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAWHGWpHErpSwM2HjtPSkNBPx8jdXSzsCaGoUYpQ2Qbc1uPL9cXZ8ogV8wQ1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 09:38:17
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAWHGWpHErpSwM2HjtPSkNBPx8jdXSzsCaGoUXQBEZRKfrfD+C5spk608k9detVeyK1IjjfauTT8Qgvlo0h5LFTB/SH2SlQNBBohgQ6echDmYdH266JUCYwoV8c78o15XBuhAfjJ+GnLPq+OJAGTPr4EWIE6Yp1rSVWCtQg+ltSTOHKsTDXGOQSfAEn3kMoc3c+xD/9/s1pF/1cGil8RfO+gpmjIbxVeoZPdXMoz5py9T3AL+J+lFdI1jfv+Px2cv5FGxnuSElDjALjSCpWWcdz35trsDOapcModrs9k7bY=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAWHGWpHErpSwM2HjtPSkNBPx8jdXSzsCaGoUXQBEZRKfrfD+C5spk608k9detVeyK1IjjfauTT8Qgvlo0h5LFTB/SH2SlQNBBohgQ6echDmYdH266JUCYwoV8c78o15XBuhAfjJ+GnLPq+OJAGTPr4EWIE6Yp1rSVWCtQg+ltSTOHKsTDXGOQSfAEn3kMoc3c+xD/9/s1pF/1cGil8RfO+gpmjIbxVeoZPdXMoz5py9T3AL+J+lFdI1jfv+Px2cv5FGxnuSElDjALjSCpWWcdz35trsDOapcModrs9k7bY=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 09:38:27
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1Kn34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1Kn34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFqBTtCuKtUCvMHPV2qc1-qc_4sKwWK4PGXSO-n3RmKRbvEbVloRQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 09:59:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+31/10/2011 10:21:17
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYy        <tr>                        <td>                                        </td>                    </tr>                    <tr>                        <td>                             </td>                    </tr>                </table>                <br />                <br />                <br />           </td>         </tr>    </table>    <div id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYy        <tr>                        <td>                                        </td>                    </tr>                    <tr>                        <td>                             </td>                    </tr>                </table>                <br />                <br />                <br />           </td>         </tr>    </table>    <div id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 10:25:48
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/10/2011 10:26:04
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/10/2011 10:37:14
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=z0' src='/images/layout/navSempnull.gif'></td><td><img border='0' src='/images/layout/navSempesq.gif'></td><td bgcolor='. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=z0' src='/images/layout/navSempnull.gif'></td><td><img border='0' src='/images/layout/navSempesq.gif'></td><td bgcolor='. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 10:59:41
+Error in: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+31/10/2011 11:48:41
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRrMfKnOcOvA201-0LV5cGSBD5iDALGye7iDALGydLiDALGydbiDALGydriDALGyd7iDALGycLiDALGyYbhDALGyYrhDALHyebiDALHyeriDALHye7iDALHydLiDALHydbiDALHydriDALHyd7iDALHycLiDALHyYbhDALHyYrhDALEyebiDALEyeriDALEye7iDALEydLiDALEydbiDALEydriDALEyd7iDALEycLiDALEyYbhDALEyYrhDALVyebiDALVyeriDALVye7iDALVydLiDALVydbiDALVydriDALVyd7iDALVycLiDALVyYbhDALVyYrhDALayebiDALayeriDALaye7iDALaydLiDALaydbiDALaydriDALayd7iDALaycLiDALayYbhDALayYrhDALkiIG1CwKJsafABQKSpsXrDwK3z+r2CQLY9YiABAL9mq6rDgKGg8y2CAKrqNLBAgKcwpKfCgKh67CqBALkiIW1CwKJsavABQKSpsnrDwK3z+72CQLY9YyABAL9mpKrDgKGg7C2CAKrqNbBAgKcwpafCgKh67SqBALkiIm1CwKJsa/ABQKSps3rDwK3z9L2CQLY9fCBBAL9mparDgKGg7S2CAKrqNrBAgKcwpqfCgKh67iqBALkiI21CwKJsZPABQKSprHrDwK3z9b2CQLY9fSBBAL9mpqrDgLH3KnhBQLkmpujCALR7ouKBALiuqvXBQL37d30AwLX6NHPAQLa8faXDgKTj98dAreTyOUCAuSj8NYCArujxMsCAruj4MsCAruj7MsCArujsMsCArqj/MsCArmjzMsCArijyMsCAr+jhMsCAr2j9MsCAoej/MsCAoej1MsCAoejhMsCAoejgMsCApSj/MsCApSj+MsCApSjzMsCApSjnMsCApSjuMsCAoqjmMsCAoqj6MsCAoqj9MsCAoqjuMsCAoqjhMsCAomjxMsCAomjzMsCAomjsMsCAoij9MsCApC1z/4NAoHK3sECApfYuc0OAo66r6kCAoXjrJMGArTMvL0DAvPM/Y8DAtm3o8cEArn8jYoPAp2c7aYFAuv2i1gCgIiqvAQC3/2oxgoC9J382wUClOqktgICmODmawKm+8vfAwKnjdPtDQLHhPeeDQLyj6PzAgL938PQAQLtnPf/BQKgxdeMDwKRr8iIBAKhmbHWCALDq9j/AgKOr8CjCAKG56+jAQLSlZHkDQLz1cbZBwLd64GWAwK75PCmAQLB5/npBQKZxevyCAKc8uI0ApD95jkC2tevqg4C1pCu/AgCwvvEyAwCyJjFiA4C1+2N6QoCwd3fowcCxo7MoAcCwo70+gYCrY/o/wwCmOLGjwIC3ODNsQwCxLT3yg8CwZixqAIC3Z7LuwEC94GJ4QwCgPXvuAYC9I2FwwsC94mJhwwC3sT1mAMCgqjthwUCxdvLiAQCpcmY6AEC/o7o+gECut+e6gkC+LHwowEC3aL0ig4CqJDVvwsCprbcqgYCy5z69wUCse6C/gEClMzulwgCq4PX/QYCna6j2QgCgt6DxgoC1vaQ9Q0Cgf7WyQwC8eG17gQCqZvzowsC7dfupwcC3YrJdwKxvfCcAgKys/eDAgLuoZ7yCwLvirHABQLenNS/CwKiz4LJCwLrx6q7CwLGpNWbDwKyoempCwKO6eOcAQK93sehCALysouoCQK9iKhkApCH1+MCAsaI6PcGAuvPgL0BApvO/f4GArGM0PABAtmi6fEPAqis/I8GAuWeoa0IAqbb6NoFAu6evdgLAr+3l4oMAsW1+9UNAr2WkeYPAq3w0+QMAsXUu/8JAtTE98cFAqSvoPcJAqrvs6cKApnBl+cGAp2+/70EAoKn/d0NAveDlZEIAqvdtvsNAuKdp9IMAvuyxfcDAsHSh68CAqr4zIoKAuzuut8PApDnqt8HAv21kMEJAqCS5YEHAvPw568NAouVqJYPAvyh35AIAoHIzPMBAqza+oYEAsmzyJ4GAvHlnfcCAomsg58IAqj35/UOAryeuegDAuyjyMoHAvzej58LAuj36qcLAviLqqIDAti/kLIHAo2Sr4wBAtSsx5cFAqvChNEGAtbflf8CAprCmHkC19frrwQCoPq11wgC3vCLugUC6qiuvQ0Cl/6XuAIC5PeLwA0C0KyYjgYC0KyYogYCwtO6owgCm8n5sAMCyqzE9QMCoKKjugwCosaMrAICsu/NsQ8Cqofh0wUC/ZH9nwsCyZPVsAkC6uWhmggC056hgwEC4uSb/wkCoe69xwcCkPK5cQKhnqD+CQKn66CTCQKl2ffUDALPn9feBgKjiY6lBALPqqDPAwLI1ej5BgL/yPjzAQKMzv3RAgKRm/D2BAKunMWIDgLLjvPhCwL1hbXEDALfroTxBwLDt8TQBgLY/s/DAgKgsoziDALKh/H1BwLprtz8DQLeh+//BQLlleujCQLS1OP3BgKeooANAt3i25cGAqqS8rwOApCZo5MEArKmucAEArz5lfIIAsb2psEOAumh3L8LAs7fgqkHAsWYkeIEAtTlgusFAvm4gY8PArXAjuoHAv62u+oGAum4ztkHAoic4sgOAri8u8EHArvkwdICAueGjbQNAobeyu4OAu+g7fwKAqzAyaYFAsD9lY0BAsGlkr4HAtez+6wFAoij6PwHAqTY6PcJAvWntPYHAreWhMoPAoqo6ZwPApKTnDwC9rbclQgCodOjzQ0CzfDt9AcCmpjzzw8Cw/XGiQECipGc6A4CuuuvzgsCxKf43gMC8Nbi+AwCtp2xqAICgN2XvQIC8531zg4Cwc6h5A4C7a+wwgUC2da2pwEC+6+8pQ0CqdnK3QcC4ejZlw8CgPeErwkCu9XduwkCpJmZrAsC7uCGxwUCsPzJzAcC/5eovg4C77r3gwIC2OjP6Q4Ck6ao+A8C64WyLwLypvqhAwKM7tjtBgK8qZS8BgK9qZS8BgK+qZS8BgK/qZS8BgK4qZS8BgKzxr7SCgLNhqyIAwLShqyIAwLC6YbmDwKV5YKzAQLsqOq2Ai8T7LfefT7EyQzZjsW63Ho/wk2otsSXS8jwk055prck. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRrMfKnOcOvA201-0LV5cGSBD5iDALGye7iDALGydLiDALGydbiDALGydriDALGyd7iDALGycLiDALGyYbhDALGyYrhDALHyebiDALHyeriDALHye7iDALHydLiDALHydbiDALHydriDALHyd7iDALHycLiDALHyYbhDALHyYrhDALEyebiDALEyeriDALEye7iDALEydLiDALEydbiDALEydriDALEyd7iDALEycLiDALEyYbhDALEyYrhDALVyebiDALVyeriDALVye7iDALVydLiDALVydbiDALVydriDALVyd7iDALVycLiDALVyYbhDALVyYrhDALayebiDALayeriDALaye7iDALaydLiDALaydbiDALaydriDALayd7iDALaycLiDALayYbhDALayYrhDALkiIG1CwKJsafABQKSpsXrDwK3z+r2CQLY9YiABAL9mq6rDgKGg8y2CAKrqNLBAgKcwpKfCgKh67CqBALkiIW1CwKJsavABQKSpsnrDwK3z+72CQLY9YyABAL9mpKrDgKGg7C2CAKrqNbBAgKcwpafCgKh67SqBALkiIm1CwKJsa/ABQKSps3rDwK3z9L2CQLY9fCBBAL9mparDgKGg7S2CAKrqNrBAgKcwpqfCgKh67iqBALkiI21CwKJsZPABQKSprHrDwK3z9b2CQLY9fSBBAL9mpqrDgLH3KnhBQLkmpujCALR7ouKBALiuqvXBQL37d30AwLX6NHPAQLa8faXDgKTj98dAreTyOUCAuSj8NYCArujxMsCAruj4MsCAruj7MsCArujsMsCArqj/MsCArmjzMsCArijyMsCAr+jhMsCAr2j9MsCAoej/MsCAoej1MsCAoejhMsCAoejgMsCApSj/MsCApSj+MsCApSjzMsCApSjnMsCApSjuMsCAoqjmMsCAoqj6MsCAoqj9MsCAoqjuMsCAoqjhMsCAomjxMsCAomjzMsCAomjsMsCAoij9MsCApC1z/4NAoHK3sECApfYuc0OAo66r6kCAoXjrJMGArTMvL0DAvPM/Y8DAtm3o8cEArn8jYoPAp2c7aYFAuv2i1gCgIiqvAQC3/2oxgoC9J382wUClOqktgICmODmawKm+8vfAwKnjdPtDQLHhPeeDQLyj6PzAgL938PQAQLtnPf/BQKgxdeMDwKRr8iIBAKhmbHWCALDq9j/AgKOr8CjCAKG56+jAQLSlZHkDQLz1cbZBwLd64GWAwK75PCmAQLB5/npBQKZxevyCAKc8uI0ApD95jkC2tevqg4C1pCu/AgCwvvEyAwCyJjFiA4C1+2N6QoCwd3fowcCxo7MoAcCwo70+gYCrY/o/wwCmOLGjwIC3ODNsQwCxLT3yg8CwZixqAIC3Z7LuwEC94GJ4QwCgPXvuAYC9I2FwwsC94mJhwwC3sT1mAMCgqjthwUCxdvLiAQCpcmY6AEC/o7o+gECut+e6gkC+LHwowEC3aL0ig4CqJDVvwsCprbcqgYCy5z69wUCse6C/gEClMzulwgCq4PX/QYCna6j2QgCgt6DxgoC1vaQ9Q0Cgf7WyQwC8eG17gQCqZvzowsC7dfupwcC3YrJdwKxvfCcAgKys/eDAgLuoZ7yCwLvirHABQLenNS/CwKiz4LJCwLrx6q7CwLGpNWbDwKyoempCwKO6eOcAQK93sehCALysouoCQK9iKhkApCH1+MCAsaI6PcGAuvPgL0BApvO/f4GArGM0PABAtmi6fEPAqis/I8GAuWeoa0IAqbb6NoFAu6evdgLAr+3l4oMAsW1+9UNAr2WkeYPAq3w0+QMAsXUu/8JAtTE98cFAqSvoPcJAqrvs6cKApnBl+cGAp2+/70EAoKn/d0NAveDlZEIAqvdtvsNAuKdp9IMAvuyxfcDAsHSh68CAqr4zIoKAuzuut8PApDnqt8HAv21kMEJAqCS5YEHAvPw568NAouVqJYPAvyh35AIAoHIzPMBAqza+oYEAsmzyJ4GAvHlnfcCAomsg58IAqj35/UOAryeuegDAuyjyMoHAvzej58LAuj36qcLAviLqqIDAti/kLIHAo2Sr4wBAtSsx5cFAqvChNEGAtbflf8CAprCmHkC19frrwQCoPq11wgC3vCLugUC6qiuvQ0Cl/6XuAIC5PeLwA0C0KyYjgYC0KyYogYCwtO6owgCm8n5sAMCyqzE9QMCoKKjugwCosaMrAICsu/NsQ8Cqofh0wUC/ZH9nwsCyZPVsAkC6uWhmggC056hgwEC4uSb/wkCoe69xwcCkPK5cQKhnqD+CQKn66CTCQKl2ffUDALPn9feBgKjiY6lBALPqqDPAwLI1ej5BgL/yPjzAQKMzv3RAgKRm/D2BAKunMWIDgLLjvPhCwL1hbXEDALfroTxBwLDt8TQBgLY/s/DAgKgsoziDALKh/H1BwLprtz8DQLeh+//BQLlleujCQLS1OP3BgKeooANAt3i25cGAqqS8rwOApCZo5MEArKmucAEArz5lfIIAsb2psEOAumh3L8LAs7fgqkHAsWYkeIEAtTlgusFAvm4gY8PArXAjuoHAv62u+oGAum4ztkHAoic4sgOAri8u8EHArvkwdICAueGjbQNAobeyu4OAu+g7fwKAqzAyaYFAsD9lY0BAsGlkr4HAtez+6wFAoij6PwHAqTY6PcJAvWntPYHAreWhMoPAoqo6ZwPApKTnDwC9rbclQgCodOjzQ0CzfDt9AcCmpjzzw8Cw/XGiQECipGc6A4CuuuvzgsCxKf43gMC8Nbi+AwCtp2xqAICgN2XvQIC8531zg4Cwc6h5A4C7a+wwgUC2da2pwEC+6+8pQ0CqdnK3QcC4ejZlw8CgPeErwkCu9XduwkCpJmZrAsC7uCGxwUCsPzJzAcC/5eovg4C77r3gwIC2OjP6Q4Ck6ao+A8C64WyLwLypvqhAwKM7tjtBgK8qZS8BgK9qZS8BgK+qZS8BgK/qZS8BgK4qZS8BgKzxr7SCgLNhqyIAwLShqyIAwLC6YbmDwKV5YKzAQLsqOq2Ai8T7LfefT7EyQzZjsW63Ho/wk2otsSXS8jwk055prck. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+31/10/2011 14:17:02
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjO:0px;. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjO:0px;. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+31/10/2011 14:59:54
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2011 15:01:23
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2011 15:04:05
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+31/10/2011 15:06:07
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+31/10/2011 19:13:01
+Error in: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Mensagem de erro: The file '/_anonimo/vaga.aspx' does not exist.
+__________________________
+
+Log Entry : 
+31/10/2011 19:21:29
+Error in: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Mensagem de erro: The file '/_anonimo/vaga.aspx' does not exist.
+__________________________
+
+Log Entry : 
+31/10/2011 19:21:35
+Error in: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vaga.aspx?pesquisa=2011/001. Mensagem de erro: The file '/_anonimo/vaga.aspx' does not exist.
+__________________________

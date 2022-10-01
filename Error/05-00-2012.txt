@@ -1,0 +1,1331 @@
+
+Log Entry : 
+05/06/2012 19:41:54
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:06
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:08
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:12
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:15
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:21
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:23
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:42:56
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:10
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:22
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:31
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:34
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:42
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:46
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:43:53
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:44:29
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:44:33
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:44:38
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:48:46
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 19:50:33
+Error in: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Error Message:Erro na página: http://localhost:54251/images/layoutNew/bgTituloGeralLoading.png. Mensagem de erro: File does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 20:03:46
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:03:47
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937417686. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937417686. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:03:50
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:03:52
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937428040. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937428040. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:03:53
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:23
+Error in: http://www.jobclick.com.br/defaults.aspx. Error Message:Erro na página: http://www.jobclick.com.br/defaults.aspx. Mensagem de erro: The file '/defaults.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:31
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937467783. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937467783. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:39
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:43
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480137. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480137. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:44
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480411. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480411. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:44
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480477. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937480477. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:51
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:54
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:04:55
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937491309. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937491309. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:05:00
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:05:04
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:05:35
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:05:36
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937532656. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937532656. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:05:55
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937551438. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937551438. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:20
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937575877. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937575877. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:25
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937581419. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937581419. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:27
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:36
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937591915. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937591915. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:49
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937604920. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937604920. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:56
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:06:59
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:07:00
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937616449. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937616449. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:07:11
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:07:45
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937662148. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937662148. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:07:47
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937662389. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937662389. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:08:07
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:09:43
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937773607. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120&_=1338937773607. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:09:48
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:09:49
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:10:02
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:10:55
+Error in: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Error Message:Erro na página: http://www.jobclick.com.br/services/LogoParceiroEmpresa.aspx?idParceiroEmpresa=120. Mensagem de erro: Item has already been added. Key in dictionary: 'ResultStatus'  Key being added: 'ResultStatus'
+__________________________
+
+Log Entry : 
+05/06/2012 20:13:14
+Error in: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338937998457. Error Message:Erro na página: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338937998457. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+05/06/2012 20:13:22
+Error in: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938006579. Error Message:Erro na página: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938006579. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+05/06/2012 20:13:39
+Error in: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015935-8&idNivelVaga=2&idVaga=48880&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938022652. Error Message:Erro na página: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015935-8&idNivelVaga=2&idVaga=48880&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938022652. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+05/06/2012 20:14:51
+Error in: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938094708. Error Message:Erro na página: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938094708. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+05/06/2012 20:15:26
+Error in: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938130350. Error Message:Erro na página: http://www.jobclick.com.br/services/Candidatar.aspx?idCurriculo=13364&ProtocoloVaga=2012P/001015994-5&idNivelVaga=2&idVaga=48939&strApresentacao=+
+CURRICULUM+VITAE
+David+Anderson+Silva+Simão
+Frei+Marcelino+1105+Rodolfo+Teófilo
+Idade;+27,+Estado+Civil;+Solteiro,
+Telefones:+8544-6997+8831-4777+3082-1928
+FORTALEZA-CE
+E-mail:+davidsilvasimao@hotmail.com
+OBJETIVO
+
+Pretendo+com+a+empresa,+Contribuir+com+minhas+habilidades+em+benefício+desta+renomada+instituição,+fazendo+parte+efetiva+do+grau+de+colaboradores,+tendo+compromisso,+respeito+e+fidelidade+como+funções+principais.
+
+FORMAÇÃO+ACADÊMICA
+
+Ensino+Médio:+Concluído
+Técnico+em+Edificações;+Em+andamento;+2ª+Semestre+(Desenho+Técnico+I,II,+Topografia,+Estudo+dos+solos+I,II,+Fundações,+Segurança+no+Trabalho,+Resistência+dos+Materiais,+Instalações+Prediais+I,II,+Projetos+I,II+)+
+Centro+de+Educação+APOENA;+Em+andamento+Conclusão+em+2013.
+
+Técnico+em+Informática;+Concluído+Com+Diploma;
+CEPEP+-+Escola+Técnica;
+
+CURSOS+E+TREINAMENTOS
+Nome+do+Curso:+Desenho+de+Projetos+Arquitetônicos+–+AUTOCAD
+Instituição:+SENAC/AR/CE
+Carga+Horária:+66/h/a
+Nome+do+Curso:+C-BASE-1+Curso+Básico+Indústria+Terrestre/+Produtos+Inflamáveis
+Instituição:+NUTEC+-+Núcleo+de+Treinamento+Técnico+Carga+Horária:+24h/a+
+
+EXPERIÊNCIA+PROFISSIONAL
+
+Estágio+na+APOENA+com+o+Engenheiro+Civil+HEMETÉRIO+TERCEIRO
+Fone:+(85)8809.6184/9620.0763(Concluído).+(Levantamento,+Medições+do+Terreno+Desenho+do+Projeto+em+AUTOCAD,+SKETCHUP).
+
+Empresa:+AMARELO+
+Cargo:+Auxiliar+de+PCP
+
+Empresa:+ÍNTIMA.COM+-+Conf.+Moda+ÍNTIMA.+++++++++++++++++++++++++++++++++
+Cargo:+Estoquista,+Técnico+em+Informática.
+Período:+17/09/2009+a+19/01/2011
+
+Aguardo+seu+contato+para+agendarmos+uma+entrevista
+&idUser=14638&_=1338938130350. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+05/06/2012 20:34:20
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLS2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLS2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+05/06/2012 20:34:35
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLS2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLS2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+05/06/2012 21:22:24
+Error in: http://www.jobclick.com.br/_candidato/objetivo.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/objetivo.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick_portal\_candidato\CandidatoPageJobClick.master.vb(41): error BC30451: 'HyperLinkHome' is not declared. It may be inaccessible due to its protection level.
+__________________________
+
+Log Entry : 
+05/06/2012 22:18:41
+Error in: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/competenciaProfissional.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/07/2012 08:24:53
+Error in: http://www.jobclick.com.br/Sc19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnv8CKHGq7SQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/Sc19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnv8CKHGq7SQ2&t=ffffffff8a8533f5. Mensagem de erro: A potentially dangerous Request.Path value was detected from the client (&).
+__________________________
+
+Log Entry : 
+05/08/2012 10:57:54
+Error in: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroinstituicao.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+05/08/2012 13:30:54
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: The DELETE statement conflicted with the REFERENCE constraint "FK_tbIdiomaC_tbCurriculo". The conflict occurred in database "jobclickdb", table "dbo.tbIdiomaC", column 'idcurriculo'.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+05/08/2012 13:42:29
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001024682-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001024682-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/08/2012 13:52:14
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/08/2012 15:23:19
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.119.153.219
+	Port: 48606
+	Referer: http://www.jobclick.com.br/_candidato/administraCV.aspx
+	Path: /_candidato/administraCV.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; pt-br; GT-S5360B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: pMvsmWNWcCMtuRkfiql5A0Q1ua5bM8lsumsVsBvOpah0/wXzycOm7W954bvnh17KHXoD0IUa8w0+WOJq1DyZ6wtlHuH8uNBQowbgN5ucp4b+B5nIGdJApCTD2jhS6em+VcwoNBVVcmErxwSwqPfppedlGCoJhg6HPmFcEC7Y9fvlY/gKDfCxaoY5hhaX/K06UPimW+2PDiEEXQdO6L+dAzePYGo7gKPuWNmr2KmWBdzwyMxb8f1nJUjl6PH4MZTYIsDxXX/5LPyQz+ORYKqCGeTbr2XSLcPYGcH5UbsUHhFK4ynkejvxV0AkOKa7/Pa14rxNpDskfvWRKDJ2BI0QkPRwp5NDQkHKi17Df/lNGj9/n2/7TlnntcfVNQ8sOTsI+9IDP1uthUijVU/nQ0WqSgRGdCCDd6/YzwWh1av4a2E2mWaf9C9qgeL2QNn7QRS4qtKbX3FimlEGty1anmpPJUb59XxbCz72jrQAIJfgb8cAxdOHgLluUrg/0hYi0btkeeMEY4jQBRf7VsVQcLrhMIV46bRsG+0puYeybb5OIFgVWivRSeKWmuQj8GPs/hnBmrUv9xy7WkE9yeAUiRCpQLimt4I9Yduq01GbuEeIXU66yODMKCXjxFmeDymk5oTB/nGH2r33ytoOruKUZLM7AvtN+09WESr0a9AQ1HPdjgmik8Bi04ZtDHvmNPOxy...
+__________________________
+
+Log Entry : 
+05/08/2012 15:23:27
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.119.153.219
+	Port: 37044
+	Referer: http://www.jobclick.com.br/_candidato/administraCV.aspx
+	Path: /_candidato/administraCV.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 2.3.6; pt-br; GT-S5360B Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1
+	ViewState: pMvsmWNWcCMtuRkfiql5A0Q1ua5bM8lsumsVsBvOpah0/wXzycOm7W954bvnh17KHXoD0IUa8w0+WOJq1DyZ6wtlHuH8uNBQowbgN5ucp4b+B5nIGdJApCTD2jhS6em+VcwoNBVVcmErxwSwqPfppedlGCoJhg6HPmFcEC7Y9fvlY/gKDfCxaoY5hhaX/K06UPimW+2PDiEEXQdO6L+dAzePYGo7gKPuWNmr2KmWBdzwyMxb8f1nJUjl6PH4MZTYIsDxXX/5LPyQz+ORYKqCGeTbr2XSLcPYGcH5UbsUHhFK4ynkejvxV0AkOKa7/Pa14rxNpDskfvWRKDJ2BI0QkPRwp5NDQkHKi17Df/lNGj9/n2/7TlnntcfVNQ8sOTsI+9IDP1uthUijVU/nQ0WqSgRGdCCDd6/YzwWh1av4a2E2mWaf9C9qgeL2QNn7QRS4qtKbX3FimlEGty1anmpPJUb59XxbCz72jrQAIJfgb8cAxdOHgLluUrg/0hYi0btkeeMEY4jQBRf7VsVQcLrhMIV46bRsG+0puYeybb5OIFgVWivRSeKWmuQj8GPs/hnBmrUv9xy7WkE9yeAUiRCpQLimt4I9Yduq01GbuEeIXU66yODMKCXjxFmeDymk5oTB/nGH2r33ytoOruKUZLM7AvtN+09WESr0a9AQ1HPdjgmik8Bi04ZtDHvmNPOxy...
+__________________________
+
+Log Entry : 
+05/08/2012 17:39:28
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+05/08/2012 17:46:03
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.98.172.40
+	Port: 51675
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.60 Safari/537.1
+	ViewState: /wEPDwUKLTk2NzExNDEzOA9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAIHDw8WAh8ABQtWYWdhczogMjkxMmRkAkcPZBYIAgsPDxYCHgdWaXNpYmxlZ2QWAgIBDw8WBh4IQ3NzQ2xhc3MFA21zbh8ABSRDUEYgasOhIGVzdMOhIGNhZGFzdHJhZG8gbm8gc2lzdGVtYS4eBF8hU0ICAmRkAg8PZBYCZg9kFgICAQ9kFiACDQ8PFgQfAAUOX19fLl9fXy5fX18tX18eCU1heExlbmd0aGZkZAIPDxYUHhlDdWx0dXJlRGVjaW1hbFBsYWNlaG9sZGVyBQEsHgtDdWx0
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:20
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025108-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025108-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:29
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025474-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:45
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:46
+Error in: http://www.jobclick.com.br/canalrss.aspx. Error Message:Erro na página: http://www.jobclick.com.br/canalrss.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:48
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:50
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025085-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025085-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:53
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:25:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:08
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:10
+Error in: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&css=orange&estado=CE&action=painel&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/paineldevagas.aspx[_61_]pesquisa[_63_]2012P/001024712-0. Error Message:Erro na página: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&css=orange&estado=CE&action=painel&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/paineldevagas.aspx[_61_]pesquisa[_63_]2012P/001024712-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:11
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:13
+Error in: http://www.jobclick.com.br/landing_more.aspx. Error Message:Erro na página: http://www.jobclick.com.br/landing_more.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:13
+Error in: http://www.jobclick.com.br/landing_more.aspx. Error Message:Erro na página: http://www.jobclick.com.br/landing_more.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:13
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:19
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:21
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025105-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025105-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:26
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:28
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing_more.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing_more.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:29
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:33
+Error in: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&css=orange&estado=CE&action=painel&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/paineldevagas.aspx[_61_]pesquisa[_63_]2012P/001025080-1. Error Message:Erro na página: http://www.jobclick.com.br/landing.aspx?options=&partnerkey=MTIw&css=orange&estado=CE&action=painel&server=http://www.jobclick.com.br&scroll_botton_height=600&jobclick_callback=http://www.centrodeestagio.com/paineldevagas.aspx[_61_]pesquisa[_63_]2012P/001025080-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:34
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025106-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025106-4. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:44
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025475-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:48
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/landing.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:50
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:53
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:26:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025479-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025479-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:08
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:14
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025479-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025479-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025480-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025480-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025476-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:26
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025108-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025108-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:29
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025480-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025480-3. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025481-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025481-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:50
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025481-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025481-1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:54
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025477-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:55
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025482-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025482-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:27:56
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025085-0. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025085-0. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:07
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:11
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025105-6. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025105-6. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:12
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025482-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025482-9. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025483-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025483-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:27
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025478-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025483-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025483-7. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:36
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025484-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025484-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:46
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:48
+Error in: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/erro.aspx?aspxerrorpath=/_anonimo/vagas.aspx. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 21:28:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025484-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001025484-5. Mensagem de erro: Timeout expired.  The timeout period elapsed prior to obtaining a connection from the pool.  This may have occurred because all pooled connections were in use and max pool size was reached.
+__________________________
+
+Log Entry : 
+05/08/2012 23:32:23
+Error in: http://www.jobclick.com.br/politica.aspx. Error Message:Erro na página: http://www.jobclick.com.br/politica.aspx. Mensagem de erro: The file '/politica.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/09/2012 05:47:40
+Error in: http://www.jobclick.com.br/comercial/slide004.aspx. Error Message:Erro na página: http://www.jobclick.com.br/comercial/slide004.aspx. Mensagem de erro: The file '/comercial/slide004.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/09/2012 12:13:40
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/09/2012 12:15:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/09/2012 12:17:57
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/09/2012 12:19:07
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001030150-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/09/2012 12:39:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+05/10/2012 09:20:45
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'RadioButtonListEstadoCivil' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+05/10/2012 09:25:15
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...atural. 
+<br><br>
+<br><br>Re...").
+__________________________
+
+Log Entry : 
+05/10/2012 09:25:46
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'RadioButtonListEstadoCivil' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+05/10/2012 09:27:01
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'RadioButtonListEstadoCivil' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+05/10/2012 11:16:29
+Error in: http://www.jobclick.com.br/catalogo.aspx?ID=6&txt=Cobertura em geral. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?ID=6&txt=Cobertura em geral. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/10/2012 11:24:00
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+05/10/2012 11:24:17
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+05/10/2012 11:25:41
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.49.123.183
+	Port: 48167
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (Linux; U; Android 3.2; pt-br; GT-P6200L Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13
+	ViewState: /wEPDwUKLTcxNTEyMDk0Mw9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMzYyNGRkAkcPZBYOZg9kFgICAQ8PFgIfAGVkZAIBDw8WAh4HVmlzaWJsZWdkFgICAQ8PFgYeCENzc0NsYXNzBQNtc24fAAUkQ1BGIGrDoSBlc3TDoSBjYWRhc3RyYWRvIG5vIHNpc3RlbWEuHgRfIVNCAgJkZAIJDw8WAh8BZ2QWBAIBDw8WAh8AZWRkAgMPDxYCHwFoZGQCCw9kFgJmD2QWAgIBD2QWKAILDw8WAh8ABQ4wNDkuNjgzLjQ4My01NWRkAhMPEA8WAh4LXyFEYXRhQm91bmRnZBAVAwtFc3TDoWdpYXJpbxBQcmltZWlybyBFbXByZWdvDFByb2Zpc3Npb25hbBUDC0VzdMOhZ2lhcmlvEFByaW1laXJvIEVtcHJlZ28MUHJvZmlzc2lvbmFsFCsDA2dnZ2RkAhkPEA8WAh8EZ2QQFQYIU29sdGVpcm8GQ2FzYWRvCFNlcGFyYWRvCkRpdm9yY2lhZG8GVmnDunZvBk91dHJvcxUGCFNvbHRlaXJvBkNhc2FkbwhTZXBhcmFkbwpEaXZvcmNpYWRvBlZpw7p2bwZPdXRyb3MUKwMGZ2dnZ2dnZGQCJQ8QDxYCHwRnZBAVBQdDZWx1bGFyCUNv...
+__________________________
+
+Log Entry : 
+05/10/2012 14:23:25
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001033303-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001033303-7. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/10/2012 14:24:11
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/10/2012 14:24:29
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/10/2012 14:25:16
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/10/2012 18:14:32
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/10/2012 20:48:20
+Error in: http://www.jobclick.com.br/catalogo.aspx?IDCOMENTA=34&IDPROD=34. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?IDCOMENTA=34&IDPROD=34. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/10/2012 22:03:58
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 08:20:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 08:21:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 08:21:52
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 08:22:09
+Error in: http://www.jobclick.com.br/DefaultCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/DefaultCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 11:24:35
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 11:26:16
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 12:06:06
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012/001037596-2. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx?pesquisa=2012/001037596-2. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/11/2012 12:54:13
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 12:54:49
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 12:55:18
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 13:02:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/11/2012 13:12:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+05/11/2012 14:43:20
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 15:55:42
+Error in: http://www.jobclick.com.br/pagseguro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/pagseguro.aspx. Mensagem de erro: Column name or number of supplied values does not match table definition.
+__________________________
+
+Log Entry : 
+05/11/2012 16:40:26
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/11/2012 17:45:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$contentPlaceHolder1$nmempresaTextBox="...kpcdmjdl, <a href="http://www....").
+__________________________
+
+Log Entry : 
+05/11/2012 18:18:10
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 12:32:12
+Error in: http://www.jobclick.com.br/_candidato/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/default.aspx. Mensagem de erro: String or binary data would be truncated.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+05/12/2012 13:30:30
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 13:57:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 13:59:59
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 14:00:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 14:00:25
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+05/12/2012 17:18:44
+Error in: http://www.jobclick.com.br/catalogo.aspx?IDCOMENTA=34&IDPROD=34. Error Message:Erro na página: http://www.jobclick.com.br/catalogo.aspx?IDCOMENTA=34&IDPROD=34. Mensagem de erro: The file '/catalogo.aspx' does not exist.
+__________________________
+
+Log Entry : 
+05/12/2012 20:12:27
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+05/12/2012 20:13:46
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________

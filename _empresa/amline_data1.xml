@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart>
+  <!--
+  <message>
+    <![CDATA[You can broadcast any message to chart from data XML file]]>
+  </message>
+  -->
+	<series>
+		<value xid="57">0</value>
+	</series>
+	<graphs>
+		<graph gid="1">
+			<value xid="57">0</value>
+		</graph>
+		<graph gid="2">			
+			<value xid="57">0</value>
+		</graph>
+	</graphs>
+</chart>

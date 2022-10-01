@@ -1,0 +1,10 @@
+
+Log Entry : 
+22/02/2015 21:12:37
+Error in: http://www.jobclick.com.br/loginEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/loginEmpresa.aspx. Mensagem de erro: O arquivo '/loginEmpresa.aspx' não existe.
+__________________________
+
+Log Entry : 
+22/02/2015 23:01:38
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________

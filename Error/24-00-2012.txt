@@ -1,0 +1,346 @@
+
+Log Entry : 
+24/06/2012 00:00:52
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=VKRf0l1wUajsuWzZDdOwPHwXvff8nV_Clpg3TbD62juI8xDTVVd3iO5nFwqwdnQleomLuqiDCb1_dwcFUaUv0wZ7lvIIezVw6kdUwQCHL_plKhoFisQ3fXGeKcrhVnihJh8hQPmEuIueA_i9u2pEfyVBKuVwTdwhpbn0KDzMhks1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=VKRf0l1wUajsuWzZDdOwPHwXvff8nV_Clpg3TbD62juI8xDTVVd3iO5nFwqwdnQleomLuqiDCb1_dwcFUaUv0wZ7lvIIezVw6kdUwQCHL_plKhoFisQ3fXGeKcrhVnihJh8hQPmEuIueA_i9u2pEfyVBKuVwTdwhpbn0KDzMhks1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Evf4o3D16uxHNOU9_kgJ0fHjuiv0mUXxv_McWboHdNoXxv27f_cHyHVug71BNJBgJBeSc2dr4ftPcNhYhDMKzkoFYzjA9lLwBM9nEhNP0PKijANuF-K3phjw4UAfbgfGbUx-2vxjnXtPPeNH12n-1uIPvu92W7BM1Kj2JyxX-NE1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Evf4o3D16uxHNOU9_kgJ0fHjuiv0mUXxv_McWboHdNoXxv27f_cHyHVug71BNJBgJBeSc2dr4ftPcNhYhDMKzkoFYzjA9lLwBM9nEhNP0PKijANuF-K3phjw4UAfbgfGbUx-2vxjnXtPPeNH12n-1uIPvu92W7BM1Kj2JyxX-NE1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Lmj3xlVxpiZPPe6bHq5eFkqXpO-IwJcyq0fJKhCKP6dg2QIt6-fR72Ub_jFBYlHb-OKf5BLVXEqP6mkHvXq3ed1C4ffkZjfWIIzpUPyZ4xnbDPOc36S9COdpyZdan-HLPTU0YhnaP4EfdT_YcVaeEMtNsWiWW9k6LWwe1qg5NL41&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Lmj3xlVxpiZPPe6bHq5eFkqXpO-IwJcyq0fJKhCKP6dg2QIt6-fR72Ub_jFBYlHb-OKf5BLVXEqP6mkHvXq3ed1C4ffkZjfWIIzpUPyZ4xnbDPOc36S9COdpyZdan-HLPTU0YhnaP4EfdT_YcVaeEMtNsWiWW9k6LWwe1qg5NL41&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=RxqYTSDU--rLeSzpuTwG8r1VaITYU94REcm3jjjPr7XDy_g3lD29TXZuv68v4sHEB3xVB8QGWSmVMIuZZwkfBANhRcKgNnAPJIGDCyNi3X7ZCndWbhzviuOflT601Ap_9xs5sQ6FqmJ7-z_F0piRGA2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=RxqYTSDU--rLeSzpuTwG8r1VaITYU94REcm3jjjPr7XDy_g3lD29TXZuv68v4sHEB3xVB8QGWSmVMIuZZwkfBANhRcKgNnAPJIGDCyNi3X7ZCndWbhzviuOflT601Ap_9xs5sQ6FqmJ7-z_F0piRGA2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:39
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FVvsl9KYTtAYzZCDN98z5tM2XuwKTlIKw9wMhoqA21uOFCJlOqzi2TMHqnPFYm9p0J2y4Gq8_TG7qokxvNhhTuYlhOab7JLD5lzEgh0HuMIRiNgcdr0ZfMkA2-ZcXnha4sDSkjH8kVfO-5yKDgryRi2w4kahiHSvigJavBQb8Vg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FVvsl9KYTtAYzZCDN98z5tM2XuwKTlIKw9wMhoqA21uOFCJlOqzi2TMHqnPFYm9p0J2y4Gq8_TG7qokxvNhhTuYlhOab7JLD5lzEgh0HuMIRiNgcdr0ZfMkA2-ZcXnha4sDSkjH8kVfO-5yKDgryRi2w4kahiHSvigJavBQb8Vg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:40
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=hVCEdpAxTmSQIFocOFKfMv1COdGjPC5ho4H-qAxVr5Cgn6vqHxg5sRhQdPsYWn1YZUXrH7WpzsYf90Go5cuAb8cEcCvgSjDzdmoNgYkOJnZIquh1s32xafWAMwaM7j7unYHndE5E01WBdE-iEIzgBg2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=hVCEdpAxTmSQIFocOFKfMv1COdGjPC5ho4H-qAxVr5Cgn6vqHxg5sRhQdPsYWn1YZUXrH7WpzsYf90Go5cuAb8cEcCvgSjDzdmoNgYkOJnZIquh1s32xafWAMwaM7j7unYHndE5E01WBdE-iEIzgBg2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:40
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=T31kr1lmx-Fveto372aHdv4ytYBx9-iCLhNk5yk6cR-RXDxKQsHtZ6yKDhPIApYd6H3WjGkMBavGmPuV7XgVJ95fWed634CfNcgcFdlMcNvAPmPsgh8RvOYqhd3VCP8Z_wTCUK6jGnj8WjIzmO-rrQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=T31kr1lmx-Fveto372aHdv4ytYBx9-iCLhNk5yk6cR-RXDxKQsHtZ6yKDhPIApYd6H3WjGkMBavGmPuV7XgVJ95fWed634CfNcgcFdlMcNvAPmPsgh8RvOYqhd3VCP8Z_wTCUK6jGnj8WjIzmO-rrQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:41
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=nG1Gyp7en2iC052U9333Yk1D-pjU3gCiAfhl0tUyA0yXQiBlvfBYFkw742WoYqb-hwkjcQkbn4ptq2JH1_6TAK5g246mKCiZT8JvJb6BaGeMFoZjee3Xir2uK7DafMsMI7ndsM5lbDD1bkdj3qBBDw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=nG1Gyp7en2iC052U9333Yk1D-pjU3gCiAfhl0tUyA0yXQiBlvfBYFkw742WoYqb-hwkjcQkbn4ptq2JH1_6TAK5g246mKCiZT8JvJb6BaGeMFoZjee3Xir2uK7DafMsMI7ndsM5lbDD1bkdj3qBBDw2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:42
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=9RBUNyJu3Uhttfh1YIh-3NJgBDjcf4DLTcqf2ul9Npkq9XoGJrzRbV6mSfqA-i0FcOoqy4L3V7g21IEM8tjf3ft9AVvzyB9kDV0DEvuRmJtK3DIyMOSjtjdAJ-ngtxkwFOsjnV_CBTo7QRsS1neHjIYgW2K6dtRJoHxYDitQtGo1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=9RBUNyJu3Uhttfh1YIh-3NJgBDjcf4DLTcqf2ul9Npkq9XoGJrzRbV6mSfqA-i0FcOoqy4L3V7g21IEM8tjf3ft9AVvzyB9kDV0DEvuRmJtK3DIyMOSjtjdAJ-ngtxkwFOsjnV_CBTo7QRsS1neHjIYgW2K6dtRJoHxYDitQtGo1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/06/2012 19:05:42
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=9StyZt7IJhGtZz40b5eD8td8m18cGrFzKjWKgeMBOMTlg2MMX543aNErFfJ-aJPEGwtE5xoKHm4RAQa4ZSB3Q3sZ05AU1LjhXeTCJi4wXeJZ14xbTzGqmn8lM66_J6inQ8tGyq5LguiMNv8gkw9r-A2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=9StyZt7IJhGtZz40b5eD8td8m18cGrFzKjWKgeMBOMTlg2MMX543aNErFfJ-aJPEGwtE5xoKHm4RAQa4ZSB3Q3sZ05AU1LjhXeTCJi4wXeJZ14xbTzGqmn8lM66_J6inQ8tGyq5LguiMNv8gkw9r-A2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/07/2012 10:40:37
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/07/2012 10:40:46
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/07/2012 10:41:04
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/07/2012 10:41:08
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZ                         </td>                    <td>                        <input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/07/2012 11:18:35
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/07/2012 14:20:04
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/07/2012 14:27:54
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/07/2012 14:28:44
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/07/2012 16:03:48
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteData.ashx?q=escola+superior+de+administra;'&limit=150&timestamp=1343156614646. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteData.ashx?q=escola+superior+de+administra;'&limit=150&timestamp=1343156614646. Mensagem de erro: Unclosed quotation mark after the character string ') ORDER BY dsinstituicao'.
+Incorrect syntax near ') ORDER BY dsinstituicao'.
+__________________________
+
+Log Entry : 
+24/07/2012 19:39:20
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/07/2012 20:27:15
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=15978. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=15978. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/07/2012 20:31:55
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=15978. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx?idcurriculoV=15978. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/07/2012 22:00:29
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: A potentially dangerous Request.Form value was detected from the client (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...oblemas.
+<br><br>").
+__________________________
+
+Log Entry : 
+24/07/2012 23:59:27
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/07/2012 23:59:58
+Error in: http://www.jobclick.com.br/_candidato/cv.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/cv.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/08/2012 09:10:17
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001024073-7. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001024073-7. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/08/2012 09:17:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 09:17:39
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 11:12:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001027438-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001027438-9. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/08/2012 14:58:41
+Error in: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experienciaProfissional.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+24/08/2012 14:58:43
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+24/08/2012 15:55:34
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 15:56:17
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 16:52:23
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64db_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64db_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 16:53:08
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8veNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8veNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+24/08/2012 16:56:03
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6outNew/linkedin.gif. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=Oirh_eiYZX3vqRJ7C4RjZGcP75OyqeJmMkJzUGJPcpkJYI0iIjHTX2H7_46-NtWN8-1p7CNTHE5laR1VoOmNLyR98ClyVZtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6outNew/linkedin.gif. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 16:56:16
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64dUZqKdfclPrEjC_A-HUshNz-VLQBeK__6rWIcdtH2AwQ3F1NqAoqRmHPJEQ5bxeG2sV8ZLWTT3XU_UCZo0UvmdQq9S0kgRXIDKPrXeqUxWE_qhVxk-GrApnmWOqkT4Q2eyWdme7f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prNyMB6NpPp_d7w3ndW64dUZqKdfclPrEjC_A-HUshNz-VLQBeK__6rWIcdtH2AwQ3F1NqAoqRmHPJEQ5bxeG2sV8ZLWTT3XU_UCZo0UvmdQq9S0kgRXIDKPrXeqUxWE_qhVxk-GrApnmWOqkT4Q2eyWdme7f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 16:56:59
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HG-R_fr4-prY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 16:57:25
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHtrfqBQuOnpygIyYMdCKYKtkcMbicGQuUFCuZbdM6veQc-D_-ZRLYHAzw2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+24/08/2012 17:00:32
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-                    <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-                    <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 17:00:36
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=lAAOvf4Do1-qPHUMlli-m3=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/08/2012 17:02:49
+Error in: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8vEg909NgUz03bB3BV7YzSg9FPqNUhjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=Tj9_IMxcOclmRK93Md_EaBhyceKrHORbN_p65CLSlGKHFpGiS8df5z8vEg909NgUz03bB3BV7YzSg9FPqNUhjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+24/08/2012 18:14:39
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 18:15:04
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/08/2012 18:16:15
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: 'DropDownListDependentes' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+__________________________
+
+Log Entry : 
+24/09/2012 10:25:12
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.90.16.70
+	Port: 55626
+	Referer: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx
+	Path: /_anonimo/cadastrocandidato.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.89 Safari/537.1
+	ViewState: /wEPDwUKLTcxNTEyMDk0Mw9kFgJmD2QWAgIBD2QWBgIDDw8WAh4EVGV4dGRkZAJBDw8WAh8ABQtWYWdhczogMjc3N2RkAkcPZBYKZg9kFgICAQ8PFgIfAGVkZAIJDw8WAh4HVmlzaWJsZWhkFgICAQ8PFgIfAGVkZAILD2QWAmYPZBYCAgEPZBYiAhMPEA8WAh4LXyFEYXRhQm91bmRnZBAVAwtFc3TDoWdpYXJpbxBQcmltZWlybyBFbXByZWdvDFByb2Zpc3Npb25hbBUDC0VzdMOhZ2lhcmlvEFByaW1laXJvIEVtcHJlZ28MUHJvZmlzc2lvbmFsFCsDA2dnZ2RkAhkPEA8WAh8CZ2QQFQYIU29sdGVpcm8GQ2FzYWRvCFNlcGFyYWRvCkRpdm9yY2lhZG8GVmnDunZvBk91dHJvcxUGCFNvbHRlaXJvBkNhc2FkbwhTZXBhcmFkbwpEaXZvcmNp
+__________________________
+
+Log Entry : 
+24/09/2012 14:52:22
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/09/2012 14:53:07
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/09/2012 14:58:45
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/09/2012 14:59:28
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/09/2012 21:16:19
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+24/09/2012 21:16:39
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001029528-5. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012/001029528-5. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/09/2012 22:54:25
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/09/2012 23:58:31
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Failed to load viewstate.  The control tree into which viewstate is being loaded must match the control tree that was used to save viewstate during the previous request.  For example, when adding controls dynamically, the controls added during a post-back must match the type and position of the controls added during the initial request.
+__________________________
+
+Log Entry : 
+24/10/2012 05:25:30
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001035908-1. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2012P/001035908-1. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/10/2012 10:45:17
+Error in: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastrocandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/10/2012 11:05:35
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+24/10/2012 16:27:38
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+24/10/2012 22:49:23
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+24/11/2012 02:07:36
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=qbxigv5thmyfo_7_naqwlcmhg47069j6fr8joh3msakfcseux3ddmmh_mtlfknfzjreijzrkh0poolhes7iq06drba0_m_qemvvvt7w-u5qgoxt1sbct33fysz9-xq1glbqkrpf1fw1de9sy601ijw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=qbxigv5thmyfo_7_naqwlcmhg47069j6fr8joh3msakfcseux3ddmmh_mtlfknfzjreijzrkh0poolhes7iq06drba0_m_qemvvvt7w-u5qgoxt1sbct33fysz9-xq1glbqkrpf1fw1de9sy601ijw2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+24/11/2012 07:28:39
+Error in: http://www.jobclick.com.br/pagseguro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/pagseguro.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'SELECT CanceladoPagSeguro FROM tbsetup WHERE (idsetup = ' to data type int.
+__________________________
+
+Log Entry : 
+24/11/2012 07:42:38
+Error in: http://www.jobclick.com.br/pagseguro.aspx. Error Message:Erro na página: http://www.jobclick.com.br/pagseguro.aspx. Mensagem de erro: Conversion failed when converting the varchar value 'SELECT CanceladoPagSeguro FROM tbsetup WHERE (idsetup = ' to data type int.
+__________________________
+
+Log Entry : 
+24/12/2012 10:47:04
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+24/12/2012 11:39:38
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+24/12/2012 11:39:48
+Error in: http://www.jobclick.com.br/_candidato/administraCV.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/administraCV.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________

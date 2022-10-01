@@ -1,0 +1,95 @@
+
+Log Entry : 
+16/02/2015 10:08:10
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+16/02/2015 10:08:18
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+16/02/2015 10:26:02
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+16/02/2015 10:27:34
+Error in: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/sponsoredAD.aspx?pesquisa=asssistente+pedagogico. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+16/02/2015 13:45:42
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20159718E%25225f2240003557119-4. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=20159718E%25225f2240003557119-4. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+16/02/2015 13:45:42
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2015861E%25271f2240003551040-4. Error Message:O processo não pode acessar o arquivo 'D:\inetpub\wwwroot_jobclick_portal\Error\16-00-2015.txt' porque ele está sendo usado por outro processo.
+__________________________
+
+Log Entry : 
+16/02/2015 13:45:54
+Error in: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?ReturnUrl=/_candidato/_creditocandidato.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+16/02/2015 21:32:18
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=3pbjkulz5hd3wwuxg5svt_grdprw7qqnqqregy8nb-0bd2c7e2p2kuqyzieo9kbjz7vpwlksnrgrfep86kh4pyt_1rhq6kxyhfsj85p70ensosxznx17kfiovwsakmyjq9iuudyol_-gp2egzscuvfcex1qcyaoatriuqge4_2q1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=3pbjkulz5hd3wwuxg5svt_grdprw7qqnqqregy8nb-0bd2c7e2p2kuqyzieo9kbjz7vpwlksnrgrfep86kh4pyt_1rhq6kxyhfsj85p70ensosxznx17kfiovwsakmyjq9iuudyol_-gp2egzscuvfcex1qcyaoatriuqge4_2q1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 21:39:46
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=jprlfu82w3i-ebrouuy4ixs2xhdv6bb-httxxlweprr4uvrwoeivosomfjczeo68notc6kdlp6o3imbifonhwhagnk9ediuguzar177bsa44odhoubjhcyowbgvaexl6tdatf5k7ll9flh1qvuzuyt5ozsorgkmoghkkfpkcldn5tqkir5k6np7uet5fszha0&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=jprlfu82w3i-ebrouuy4ixs2xhdv6bb-httxxlweprr4uvrwoeivosomfjczeo68notc6kdlp6o3imbifonhwhagnk9ediuguzar177bsa44odhoubjhcyowbgvaexl6tdatf5k7ll9flh1qvuzuyt5ozsorgkmoghkkfpkcldn5tqkir5k6np7uet5fszha0&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 21:39:51
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6f6ioph0v145nt5v-noc3saag8wn-llj6p9urpbgh4xueqdz9vxa2iyo_wbmytriey8wsca2ppq6cr5levhpax6y0jn1zqbgs4-k0n217-uhcry4pijlnsgsmznwcdvda-hutet1bhn7im4s9uiehkhxufmam8bionaw2xhkqcm1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6f6ioph0v145nt5v-noc3saag8wn-llj6p9urpbgh4xueqdz9vxa2iyo_wbmytriey8wsca2ppq6cr5levhpax6y0jn1zqbgs4-k0n217-uhcry4pijlnsgsmznwcdvda-hutet1bhn7im4s9uiehkhxufmam8bionaw2xhkqcm1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 22:13:53
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=fqhdzuzr_a9_hp21logbyatfqupx0fhd9ioa8oe-or-icqr6pfphkdqfll-lch1wgooynlu5841il9ajmwbbkmfdxrqvphroqr3mmdy2wv5wdcwz7-8wjse_85w4sa9yz6nwi6ldwq3_poyv10op1vikn5z0feke2r9uletrsr01&amp;t=78788474. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=fqhdzuzr_a9_hp21logbyatfqupx0fhd9ioa8oe-or-icqr6pfphkdqfll-lch1wgooynlu5841il9ajmwbbkmfdxrqvphroqr3mmdy2wv5wdcwz7-8wjse_85w4sa9yz6nwi6ldwq3_poyv10op1vikn5z0feke2r9uletrsr01&amp;t=78788474. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 22:15:02
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=9fj0u8yc1g-jmtv_ncoomd8phnvaj2z9hjqyxeyg8nlzvm9quodt8p6g3syee9hvz5sk-wmcbfu6ktksjxie_zfhj9uu0zw_0v3ygyobcsvbrq4klqeki_iykfiuox8hu7gr_hosd_tx0nzc4_wflq2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=9fj0u8yc1g-jmtv_ncoomd8phnvaj2z9hjqyxeyg8nlzvm9quodt8p6g3syee9hvz5sk-wmcbfu6ktksjxie_zfhj9uu0zw_0v3ygyobcsvbrq4klqeki_iykfiuox8hu7gr_hosd_tx0nzc4_wflq2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:12:00
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:12:09
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:21:19
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:21:22
+Error in: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+16/02/2015 23:21:29
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:24:20
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+16/02/2015 23:39:47
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________

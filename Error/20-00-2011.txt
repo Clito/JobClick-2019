@@ -1,0 +1,106 @@
+
+Log Entry : 
+20/09/2011 22:04:18
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/09/2011 23:23:24
+Error in: http://www.jobclick.com.br/_candidato/intercambio.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/intercambio.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\intercambio.aspx(140): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._candidato_intercambio_aspx'.
+__________________________
+
+Log Entry : 
+20/09/2011 23:23:29
+Error in: http://www.jobclick.com.br/_candidato/intercambio.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/intercambio.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\intercambio.aspx(140): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._candidato_intercambio_aspx'.
+__________________________
+
+Log Entry : 
+20/09/2011 23:23:52
+Error in: http://www.jobclick.com.br/_candidato/intercambio.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/intercambio.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\_candidato\intercambio.aspx(140): error BC30456: 'InsertCancelButton_Click' is not a member of 'ASP._candidato_intercambio_aspx'.
+__________________________
+
+Log Entry : 
+20/10/2011 00:09:51
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+20/10/2011 00:10:30
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+20/10/2011 11:55:39
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 177.60.211.187
+	Port: 51440
+	Referer: http://www.jobclick.com.br/_candidato/experiencia.aspx
+	Path: /_candidato/experiencia.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; BTRS6335; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET4.0C)
+	ViewState: driWX/iUCaGkhJV1Q0JPBxl38/x19jSEWlCVptDDlrq8xMZbL0f56+saixjMaTaylid/YErP1wicECvCHRYMk2Z1hRG6OiausW5rApOcfYEHvHdgI1vRRBttmtxmh5j7E1+jwlC09WkShRarYPj7Y4Du8wgnr4pFEtZPWHFSTEBYCVmi/S0PA+t3/jBPSZMAe3tGWO+WTkwbHHLCfezTbnDfV9SMG/teQZq35s+xmVYkdXPsRHYFk2wM7GR9FO1b/C/BTuDlPGyCgVZP2flYqzl3QoVQfCUls1Vtr45wqY44Y+vgWBcPhhymxQDiUihdOZS+A3QdlvI0EKK7ugveDs9umFqZ9qgTAU4pjImC3UIwWVv65eFh1UOhAwW11/BUftXVrcj3DvmGpexgay/IXxdldmXP0cFkFs9WUS2FJQGkZzmN0WzCwDYE2jzGZrWA780+oGQkq7ARpw8OMgJ2bLvU48J9OI/XtylZmn1Cgi+sOqlX/MNSoHLTJ4c5KfQc5ufCx+gbeRwzPsxUl4I2P0cyqPtHY0NjuyM6goQCEUmUmxKwSt+RqoAgmBhBFhHARfRBVS72H+TkQ59fWPw0+u1aANG7TdF3GRcpFtnqJXRKB+2JQTYftEWZ891vhqRKH4jbKDGSxEijoQ8BXuGzc0eing4mLR+pOmO6KtrKVrNegf2jPe...
+__________________________
+
+Log Entry : 
+20/10/2011 11:58:17
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 12:01:02
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 12:04:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 12:12:02
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 12:20:44
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 12:34:43
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPFAtqRG-9AQwixAQChbibsSQIp4rRMRWjqhmqVFahVUkW4YHTEbhb9ZsAaaraP3CqM5RuHuXFGJih9WCkDgiFZxq2X3Jjhiift3oGEGXB8YQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPFAtqRG-9AQwixAQChbibsSQIp4rRMRWjqhmqVFahVUkW4YHTEbhb9ZsAaaraP3CqM5RuHuXFGJih9WCkDgiFZxq2X3Jjhiift3oGEGXB8YQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+20/10/2011 12:35:54
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4RL8Ro65IF8S1OnNTjItcq4dcpQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4RL8Ro65IF8S1OnNTjItcq4dcpQ2&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+20/10/2011 17:08:08
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+20/10/2011 17:54:31
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+20/10/2011 21:00:11
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid postback or callback argument.  Event validation is enabled using <pages enableEventValidation="true"/> in configuration or <%@ Page EnableEventValidation="true" %> in a page.  For security purposes, this feature verifies that arguments to postback or callback events originate from the server control that originally rendered them.  If the data is valid and expected, use the ClientScriptManager.RegisterForEventValidation method in order to register the postback or callback data for validation.
+__________________________
+
+Log Entry : 
+20/10/2011 22:03:21
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=i+Zxs4NAW84=&id=oRy7B3mCXTo. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=i+Zxs4NAW84=&id=oRy7B3mCXTo. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+20/11/2011 16:49:52
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+20/11/2011 16:53:44
+Error in: http://www.jobclick.com.br/_candidato/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/vagas.aspx. Mensagem de erro: Input string was not in a correct format.
+__________________________

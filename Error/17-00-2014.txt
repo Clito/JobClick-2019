@@ -1,0 +1,719 @@
+
+Log Entry : 
+17/01/2014 00:28:59
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 03:11:17
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$ContentPlaceHolder1$FormViewCV$resumoTextBox="...ersores,
+<br><br>Programação ...").
+__________________________
+
+Log Entry : 
+17/01/2014 14:27:34
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Viewstate inválido. 
+	Client IP: 110.85.71.195
+	Port: 53069
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx
+	Path: /_anonimo/cadastroEmpresa.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) )
+	ViewState: /wEPDwULLTEzNjg1MTk4OTUPZBYCZg9kFgICAQ9kFgYCAw8PFgIeBFRleHRkZGQCQw8PFgIfAAUMVmFnYXM6IDEzNzIwZGQCSQ9kFgQCCQ8PFgIfAAX7BFBhcmEgdXRpbGl6YXIgbyBzaXN0ZW1hLCBhIDxiPkpvYkNsaWNrPC9iPiwgYWNlaXRhIHNvbWVudGUgY2FkYXN0cm8gZGUgUGVzc29hIEp1csOtZGljYS48YnI PGJyPlBlZGltb3MgbyBzZXUgQ05QSiBwb2lzIMOpIHVtYSBpZGVudGlmaWNhw6fDo28gaW1wb3J0YW50ZSBxdWUgZ2FyYW50ZSBtYWlvciBzZWd1cmFuw6dhIG5vIGNvbnRhdG8gZW50cmUgYXMgZW1wcmVzYXMgZSBvcyBjYW5kaWRhdG9zLjxicj48YnI VG9kYXMgYXMgaW5mb3JtYcOnw7VlcyBlbnZpYWRhcyBubyBzZXUgY2FkYXN0cm8gc2Vyw6NvIG1hbnRpZGFzIGVtIHNpZ2lsbyBlIG7Do28gc2Vyw6NvIHJlcGFzc2FkYXMgYSB0ZXJjZWlyb3MsIGNvbmZvcm1lIGEgbm9zc2EgcG9sw610aWNhIGRlIHByaXZhY2lkYWRlLjxicj5QYXJhIG1haXMgZGV0YWxoZXMsIHZvY8OqIHBvZGUgY29uc3VsdGFyIG5vc3NvcyA8YSBocmVmPSIvdGVybW9zZWN...
+__________________________
+
+Log Entry : 
+17/01/2014 16:41:48
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=10. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=10. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:41:59
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:45:22
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:45:33
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:10
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:18
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:23
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:29
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:33
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=7. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=7. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:39
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:49
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=8. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=8. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:55
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:46:59
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=9. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=9. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:04
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:11
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:18
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:23
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:45
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 16:47:52
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 16:48:00
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 16:48:08
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 16:48:21
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+17/01/2014 16:48:25
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 16:48:32
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/01/2014 17:18:54
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/01/2014 17:18:59
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/01/2014 21:16:24
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/01/2014 21:16:27
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/01/2014 21:16:27
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/01/2014 23:51:10
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/02/2014 00:32:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx. Mensagem de erro: Falha ao carregar viewstate. A árvore de controle onde viewstate está sendo carregado deve coincidir com a árvore de controle usada para salvar viewstate durante a solicitação anterior. Por exemplo, quando controles são adicionados de forma dinâmica, os controles adicionados durante uma postagem devem coincidir com o tipo e a posição dos controles adicionados durante a solicitação inicial.
+__________________________
+
+Log Entry : 
+17/02/2014 01:55:46
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=9. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=-1'&idFAQresAssunto=9. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 01:55:58
+Error in: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idFAQ=5&idFAQresAssunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/02/2014 01:59:18
+Error in: http://www.jobclick.com.br/login.aspx?panelon=-1'. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelon=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 01:59:22
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 01:59:26
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 01:59:29
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 02:00:42
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 02:01:27
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=6. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 02:01:31
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:04
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=10. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:08
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:12
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=-1'&idfaqresassunto=14. Mensagem de erro: A cadeia de caracteres de entrada não estava em um formato incorreto.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:14
+Error in: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx?idfaq=5&idfaqresassunto=-1'. Mensagem de erro: Conversion failed when converting the nvarchar value '-1'' to data type int.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:18
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:22
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:26
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:30
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:33
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: A entrada não é uma cadeia de caracteres de Base 64 válida, pois contém um caractere que não é de base 64, mais de dois caracteres de preenchimento ou um caractere ilegal entre os caracteres de preenchimento. 
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:36
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 02:06:39
+Error in: http://www.jobclick.com.br/faq.aspx. Error Message:Erro na página: http://www.jobclick.com.br/faq.aspx. Mensagem de erro: Comprimento inválido para uma matriz ou uma cadeia de caracteres de Base 64.
+__________________________
+
+Log Entry : 
+17/02/2014 10:51:45
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/02/2014 11:16:11
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/02/2014 11:17:03
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/02/2014 13:46:22
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E/155000030-9. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2014E/155000030-9. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/02/2014 15:17:54
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2014E/155000041-6. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2014E/155000041-6. Mensagem de erro: O arquivo '/anonimo/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/02/2014 16:59:26
+Error in: http://www.jobclick.com.br/login.aspx?panelON=1. Error Message:Erro na página: http://www.jobclick.com.br/login.aspx?panelON=1. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/02/2014 21:35:03
+Error in: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2014p/001061042-6. Error Message:Erro na página: http://www.jobclick.com.br/anonimo/vagas.aspx?pesquisa=2014p/001061042-6. Mensagem de erro: O arquivo '/anonimo/vagas.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/02/2014 22:10:01
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/02/2014 22:13:51
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=f&limit=150&timestamp=1392686020969. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=f&limit=150&timestamp=1392686020969. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 00:51:33
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/03/2014 06:39:20
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=T9cgMrQwJ19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnv8CKHGq7SQ2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=T9cgMrQwJ19iua9HLiyU6Nay72vGfi5RPfr08aqneYWYQU2gnD_wpS0eEx7o_F3Q2GTes7pPb6uQ-6kDaHNIeOC6b1OIoW6nSmdlohqehOmJ3HT2xOspHU4kv_wm4VdivFoLRo0Xj6vnv8CKHGq7SQ2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/03/2014 06:39:24
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj57f2bY93YG3Q_3P9PHvarLj8zrswE4xnpQBqbQAsMp_G1FZ-uNKHre9W65bu2HFoBW3Xw2&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=1p_xd7G7S5dXpBcBZ0BtBlu1s7gCYYZAKrJSJv0dQ6Pzy1XgM0eSVXCGty0uTrPUT5KhkRupSFN8S41jj57f2bY93YG3Q_3P9PHvarLj8zrswE4xnpQBqbQAsMp_G1FZ-uNKHre9W65bu2HFoBW3Xw2&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/03/2014 06:39:29
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=KiDd8LbJKAo6EdxosST8P7pkQljKgCAAoBy2pPrY0UiiVKoyJ0jXTRpgEXJb_bTqOQlItoDA7y7T5_PzHvn7RT8mSWpU93IA-fzIn9-0fccPtgWCtTQXey2uPXnCd6AZvWBxB7eNjaLf84qYfqoj5hz4G-ihxQ-y2Qjb5ClsaWg1&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/03/2014 06:39:39
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjEmVuYG4K-UwhK6q7YA-qQL1fZO595b0b6GY92CQSW9JTjV13flAwpBeBCAA9JLt9iWo-27OLkItBym06l8q0ZZB0b7rUmRzegJldM6L6M6demEyrJT01&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=x0HZmoOvgKBC0EXUYZS9yOLEncLlDqQqujETc1D9h2Cuf6jm6K2nlTKjEmVuYG4K-UwhK6q7YA-qQL1fZO595b0b6GY92CQSW9JTjV13flAwpBeBCAA9JLt9iWo-27OLkItBym06l8q0ZZB0b7rUmRzegJldM6L6M6demEyrJT01&t=ffffffff8a8533f5. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/03/2014 06:51:18
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 09:49:11
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 09:50:31
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 09:51:47
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 09:53:16
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 09:54:32
+Error in: http://www.jobclick.com.br/_candidato/Default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/Default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/03/2014 11:02:13
+Error in: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=c&limit=150&timestamp=1395064889169. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/AutocompleteCargoData.ashx?q=c&limit=150&timestamp=1395064889169. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/04/2014 00:15:36
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/04/2014 01:49:06
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oqvfSubg-xRqir3LSai1wmL_PS9aKwyaePMRBQOg0GRmdzTZ5v_R0jXTeFVUU0xfD8P1tCX1j5pzAbvQAAnGad9dDuPYKyhFxK94JYKM9TY1&t=634517755915150000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+17/04/2014 09:09:58
+Error in: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=-FCpxF5d77UMtQTYpDavhpF8RYWXTb_AfD41gm7T7ld3sR5HIUzBnMRWPqDf-_BO2mufdL_wNnHwKzTmmIGsOLhCUhzT0PZj4qyfbJiXgSY1&t=634689329004700000. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+17/04/2014 14:58:58
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/04/2014 14:59:04
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/05/2014 08:21:33
+Error in: http://www.jobclick.com.br/contato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/contato.aspx. Mensagem de erro: O arquivo '/contato.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/05/2014 08:21:40
+Error in: http://www.jobclick.com.br/equipe.aspx. Error Message:Erro na página: http://www.jobclick.com.br/equipe.aspx. Mensagem de erro: O arquivo '/equipe.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/05/2014 08:21:51
+Error in: http://www.jobclick.com.br/missaovisaovalor.aspx. Error Message:Erro na página: http://www.jobclick.com.br/missaovisaovalor.aspx. Mensagem de erro: O arquivo '/missaovisaovalor.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/05/2014 08:21:55
+Error in: http://www.jobclick.com.br/tecnologia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/tecnologia.aspx. Mensagem de erro: O arquivo '/tecnologia.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/06/2014 10:16:26
+Error in: http://www.jobclick.com.br/vaga.aspx/. Error Message:Erro na página: http://www.jobclick.com.br/vaga.aspx/. Mensagem de erro: O arquivo '/vaga.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/06/2014 22:11:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?=__VIEWSTATE&/jRCQjHXZGR1ZGN4AwNjA2Ex/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&crfdhvfn=2014994626R0001302522-AS/ErrorMessage.aspx?__EVENTTARGET&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?=__VIEWSTATE&/jRCQjHXZGR1ZGN4AwNjA2Ex/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&crfdhvfn=2014994626R0001302522-AS/ErrorMessage.aspx?__EVENTTARGET&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Mensagem de erro: Viewstate inválido. 
+	Client IP: 209.133.77.165
+	Port: 55365
+	Referer: 
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)
+	ViewState: /jRCQjHXZGR1ZGN4AwNjA2Ex
+__________________________
+
+Log Entry : 
+17/06/2014 22:11:40
+Error in: http://www.jobclick.com.br/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Error Message:Erro na página: http://www.jobclick.com.br/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Mensagem de erro: O arquivo '/ErrorMessage.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/06/2014 22:11:50
+Error in: http://www.jobclick.com.br/_anonimo/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/ErrorMessage.aspx?__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=/jRCQjHXZGR1ZGN4AwNjA2Ex. Mensagem de erro: O arquivo '/_anonimo/ErrorMessage.aspx' não existe.
+__________________________
+
+Log Entry : 
+17/07/2014 10:18:13
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/07/2014 10:28:18
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: Argumento de postback ou de retorno de chamada inválido. A validação do evento é habilitada com o uso de <pages enableEventValidation="true"/> na configuração ou <%@ Page EnableEventValidation="true" %> em uma página. Por motivos de segurança, esse recurso verifica se os argumentos para eventos de postback ou de retorno de chamada se originam no controle do servidor que originalmente os processou. Se os dados forem válidos e esperados, use o método ClientScriptManager.RegisterForEventValidation para registrar os dados de postback ou de retorno de chamada para validação.
+__________________________
+
+Log Entry : 
+17/07/2014 17:48:44
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/07/2014 18:04:44
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/07/2014 19:13:05
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/07/2014 20:10:04
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/07/2014 20:57:08
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/07/2014 20:57:10
+Error in: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+17/07/2014 21:36:11
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/07/2014 21:38:36
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: The wait operation timed out
+__________________________
+
+Log Entry : 
+17/07/2014 23:01:54
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 00:04:09
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="...e today
+ <a href="http://mshe...").
+__________________________
+
+Log Entry : 
+17/08/2014 00:18:34
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://hovde...").
+__________________________
+
+Log Entry : 
+17/08/2014 01:37:19
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.b...").
+__________________________
+
+Log Entry : 
+17/08/2014 03:48:10
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.f...").
+__________________________
+
+Log Entry : 
+17/08/2014 04:42:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.t...").
+__________________________
+
+Log Entry : 
+17/08/2014 05:04:39
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 06:05:13
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.s...").
+__________________________
+
+Log Entry : 
+17/08/2014 08:24:36
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 10:27:10
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.c...").
+__________________________
+
+Log Entry : 
+17/08/2014 11:42:24
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 11:46:37
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.t...").
+__________________________
+
+Log Entry : 
+17/08/2014 13:11:35
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.f...").
+__________________________
+
+Log Entry : 
+17/08/2014 13:15:18
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://syste...").
+__________________________
+
+Log Entry : 
+17/08/2014 13:55:07
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.t...").
+__________________________
+
+Log Entry : 
+17/08/2014 14:25:22
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=0ov09iisd9s-hiug_v8uzwphyzghh3gqitc0zsmde-q_7krjaw3nwraavd0_z5fwpct3rzmk1ugiwmfgqzbs-51ltgdf5nwezc3ftmyayddh7x_uymdb24ub6hqij13vodvrlzcwlzz2ledwrds1r6p8pa4rsqal18bd8zc1mn41&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 15:26:01
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.i...").
+__________________________
+
+Log Entry : 
+17/08/2014 15:31:46
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.r...").
+__________________________
+
+Log Entry : 
+17/08/2014 15:43:22
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=il7bft22-ljiil6eoykj2klnguexqfhhl3vbedjy3okk7b5dpv7mau7xz2rxenbovbgar9k7ovmehbbr5o-aejflfelkfgqjxr7vapfcpoxb-jf9p99etfrsgctjmsu7zp-jbi3qbxmmj6hmrjec8g2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 16:10:16
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=6atll1dyglxdaeyfrhlkrruwu0ljomn9uyr4b-tt84upxih9raaghh1ttoildrrl3qduvef0gzog_ddxqizwd3agwbnpigqq4j_dsmalaunbg7zyqfcjespl5rs94p4kl3dyv2rxtyooegmadypwew2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 16:15:36
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.d...").
+__________________________
+
+Log Entry : 
+17/08/2014 16:29:30
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 16:35:41
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.e...").
+__________________________
+
+Log Entry : 
+17/08/2014 16:41:11
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 17:21:14
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.3...").
+__________________________
+
+Log Entry : 
+17/08/2014 17:37:54
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.f...").
+__________________________
+
+Log Entry : 
+17/08/2014 18:41:17
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.i...").
+__________________________
+
+Log Entry : 
+17/08/2014 18:52:39
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.p...").
+__________________________
+
+Log Entry : 
+17/08/2014 18:54:47
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 19:16:48
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.g...").
+__________________________
+
+Log Entry : 
+17/08/2014 19:50:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.k...").
+__________________________
+
+Log Entry : 
+17/08/2014 20:03:01
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=lunavnl9d_5wjdml0fzl3tvvtavg6k-md845u2pq9nhaceiyvftfldsusymzrpsq80q_q_2frovdho7ii1cjualmu7kqmjsuq4favch68k2_xvjmvwfzildnxlm5ogovmxuletutjrscrkzuxl0843aahlb1ut87tiup4zfurck1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 20:08:59
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.s...").
+__________________________
+
+Log Entry : 
+17/08/2014 20:10:33
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=4wkorhddamjnp2svgynzzb3pzywrk41h2zfj1uli3sitzmyjfmiyl4cxlx7ogoju-_mdizs7okphmizdtta8ammnjx0jcf4bao3lp80u1rq-4hv95-4qzdbs1_6jt8kq-_d20dcpnw61hvdmhqdz8q2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 20:27:47
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=gtj5tca3squwdz92br6yl6pdkmfznkryzzu2rd76i_vefgeco56ccyk_ucioa26oew1gldimua0g0c_bbwi9j9sxrs9thmgq7ujoz1nt1tqkbqr0vz5sxnsv_kkavlao-qs2wlcm7ss4oazltt_ad4xgejn3qed1paytrobvlcs1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=gtj5tca3squwdz92br6yl6pdkmfznkryzzu2rd76i_vefgeco56ccyk_ucioa26oew1gldimua0g0c_bbwi9j9sxrs9thmgq7ujoz1nt1tqkbqr0vz5sxnsv_kkavlao-qs2wlcm7ss4oazltt_ad4xgejn3qed1paytrobvlcs1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 20:53:58
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.t...").
+__________________________
+
+Log Entry : 
+17/08/2014 20:58:49
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=tnwwfeup1a4dacdz72hwg_kkbm5bqgluhnrxprdbcwjxdamfmb9_ke43rnufl9mwnlheloq624llrlog9vgspx-elrf8ccin8nlmjpbg2gr4es2u8d2r23nxvlg72ygybf0pf-sglvuovoohfadzmjfkkcenuxjgtstqluqucjg1&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 21:33:28
+Error in: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Error Message:Erro na página: http://www.jobclick.com.br/scriptresource.axd?d=x0ej-grr8alf4sjkswccs8uxf9dy4gmo6e9-rkug0op8soacxaxhxssq0-iqlg8vsq_1ujtesjta7smrm5k1c4c_ugot7s88bsp_kzqqv_9ezdnq2z_tshxhlfp7pwws3ehezu-5-b5vagxqe2wm1a2&amp;t=ffffffffe4ec58b9. Mensagem de erro: Esta é uma solicitação inválida de recursos de script.
+__________________________
+
+Log Entry : 
+17/08/2014 22:19:12
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.h...").
+__________________________
+
+Log Entry : 
+17/08/2014 22:21:20
+Error in: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Error Message:Erro na página: http://www.jobclick.com.br/webresource.axd?d=r1hzmjganz29_iqzktxef1njno5vvyjrxmvlg_fvq0wpcs86cdy4adu0mdfh7bb8jejk3ld9q0d3zpqi5yhoaokqnpauugdby6qidnz97_g1&amp;t=635242937015312046. Mensagem de erro: Essa solicitação de recurso da Web é inválida.
+__________________________
+
+Log Entry : 
+17/08/2014 23:09:17
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.h...").
+__________________________
+
+Log Entry : 
+17/08/2014 23:30:31
+Error in: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroEmpresa.aspx. Mensagem de erro: Um valor possivelmente perigoso Request.Form foi detectado no cliente (ctl00$contentPlaceHolder1$TextBoxCondicoes="<a href=http://www.t...").
+__________________________
+
+Log Entry : 
+17/10/2014 08:24:16
+Error in: http://www.jobclick.com.br/ged.aspx. Error Message:Erro na página: http://www.jobclick.com.br/ged.aspx. Mensagem de erro: O arquivo '/ged.aspx' não existe.
+__________________________

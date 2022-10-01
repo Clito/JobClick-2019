@@ -1,0 +1,147 @@
+﻿html, body
+{
+	font-family: Verdana, Arial, Sans-serif;
+	font-size: 12px;
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+}
+
+#rodape
+{
+	position: relative;
+	bottom: 0;
+	background-image: url("/_anonimo/modulo_jobclick/images/bgrp.png");
+	height: 181px;
+	width: 100%;
+}
+
+#conteudo {
+	padding-bottom: 30px;
+	}
+
+.banner
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	height: 170px;
+	background-image: url("/_anonimo/modulo_jobclick/images/banner.png");
+}
+
+.tableMaster
+{
+	text-align: center;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 900px;
+	vertical-align: top;
+}
+
+.lateral {vertical-align:top; margin-left:0; margin-right:0; width:10px; height:300px;}
+.apresenta {padding-left: 15px; text-align:left; vertical-align:top; margin-left:auto; margin-right:auto; width:870px;}
+.destaque {text-align:left; vertical-align:top; background-color: #F0F0F0; margin-left:auto; margin-right:auto; width:0px;}
+	
+a:link    {text-decoration:underline;color: #505050;background-color: transparent;}
+a:visited {text-decoration:underline;color:#505050; background-color:transparent;}
+a:active  {text-decoration:underline;color:#FF0000; background-color:transparent;}
+a:hover   {text-decoration:underline;color:#FF0000; background-color:transparent;}
+
+a.left:link    {text-decoration:none;color:#505050;background-color:transparent;}
+a.left:visited {text-decoration:none;color:#505050;background-color:transparent;}
+a.left:hover   {text-decoration:underline;color:#FF0000;background-color:transparent;}
+a.left:active  {text-decoration:underline;color:#FF0000;background-color:transparent;}
+
+a.Grid:link    {text-decoration:none;color:#335673;background-color:transparent;}
+a.Grid:visited {text-decoration:none;color:#335673;background-color:transparent;}
+a.Grid:hover   {text-decoration:none;color:#335673;background-color:transparent;}
+a.Grid:active  {text-decoration:none;color:#335673;background-color:transparent;}
+
+.InputCadFormCandidatoCV
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+
+.button
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #ffffff;
+	padding: 4px 20px;
+	background: -moz-linear-gradient(
+		top,
+		#fa8a84 0%,
+		#ab0000);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#fa8a84),
+		to(#ab0000));
+	border-radius: 14px;
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border: 1px solid #c72c2c;
+	-moz-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,0.7);
+	-webkit-box-shadow:
+		0px 1px 3px rgba(000,000,000,0.5),
+		inset 0px 0px 2px rgba(255,255,255,0.7);
+	text-shadow:
+		0px 1px 0px rgba(000,000,000,0.4),
+		0px 1px 0px rgba(255,255,255,0.3);
+}
+a.button:link 
+{
+	text-decoration:none;color: #FFFFFF;background-color: transparent;text-align: right;
+}
+
+
+.msnNOK
+{
+	font-size: 9pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: bold;
+	z-index: 0;
+	color: #CC3300;
+}
+.msnOK
+{
+	font-size: 9pt;
+	text-decoration: none;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: auto;
+	font-weight: bold;
+	z-index: 0;
+	color: #006600;
+}

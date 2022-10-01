@@ -1,0 +1,26 @@
+﻿body, .wrapper
+{
+   width: auto;
+   /* max-width: 320px; */ /* max_width works with iPhones, but doesn't format well with new Android phones and devices that are wider than 320px */
+   min-width: 0px;
+}
+/* There is no need to have a giant header on a small mobile screen */
+h1
+{
+   font-size: 1em;
+}
+.input
+{
+	width: auto;
+}	
+/*If you have a textarea that has a wide
+	cols attribute you will want to change it to use width: 100%
+*/
+textarea
+{
+	width: 100%;
+}
+
+img {
+    width: auto;
+}

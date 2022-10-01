@@ -1,0 +1,158 @@
+
+Log Entry : 
+01/09/2011 22:19:47
+Error in: http://www.jobclick.com.br/_candidato/zoya.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/zoya.aspx. Mensagem de erro: Incorrect syntax near ')'.
+__________________________
+
+Log Entry : 
+01/09/2011 22:22:46
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\MasterPageJobClick.master.vb(138): error BC30456: 'RecuperaSenhaHot' is not a member of 'email'.
+__________________________
+
+Log Entry : 
+01/09/2011 22:22:49
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\MasterPageJobClick.master.vb(138): error BC30456: 'RecuperaSenhaHot' is not a member of 'email'.
+__________________________
+
+Log Entry : 
+01/09/2011 22:22:54
+Error in: http://www.jobclick.com.br/default.aspx. Error Message:Erro na página: http://www.jobclick.com.br/default.aspx. Mensagem de erro: C:\inetpub\wwwroot_jobclick\MasterPageJobClick.master.vb(138): error BC30456: 'RecuperaSenhaHot' is not a member of 'email'.
+__________________________
+
+Log Entry : 
+01/10/2011 13:38:16
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+01/10/2011 17:35:48
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/10/2011 23:22:34
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/004000090-3. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=2011/004000090-3. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+01/11/2011 00:10:12
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dPyp9l739cRjlzXfJfdW23dVTz0SYsFne2Apin9YOA3EsfOOKohvJ9NMlnn1SHfikAeUQX-6ES3iQyjp8XIpgJRFHJy8e3CGPFyJMppPtee38z9cM5sQRd24GztWnFTyelZRu2lm4PTjS3mPbKDA9LdSd6dR1h6-Elm6isVyrbg1&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. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dPyp9l739cRjlzXfJfdW23dVTz0SYsFne2Apin9YOA3EsfOOKohvJ9NMlnn1SHfikAeUQX-6ES3iQyjp8XIpgJRFHJy8e3CGPFyJMppPtee38z9cM5sQRd24GztWnFTyelZRu2lm4PTjS3mPbKDA9LdSd6dR1h6-Elm6isVyrbg1&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. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+01/11/2011 00:12:51
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+01/11/2011 00:13:10
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFebar. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBqyfZcRdFebar. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+01/11/2011 07:36:17
+Error in: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/contaEmp.aspx. Mensagem de erro: Only one instance of a ScriptManager can be added to the page.
+__________________________
+
+Log Entry : 
+01/11/2011 09:39:35
+Error in: http://jobclick.com.br/_admin/navegador.aspx. Error Message:Erro na página: http://jobclick.com.br/_admin/navegador.aspx. Mensagem de erro: The file '/_admin/navegador.aspx' does not exist.
+__________________________
+
+Log Entry : 
+01/11/2011 10:46:17
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2011 14:24:51
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2011 14:26:50
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2011 14:30:35
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2011 14:38:23
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+01/11/2011 14:42:15
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/11/2011 20:43:17
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/11/2011 21:03:12
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/11/2011 21:03:22
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/12/2011 09:25:33
+Error in: http://www.jobclick.com.br/_admin/navegador.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/navegador.aspx. Mensagem de erro: The file '/_admin/navegador.aspx' does not exist.
+__________________________
+
+Log Entry : 
+01/12/2011 11:26:15
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/12/2011 19:39:45
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.93.195.10
+	Port: 49610
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+	ViewState: /C7XJQDVseP1mwdq4dinooCcs6mSvjN59HBJ4GW43UXSmX2UzfDgR7P16Vx5Z12i2hDzm14CGlLMd1ooyIUh6333oYDkKO1eH8tljk3vVDg5PhSgmK/AuegvCWNi3uRn/5iOePmdx+RcKuwSHc9A6jPudEXAEmE8LqSNykb75zcu16BDu+Dhpm91Os4V1cScg2ycm9sif2TrxjHUTS3RaIQEFtUab30eiuKQiSVAodBb8fXatpoZPZjRgaOiJ0USY4T1hRwuW+tSpEDikobZLRDNDEBFh8cYXkRgsIr1NR09F8bzhtpJyRXS3RzWkZ0sAyU/3O+t/aL0pnkdl0sPiINaRjN3A+VLyazRYVyIOpRBHCTrD2uLUbX2320EXI5kUdXN9zSlBgHlUPoE1Q48zjBNJju6yVIR4WO8kSL1Hh7j3Ez9mETlDDZKWoAVF4lCv9UlcPEND7RtkY1tRfjrijf1KGIn5RsuFAP1oJSDcOGgwjIrv3oakmig3Elee7GsBJeAbonrmD5iLaqqXvrvGq6OuW/JM68piLLrcwIoRwxC/ovWhnYC70MWHeBU/RfSsgSZb/rJmN+WlZL605CZRwEx3ovueusI03ae9VhYpV/7OwNeXxdH1JEGEmbwMUzoYRKTaV3yXo/CWwAUqzZL+NYgnDhd/7egfXOVpDUlhwYxG1ipTh3NC6yamokV5wHmKnWXcWAWWIVXPTgrVGf4F6+Iu6byPjHwJnJaP3KvCL0+BYW4q8i...
+__________________________
+
+Log Entry : 
+01/12/2011 19:44:55
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.93.195.10
+	Port: 49699
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+	ViewState: kX1y3f3sOk/8gfefJF94P20LTXnH4tsagpK+N9ZtzVF2da/essB2C7UHepkeLaynMU3cNVGDPlZW5BoELHzNnhfm0Gk9VtXfvd4lcEBBS0XKDsesgHF8cp8oELRKXFKHcu0PpmUP0j8EX8C03p4dOkVUh4/9P9DbtI63HFji8T8yPWNSIK35XFpaFd+gsckia351iNzi4d0gYryJXq5xc6+6lWNM2JNQuxMtocqFN/lm2Z1r04Ha5kCKDJUFQv1X6Iob8XvCZEffmWiAILz2Ln5mEKzbiQUYB+Gh5q0vpgmdIStDYcbQ5OslVGRLpRldjEB6+Is6g8kqDSDR++WVa33djCI5TCtSC9xPgeXicx9jlEmWd781hBfrKOSbdsT0jW6ntKs4pqDTHV7s8vtykhfPamp+sS6JiydqHk4BmaOMRJ82y2GFTRiA6UF63e7qccCa8iq2G4FYNnmUnqalr5nruj7dU7YUAMuVQXdpiVDcX6Nr7LLFE8AO2zILCD+ewlkoVJNpQIQdStLIEuz5XPrPQmqhQqO7TKZeB+O6LRVQS/Sq7L+npw+2+udKXOl97TIGjOFLgyscqRKpYXdOvJHiNH9WYk14zODp1eTV0Ya0faAs9hgjLsfXUGHFyg1dMmNparmLpm5AlFR4erh4aQ0mbIwzw5Aejrq0NVVY1M/XTJYoUP2X4HhltbJHX6rckCDrCmt2wUXWpGJha7nMACnU/011UR4XLbeNONFH5M3qOsAEBsg...
+__________________________
+
+Log Entry : 
+01/12/2011 19:45:35
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/12/2011 19:45:37
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+01/12/2011 19:45:38
+Error in: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.93.195.10
+	Port: 49695
+	Referer: http://www.jobclick.com.br/_anonimo/vagas.aspx?pesquisa=
+	Path: /_anonimo/vagas.aspx
+	User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+	ViewState: kX1y3f3sOk/8gfefJF94P20LTXnH4tsagpK+N9ZtzVF2da/essB2C7UHepkeLaynMU3cNVGDPlZW5BoELHzNnhfm0Gk9VtXfvd4lcEBBS0XKDsesgHF8cp8oELRKXFKHcu0PpmUP0j8EX8C03p4dOkVUh4/9P9DbtI63HFji8T8yPWNSIK35XFpaFd+gsckia351iNzi4d0gYryJXq5xc6+6lWNM2JNQuxMtocqFN/lm2Z1r04Ha5kCKDJUFQv1X6Iob8XvCZEffmWiAILz2Ln5mEKzbiQUYB+Gh5q0vpgmdIStDYcbQ5OslVGRLpRldjEB6+Is6g8kqDSDR++WVa33djCI5TCtSC9xPgeXicx9jlEmWd781hBfrKOSbdsT0jW6ntKs4pqDTHV7s8vtykhfPamp+sS6JiydqHk4BmaOMRJ82y2GFTRiA6UF63e7qccCa8iq2G4FYNnmUnqalr5nruj7dU7YUAMuVQXdpiVDcX6Nr7LLFE8AO2zILCD+ewlkoVJNpQIQdStLIEuz5XPrPQmqhQqO7TKZeB+O6LRVQS/Sq7L+npw+2+udKXOl97TIGjOFLgyscqRKpYXdOvJHiNH9WYk14zODp1eTV0Ya0faAs9hgjLsfXUGHFyg1dMmNparmLpm5AlFR4erh4aQ0mbIwzw5Aejrq0NVVY1M/XTJYoUP2X4HhltbJHX6rckCDrCmt2wUXWpGJha7nMACnU/011UR4XLbeNONFH5M3qOsAEBsg...
+__________________________

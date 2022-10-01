@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Wizard>
+  <Menu Description="Home" title="Home" url="/_empresa/Default.aspx">
+    <SubMenu Description="Logout (Sair)" title="Logout (Sair)" url="/logout.aspx" />
+  </Menu>
+  <Menu Description="Clientes" title="Seus Clientes" url="/_empresa/_infoCliente.aspx?autoTit=Informações sobre os seus Clientes cadastrados e de sua Empresa">
+    <SubMenu Description="Incluir novo Cliente" title="Incluir novo Cliente" url="/_empresa/_cadastroCliente.aspx?autoTit=Cadastro de novo Cliente"></SubMenu>
+    <SubMenu Description="Atualiza dados do Cliente" title="Atualiza dados do Cliente" url="/_empresa/_atualizacadastroCliente.aspx?autoTit=Atualiza informações dos seus Clientes" />
+  </Menu>
+  <Menu Description="Consultores" title="Consultores" url="/_empresa/_atualizacadastroConsultor.aspx?autoTit=Atualiza%20informações%20do%20Consultor">
+    <SubMenu Description="Cadastro de novo Consultor" title="Cadastro de novo Consultor" url="/_empresa/_cadastroConsultor.aspx?autoTit=Cadastro de novos Consultores" />
+    <SubMenu Description="Grupos de acesso" title="Grupos de acesso" url="/_empresa/_infoConsultor.aspx?autoTit=Informações%20dos%20Consultores"></SubMenu>
+  </Menu>
+  <Menu Description="Levantamentos" title="Levantamentos" url="/_open/_cadastroLevantamento.aspx?autoTit=Preparação de novos Levantamentos de Perfil de Vaga">
+    <SubMenu Description="Comunicação com o Gestor sobre os Levantamentos" title="Comunicação com o Gestor" url="/_empresa/_atualizaacompanhaLevantamento.aspx?autoTit=Comunicação com o Gestor sobre os Levantamentos" />
+  </Menu>
+  <Menu Description="Anúncios" title="Anúncios" url="/_empresa/_anuncioVaga.aspx?autoTit=Apresentação%20da%20Empresa%20para%20a%20publicação%20do%20anúncio">
+    <SubMenu Description="Cadastro de novos Anúncios" title="Cadastro de novos Anúncios" url="/_empresa/_cadastraVaga.aspx?autoTit=Cadastro de novos anúncios" />
+    <SubMenu Description="Atualiza dados dos Anúncios" title="Atualiza dados dos Anúncios" url="/_empresa/_atualizaVaga.aspx?autoTit=Atualiza informações dos anúcios publicados" />
+  </Menu>
+  <Menu Description="Processo Seletivo" title="Processo Seletivo" url="/_open/_runProcessoSeletivo.aspx?autoTit=Processos Seletivos (Gestão das Fases)">
+    <SubMenu Description="Fases do Processo Seletivo" title="Fases do Processo Seletivo" url="/_empresa/_cadastroProcessoSeletivo.aspx?autoTit=Cadastro das fases do Processo Seletivo" />
+    <SubMenu Description="Filtros (Processo Seletivo)" title="Filtros (Processo Seletivo)" url="/_empresa/_filtro_ProcessoSeletivo.aspx?autoTit=Filtros aplicados nos Processos Seletivos" />
+    <SubMenu Description="Relatórios(Processo Seletivo)" title="Relatórios(Processo Seletivo)" url="/_empresa/relatorio.aspx?autoTit=Relatórios dos trabalhos em execução" />
+    <SubMenu Description="Indicação de Profissionais" title="Indicação de Profissionais" url="/_open/_indica.aspx?autoTit=Indicação de Profissional"></SubMenu>
+  </Menu>
+  <Menu Description="Extrato" title="Extrato" url="/_empresa/_extrato.aspx?autoTit=Extrato">
+    <SubMenu Description="Compra de Créditos" title="Compra de créditos adicionais" url="/_empresa/_credito.aspx?autoTit=Compra de Créditos"></SubMenu>
+  </Menu>
+  <Menu Description="Vagas Gratuitas" title="Publicação de Vagas Gratuitas" url="/_open/_vagapublica.aspx?autoTit=Publicação de Vagas Gratuitas">
+	<SubMenu Description="Vagas Gratuitas" title="Publicação de Vagas Gratuitas" url="/_open/_vagapublica.aspx?autoTit=Publicação de Vagas Gratuitas"></SubMenu>
+	<SubMenu Description="Candidaturas Gratuitas" title="Candidaturas vindas do site" url="/_open/_candidatura.aspx?autoTit=Candidaturas vindas do site"></SubMenu>
+  </Menu>  
+</Wizard>

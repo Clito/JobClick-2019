@@ -1,0 +1,94 @@
+﻿<%@ Master Language="VB" CodeFile="MasterVagas.master.vb" Inherits="MasterVagas" %>
+
+<%@ Register src="App_Include/lateral_anonimo.ascx" tagname="lateral_anonimo" tagprefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head id="Head1" runat="server">
+    <!--#include file="/metatag.shtml"-->
+    <meta name="ROBOTS" content="NOINDEX,NOFOLLOW" />
+    <title><%=Application("Title")%></title>
+    <script type="text/javascript" language="JavaScript" src="/iiefix.js"></script>
+    <link id="candidato" runat="server" href="App_Themes/jobclick.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+                    <table align="center" width="750px" cellpadding="0" cellspacing="0">
+                        <tr>
+                            <td><asp:Label ID="lblBemVindo" runat="server" Font-Bold="True" Text="Bem-Vindos ao sistema JobClick"></asp:Label></td>
+                        </tr>
+                    </table>    
+        
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px">                                        
+                        <table id="tabelaImagens" align="center" width="750px" height="101px" cellspacing="0" cellpadding="0">
+                            <tr>
+                                <td height="1px">
+                                    <asp:Image ID="Image2" runat="server" ImageUrl="~/images/layout/linha.gif" /></td>
+                            </tr>                              
+                            <tr>
+                                <td valign="baseline" height="100" width="750px" align="center">
+                 <script type="text/javascript">
+                    <!--
+                        var teste = new Flash("/swf/bannerHP.swf", "Banner", "750", "100"); 
+                        teste.write();
+                    //-->
+                </script>                                      
+                                </td>
+                            </tr> 
+                                     
+                        </table>                        
+                        
+                        
+                        </td>
+            </tr>
+        </table>
+        <table align="center" cellpadding="0" cellspacing="0" width="750px">
+            <tr>
+                <td width="750px" valign="top">
+                    <uc1:lateral_anonimo ID="lateral_anonimo1" runat="server" />
+                    <asp:contentplaceholder id="ContentPlaceHolder1" runat="server"></asp:contentplaceholder></td>
+            </tr>
+        </table>
+        <br />
+        <table id="rp" align="center" width="750px" cellspacing="0" cellpadding="0">
+            <tr>
+                <td><asp:Image ID="Image4" runat="server" ImageUrl="~/images/layout/linha.gif" /></td>
+            </tr>                              
+            <tr>
+                <td valign="baseline" width="750px" align="center">
+                    <table align="left" width="750px">
+                        <tr>
+                            <td align="left" valign="top">
+                                <table cellpadding="0" cellspacing="0">
+                                    <tr>
+                                        <td>
+                                            <asp:Image ID="Image1" runat="server" ImageUrl="~/images/rplogo.gif" />&nbsp;&nbsp;
+                                        </td>
+                                        <td>
+                                            <asp:HyperLink ID="FAQ" runat="server" NavigateUrl="~/faq.aspx">FAQ</asp:HyperLink> | <asp:HyperLink ID="QS" runat="server" NavigateUrl="~/quemsomos.aspx">Quem Somos</asp:HyperLink> | <asp:HyperLink ID="PP" runat="server" NavigateUrl="~/politica.aspx">Política de Privacidade</asp:HyperLink><br />by 
+                                            © Cheyenne Estúdio Multimídia Ltda. - São Paulo - BRASIL</td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td align="right">
+                                <asp:HyperLink ID="TopHL" runat="server" ImageUrl="~/images/nossoTop.gif" 
+                                    NavigateUrl="http://www.nossotop.com.br/top/contador.php?id=284" 
+                                    Target="_blank" Visible="False">Vote no JobClick!</asp:HyperLink>
+                            </td> 
+                        </tr>
+                    </table>
+                </td>
+             </tr>                                               
+        </table>
+        
+        
+    </div>
+</form>
+   <%=Application("google")%>    
+</body>
+</html>

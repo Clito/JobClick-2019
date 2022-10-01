@@ -1,0 +1,266 @@
+
+Log Entry : 
+17/08/2011 09:55:09
+Error in: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Error Message:Erro na página: http://www.jobclick.com.br/profissional_jobclick.aspx?idindex=1. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+17/10/2011 11:38:00
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=WYxo5o_zoVFP2ECSE5Xk4IeqQlabMPQoKMkgtvLNAIymDpgsSDlTQAGEWF8Z_taebxRVHlKUfYqqt4oIywG79ssI4xHUY7aIVh226-gkhoI5YPya_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. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=WYxo5o_zoVFP2ECSE5Xk4IeqQlabMPQoKMkgtvLNAIymDpgsSDlTQAGEWF8Z_taebxRVHlKUfYqqt4oIywG79ssI4xHUY7aIVh226-gkhoI5YPya_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. Mensagem de erro: The length of the query string for this request exceeds the configured maxQueryStringLength value.
+__________________________
+
+Log Entry : 
+17/10/2011 11:56:44
+Error in: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQljVXffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=oJH1o29EhpVVPobcBdqZ5LXrM3VM_TYSOYVQFZ7U27wfhHl1PZB5hbLnjE7R_kbHCi4R22RW93nrUyfRwmYxpIUIol0q8PyGjnYlQljVXffff8a8533f5. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+17/10/2011 11:58:15
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=ozqp6dlCrBwXBSxQqypZ2aqQmuWMdARm1hPaNzRDPWrNnX4VeHiOWvLXRurn true;}//]]></script><div><input type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=ozqp6dlCrBwXBSxQqypZ2aqQmuWMdARm1hPaNzRDPWrNnX4VeHiOWvLXRurn true;}//]]></script><div><input type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 12:00:41
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:03:12
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dPyp9l739cRjlzXfJfdW23dVTz0SYsFne2Apin9YOA3EsfOOKohvJ9NMlnn1SHfikAeUQX-6ES3iQyjp8XIpgJRFHJy8e3CGPFyJMppPtee38z9cM5sQRd24GztWnFTyelZRu2lm4PTjS3mPbKDA9LdSd6dR1h6-Elm6icellspacing=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dPyp9l739cRjlzXfJfdW23dVTz0SYsFne2Apin9YOA3EsfOOKohvJ9NMlnn1SHfikAeUQX-6ES3iQyjp8XIpgJRFHJy8e3CGPFyJMppPtee38z9cM5sQRd24GztWnFTyelZRu2lm4PTjS3mPbKDA9LdSd6dR1h6-Elm6icellspacing=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 12:03:16
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BControl1_HyperLinkNavFormacaoComplementar. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsxLn5irkFUsq_U5_jPW5C_7BControl1_HyperLinkNavFormacaoComplementar. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 12:04:21
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: The input is not a valid Base-64 string as it contains a non-base 64 character, more than two padding characters, or a non-white space character among the padding characters. 
+__________________________
+
+Log Entry : 
+17/10/2011 12:06:48
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:09:41
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:13:06
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:16:10
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:18:11
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsE4dDXRoaVl8lA6AAhjpVgyBwLBg/C7jo/Md+4vxupnDsNxq+2ms1jmSplnqieKtGpvMkF6/QrDoauqKxjvDgxGSFXu1OKJDVCjLF4MDSRqYW+jWR9+Vkqvr0envrxXQBa/uzVFYyipjJM2TiRN4KYNHX3SjyxlJwbnJO7/b15r7AEo4kgeFpucHZtSaBCsW72z+U2G018TI3Iycqgd9/glyBKzUO6PPd+FozmsHzWX/C9aiX8BDCebimC3GTNkFZZqWCfrbnJOCQ/5sO0un4aN22wabhy0PaZN0xoQI8sK+hNsm82GVWiibw1m+F0BqzsO5udfZj8HnCM=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=42VnFn4rkC9KNMzc8L-qqeBCsCSrtZIOaRyKYv8pYTR2XXa30jUmxjp0qUpkLFPT0SAHEiAy5e2h5S8IKdIDSE4lMk-m0aiiGSXjj2-SjMFNpo2fyOWmL08DVsE4dDXRoaVl8lA6AAhjpVgyBwLBg/C7jo/Md+4vxupnDsNxq+2ms1jmSplnqieKtGpvMkF6/QrDoauqKxjvDgxGSFXu1OKJDVCjLF4MDSRqYW+jWR9+Vkqvr0envrxXQBa/uzVFYyipjJM2TiRN4KYNHX3SjyxlJwbnJO7/b15r7AEo4kgeFpucHZtSaBCsW72z+U2G018TI3Iycqgd9/glyBKzUO6PPd+FozmsHzWX/C9aiX8BDCebimC3GTNkFZZqWCfrbnJOCQ/5sO0un4aN22wabhy0PaZN0xoQI8sK+hNsm82GVWiibw1m+F0BqzsO5udfZj8HnCM=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 12:34:38
+Error in: http://www.jobclick.com.br/logout.aspx. Error Message:Erro na página: http://www.jobclick.com.br/logout.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 12:43:41
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 13:54:27
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 187.114.0.182
+	Port: 4717
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx
+	Path: /_anonimo/cadastroCandidato.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET4.0C; .NET CLR 2.0.50727)
+	ViewState: /wEPDwUKMTY4NjYyMTM5Ng9kFgJmD2QWAgIBD2QWBAIFDw8WAh4EVGV4dAULVmFnYXM6IDQ4NTFkZAIdD2QWAgIPD2QWAmYPZBYCAgEPZBYiAgcPZBYCZg9kFgYCAw8PFgIfAAUDLi4uZGQCCQ8PFgQfAAUOX19fLl9fXy5fX18tX18eCU1heExlbmd0aGZkZAILDxYUHhZDdWx0dXJlVGltZVBsYWNlaG9sZGVyBQE6HhtDdWx0dXJlVGhvdXNhbmRzUGxhY2Vob2xkZXIFAS4eEUN1bHR1cmVEYXRlRm9ybWF0BQNETVkeFkN1bHR1cmVEYXRlUGxhY2Vob2xkZXIFAS8eCkFjY2VwdEFtUG1oHhNPdmVycmlkZVBhZ2VDdWx0dXJlaB4ZQ3VsdHVyZURlY2ltYWxQbGFjZWhvbGRlcgUBLB4WQ3VsdHVyZUFNUE1QbGFjZWhvbGRlcmUeC0N1bHR1cmVOYW1lBQVwdC1CUh4gQ3VsdHVyZUN1cnJlbmN5U3ltYm9sUGxhY2Vob2xkZXIFAlIkZAIPDxAPFgIeC18hRGF0YUJvdW5kZ2QQFQcJQ2FuZGlkYXRvCUNvbnN1bHRvcgpGcmVlbGFuY2VyBkdlc3RvcgdQcm9maWxlD1Byb2Zpc3Npb25hbCBQShdSZXByZXNlbnRhbnRlIENvbWVyY2lhbBUHCUNhbmRpZGF0bwlDb25zdWx0b3IKRnJlZWxhbmNlcgZHZXN0b3IH...
+__________________________
+
+Log Entry : 
+17/10/2011 13:55:59
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 13:56:07
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 14:01:31
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+17/10/2011 14:11:01
+Error in: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/conhecimento.aspx. Mensagem de erro: Object reference not set to an instance of an object.
+__________________________
+
+Log Entry : 
+17/10/2011 14:39:49
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 14:55:26
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=6rg4XeXRIy4=&id=Iy4mpphEKOg=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=6rg4XeXRIy4=&id=Iy4mpphEKOg=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+17/10/2011 14:59:45
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=EGNAOXi9fP0=&id=psAy9/va2ao=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=EGNAOXi9fP0=&id=psAy9/va2ao=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+17/10/2011 15:34:22
+Error in: http://www.jobclick.com.br/_candidato/multimidia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/multimidia.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+17/10/2011 15:51:00
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_AegOqSFmDMW6dYEDP3zVyqV_Y8amLhQCIr2bu5Xm2pc/QsC9JSBbgKl8bwrAs//2+QPAs2b9PIBAt2yte8MAsXamY0GApLMhcEIAqbOre4KAoW42cQLArzD2d0CAo2546EKAs6zxZkEAv+vwa8DAs7D2KAKAsi22M0KAsqEj4oPAqDCr4AFAszU9vsHAqD32BECp4iQpwUCkJWArQIC45OFjwEC/saIqAcCwcG91g0CpNOLvwgCmtjNmg8CsPP8rwQCrOq8jgUCt6O3nQECz+/0vA8CpdqJqwQChvOkog4CsdqXoQYCisiT/QoCvYmbqQUC8f/40wMCsr+jyQUCxc+K4g0C/8TbzQcC3fvBngcC06TtrAsCqavenw0Chvyk4QgCoYL69wQCqsXpvAcCu7j6tQYCluX50QwC2p32tAQCkevDtAUChuW2hwQC58Galg0C1+HDnwQC1Lm5jAECiNv16g4C6YOysA0CgP2VogkCw52x+AYCr6Dt0wICrvjq4AQCuO6D8gYC5/6QogQCy4WQqQoCmvrMqAQC2Mv8lAwC5fWRwgwC/c7k4gMCmeukywsCzo7bkw4Coq2VqgQC9cWLkQwCrKi+1wIC5czktg0C1bbXkAgCq3oCn4uapg8C2cDJ9gEC74Dv4wECnMCNkA0CrpPZug0CgvLInAYCtovO+QIClPLE+w4CxoSygwQCjrWhyQwC76r88QoC1Iil5QoCy8Th8ggCgb3+mQYC36GxkgQCkMrQ4A0CgOeP3QECt7W3tw0C972vzwUCnM/myAgC37aajQMCoPXmsQgCuqyniwsCgYKt0gQCpKzHngcCqquCsQoC8ZHo1wQCkZzcyAMC0MyqtAkCgefx0A4Cs+61vAIC9+Whww4CgZ2b9gsC4LzKoAUCnqa3mQ4CuoesYwLik9uvDgKJitjbBgKWxs6YAwKn8tqcAwKds5T2BQLiopCbCAK81sDsAgKgotjVCgK3wIyLCgLSronBCwLoqfVyAo+UvN8NAtfb1OcIAvK3jOUCApjn07QDAvnBlqALAuvZ4o8IAp600rkPAsevzNgMAtXEucoNAv/L5K4BAqqDxu0MArSdqf8PAq3YvowIAuaUr4wJAsviiOQPAvDyq+QGAvijkSUC39ek+AcCt+r0tAwC0emN8gQC3dilxgsC09rM2wUCkIL04wkC0Lm74gcC2v694Q0CwOjlrw0CsN2b3Q0Cq8KciAUCooHK0AQC0t2DoAUCw5+8jw4C/b6D6QsCh9rioQUCl9+TzwoCys3jxA0C4fbMgggC5fjm9Q4Cm6OY9gYCzeGVzAcC14Xa4wQCoc6l/wQC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcC5/ibgwUCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQL9zfDeDQKNspqtDALmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAseVxsMJAoCBypYNAq7kibQMAp6M868FAqert/QDArjz4TICi4+0xAkC9fSIlAgC2ovr/g0Cv6LN6QMCsrn8yAcC3NCwpQUC2LPogAkCjqzViw4C/tPn/AsCtKykiQYCv+6PyQkC5qzM+gcC+azM+gcC6cPmlAsCleWCswEC7KjqtgICz4LeQALnjqGwAwLA2LelAwLvqf3DCQLo9LiWAvKS4yX8cLkIYB83ChV4vu4KaqnH2DH/XVcuO0JvBJXA. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zPxrDtdRM74abDdrWopKFGyGJgAOy5ZCrTmwuzt4gfD3-VS1qzapj9td31p_AegOqSFmDMW6dYEDP3zVyqV_Y8amLhQCIr2bu5Xm2pc/QsC9JSBbgKl8bwrAs//2+QPAs2b9PIBAt2yte8MAsXamY0GApLMhcEIAqbOre4KAoW42cQLArzD2d0CAo2546EKAs6zxZkEAv+vwa8DAs7D2KAKAsi22M0KAsqEj4oPAqDCr4AFAszU9vsHAqD32BECp4iQpwUCkJWArQIC45OFjwEC/saIqAcCwcG91g0CpNOLvwgCmtjNmg8CsPP8rwQCrOq8jgUCt6O3nQECz+/0vA8CpdqJqwQChvOkog4CsdqXoQYCisiT/QoCvYmbqQUC8f/40wMCsr+jyQUCxc+K4g0C/8TbzQcC3fvBngcC06TtrAsCqavenw0Chvyk4QgCoYL69wQCqsXpvAcCu7j6tQYCluX50QwC2p32tAQCkevDtAUChuW2hwQC58Galg0C1+HDnwQC1Lm5jAECiNv16g4C6YOysA0CgP2VogkCw52x+AYCr6Dt0wICrvjq4AQCuO6D8gYC5/6QogQCy4WQqQoCmvrMqAQC2Mv8lAwC5fWRwgwC/c7k4gMCmeukywsCzo7bkw4Coq2VqgQC9cWLkQwCrKi+1wIC5czktg0C1bbXkAgCq3oCn4uapg8C2cDJ9gEC74Dv4wECnMCNkA0CrpPZug0CgvLInAYCtovO+QIClPLE+w4CxoSygwQCjrWhyQwC76r88QoC1Iil5QoCy8Th8ggCgb3+mQYC36GxkgQCkMrQ4A0CgOeP3QECt7W3tw0C972vzwUCnM/myAgC37aajQMCoPXmsQgCuqyniwsCgYKt0gQCpKzHngcCqquCsQoC8ZHo1wQCkZzcyAMC0MyqtAkCgefx0A4Cs+61vAIC9+Whww4CgZ2b9gsC4LzKoAUCnqa3mQ4CuoesYwLik9uvDgKJitjbBgKWxs6YAwKn8tqcAwKds5T2BQLiopCbCAK81sDsAgKgotjVCgK3wIyLCgLSronBCwLoqfVyAo+UvN8NAtfb1OcIAvK3jOUCApjn07QDAvnBlqALAuvZ4o8IAp600rkPAsevzNgMAtXEucoNAv/L5K4BAqqDxu0MArSdqf8PAq3YvowIAuaUr4wJAsviiOQPAvDyq+QGAvijkSUC39ek+AcCt+r0tAwC0emN8gQC3dilxgsC09rM2wUCkIL04wkC0Lm74gcC2v694Q0CwOjlrw0CsN2b3Q0Cq8KciAUCooHK0AQC0t2DoAUCw5+8jw4C/b6D6QsCh9rioQUCl9+TzwoCys3jxA0C4fbMgggC5fjm9Q4Cm6OY9gYCzeGVzAcC14Xa4wQCoc6l/wQC68WuiAsCw7SInAsC5eGgoQYCu4SYhg4CuJTv/gkCtZSZzwEC4K3Cyg8C6K7sowYChf6IiQcC0cWm2AgC7vPpqwYC8Yq0zwcC5/ibgwUCsJHokwUCvfewPgKJnPXzDgKfwrjKBQL36+L+BALhodL5BQL9zfDeDQKNspqtDALmmfblCwK1rPeVBgKwpOGRCgKs6ruaAQLegfxDAqz+qY4FAuyTiKIMApSsrKYIAu77gMENAseVxsMJAoCBypYNAq7kibQMAp6M868FAqert/QDArjz4TICi4+0xAkC9fSIlAgC2ovr/g0Cv6LN6QMCsrn8yAcC3NCwpQUC2LPogAkCjqzViw4C/tPn/AsCtKykiQYCv+6PyQkC5qzM+gcC+azM+gcC6cPmlAsCleWCswEC7KjqtgICz4LeQALnjqGwAwLA2LelAwLvqf3DCQLo9LiWAvKS4yX8cLkIYB83ChV4vu4KaqnH2DH/XVcuO0JvBJXA. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 16:04:01
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 16:04:03
+Error in: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.49.190.162
+	Port: 49322
+	Referer: http://www.jobclick.com.br/_anonimo/cadastroCandidato.aspx
+	Path: /_anonimo/cadastroCandidato.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+	ViewState: /wEPDwUKMTY4NjYyMTM5Ng9kFgJmD2QWAgIBD2QWBAIFDw8WAh4EVGV4dAULVmFnYXM6IDQ4NTRkZAIdD2QWAgIPD2QWAmYPZBYCAgEPZBYiAgcPZBYCZg9kFgYCAw8PFgYeCENzc0NsYXNzBQVtc25PSx8ABQxbVmVyaWZpY2Fkb10eBF8hU0ICAmRkAgkPDxYEHwAFDjEwNC44OTYuMjQ2LTY5HglNYXhMZW5ndGhmZGQCCw8WFB4WQ3VsdHVyZVRpbWVQbGFjZWhvbGRlcgUBOh4bQ3VsdHVyZVRob3VzYW5kc1BsYWNlaG9sZGVyBQEuHhFDdWx0dXJlRGF0ZUZvcm1hdAUDRE1ZHhZDdWx0dXJlRGF0ZVBsYWNlaG9sZGVyBQEvHgpBY2NlcHRBbVBtaB4TT3ZlcnJpZGVQYWdlQ3VsdHVyZWgeGUN1bHR1cmVEZWNpbWFsUGxhY2Vob2xkZXIFASweFkN1bHR1cmVBTVBNUGxhY2Vob2xkZXJlHgtDdWx0dXJlTmFtZQUFcHQtQlIeIEN1bHR1cmVDdXJyZW5jeVN5bWJvbFBsYWNlaG9sZGVyBQJSJGQCDw8QDxYCHgtfIURhdGFCb3VuZGdkEBUHCUNhbmRpZGF0bwlDb25zdWx0b3IKRnJlZWxhbmNlcgZHZXN0b3IH...
+__________________________
+
+Log Entry : 
+17/10/2011 16:18:09
+Error in: http://www.jobclick.com.br/_candidato/formacao.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/formacao.aspx. Mensagem de erro: Invalid viewstate. 
+	Client IP: 189.49.190.162
+	Port: 49372
+	Referer: http://www.jobclick.com.br/_candidato/formacao.aspx
+	Path: /_candidato/formacao.aspx
+	User-Agent: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2)
+	ViewState: myqsmc+fG7j+Mw0MD598FZdkVxRhYRGzy9fL2EFmMXAsik6tiO2ZxPyt8Bxig0xAgwTu9cEig0wZl7xGJBkLFjaF0tIP7f21abIvpdQ6KMoxP8o+hKiyaSWXvayDfnwgG2ir0YNdhqnQUMrfRBWpG8tC2/vAK5D/nkBfeGjnRDeYHOOgQoSWpdyRH9VC95j4wyPrSNgLIby6pHOKSGyegb8kk8YBvQAt4rxiWBfqHBqRKDUWJ2wRA+W6eI+8ClkiC8N4EeV9DSaJaqinNYM+WrpAKJMUTSt4BQ10PQFz4x2nWtmdrIXa5mNh8BSuzjy7GWaio/gIL9ukc3sQIihcD4F80i0j+ApE2mfK7FRYUwrmf8PryGMxj7AV65IidF/DFpayIaXM1e7bulWwxgdKjrnYQ7/h92i/4Fv/MNvHvZYfag1Pox9j3jZQJDmvhdTJQRgPLZRjYksZc1d63wQlUrVEEQqDU/+enFcfTwB5YuUbgIueb8M5u98j/fzUTpsoCwYJj6Ouow7A7iaYo3CwCjwnx+bZpZ+2lLxMRl5jVcser1wwqVLF54GQ+dCUZDEXcWpiywA3lXD7fZ1v+wAKpwsraKcLRjcKOLFn5flBZ2dFYQdcWEc4iNnm67cwxthoyXpeXWfkZfg8PHZZBLiUWj1B2S1ZugyVqO+/GcPSWy4+8uoUlu...
+__________________________
+
+Log Entry : 
+17/10/2011 16:34:16
+Error in: http://www.jobclick.com.br/_candidato/experiencia.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_candidato/experiencia.aspx. Mensagem de erro: Invalid length for a Base-64 char array.
+__________________________
+
+Log Entry : 
+17/10/2011 17:21:27
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBnput type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBnput type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 17:28:13
+Error in: http://www.jobclick.com.br/_admin/user.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/user.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+17/10/2011 17:28:27
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqarticipou.</a></li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqarticipou.</a></li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 17:28:27
+Error in: http://www.jobclick.com.br/_admin/user.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/user.aspx. Mensagem de erro: Maximum request length exceeded.
+__________________________
+
+Log Entry : 
+17/10/2011 17:29:11
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOL             <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=juEBvmUmdO9Ne__Y3TZWjuDdnWRvqD0iBCL0pOL             <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 17:51:16
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBnput type=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=FowMTeHwecdLrtqFXTBifycmKgSRyKhaCXnL0nHu-5Ky-i_DsN34uh6VxaDkDpzpKmKDHEBcQZSimdpfOERw42ZBcpBnput type=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/10/2011 19:29:43
+Error in: http://www.jobclick.com.br/_admin/navegador.aspx. Error Message:Erro na página: http://www.jobclick.com.br/_admin/navegador.aspx. Mensagem de erro: The file '/_admin/navegador.aspx' does not exist.
+__________________________
+
+Log Entry : 
+17/10/2011 22:25:57
+Error in: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+17/10/2011 22:26:19
+Error in: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+17/10/2011 22:26:36
+Error in: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Error Message:Erro na página: http://jobclick.com.br/_empresaJC/vagapublica.aspx. Mensagem de erro: Invalid length parameter passed to the LEFT or SUBSTRING function.
+The statement has been terminated.
+__________________________
+
+Log Entry : 
+17/10/2011 22:38:01
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=S32KmAkG7kU=&id=SB82gv6aqDA=. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=S32KmAkG7kU=&id=SB82gv6aqDA=. Mensagem de erro: Input string was not in a correct format.
+__________________________
+
+Log Entry : 
+17/11/2011 12:29:56
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRrMfKnOcOvA201-0LV5cGSBD5Sm5Ol00TR-P><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=HiBF1KnYqTx32lirjOaXsmwyKpzkherqYym7-rTCBoYURWOsPyQk8Y2ByHuDRrMfKnOcOvA201-0LV5cGSBD5Sm5Ol00TR-P><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:34:35
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYU empresa.</a></li>                    <li><a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYU empresa.</a></li>                    <li><a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:43:15
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7rkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7rkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:51:32
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7rkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=PCefXkOlVA5t_5oUhmJ9R90K06DdF5U8TeoPJGVBdJ4WfU2kQH4wbtrjRkmWB6AukD_p05kBaOigcTqQnLziqtgj45cCBRzKU2Cr_Q7lpU7rkFUsq_U5_jPW5C_7BZZTl3JyMBd-SQ2zBghx856MXdw1&t=ffffffff8a8533f5. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:55:25
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAi>        <li>            <a id=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9Wv43yeiZoMfT-pYUYZVqf7BRMjg7LpUIKYHPe8PqWw8lff4NU-EKV2pNyR6GN9lVJVZ8jR0ncZz2E1UqCt5Hgg97-0cfa0bTgkvO-hRCHosgAi>        <li>            <a id=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:55:35
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9W href=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=dC1_9W href=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 12:56:05
+Error in: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPF            </td>                    <td>                         </td>                    <td align=. Error Message:Erro na página: http://www.jobclick.com.br/ScriptResource.axd?d=zZF86YKgoLHZDhQBTDMexsfe95Fie4Ie7XWZrcmrnaPF            </td>                    <td>                         </td>                    <td align=. Mensagem de erro: This is an invalid script resource request.
+__________________________
+
+Log Entry : 
+17/11/2011 13:00:36
+Error in: http://www.jobclick.com.br/WebResource.axd?d=VkPLBSMybqhouDTl4dPzog-cKm_Y9c5lhl_xltHOXM8eTaASTfe67JkmViJzfdhyPBbpEpupSnhKOaco5 <a id=. Error Message:Erro na página: http://www.jobclick.com.br/WebResource.axd?d=VkPLBSMybqhouDTl4dPzog-cKm_Y9c5lhl_xltHOXM8eTaASTfe67JkmViJzfdhyPBbpEpupSnhKOaco5 <a id=. Mensagem de erro: This is an invalid webresource request.
+__________________________
+
+Log Entry : 
+17/11/2011 17:31:12
+Error in: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=i+Zxs4NAW84=&id=oRy7B3mCXTo. Error Message:Erro na página: http://www.jobclick.com.br/_anonimo/mycurriculo.aspx?idUser=i+Zxs4NAW84=&id=oRy7B3mCXTo. Mensagem de erro: Input string was not in a correct format.
+__________________________

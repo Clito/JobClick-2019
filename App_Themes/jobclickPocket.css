@@ -1,0 +1,19 @@
+﻿body
+{
+	font-size: 3mm;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+}
+body.pocket
+{
+	background-color: #FFFFFF;
+	margin: 0px;
+}
+
+a:link    {text-decoration:underline;color: #505050;background-color: transparent;}
+a:visited {text-decoration:underline;color:#505050; background-color:transparent}
+a:active  {text-decoration:underline;color:#FF0000; background-color:transparent}
+a:hover   {text-decoration:underline;color:#FF0000; background-color:transparent}
+
+.pocket {text-align:left; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:240px; height:300px;}

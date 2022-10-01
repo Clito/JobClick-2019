@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+    <siteMapNode url="/" title=".: Jobclick :."  description="O Primeiro buscador de vagas e oportunidades de emprego">
+        <siteMapNode url="/_anonimo/vagas.aspx" title="Painel de Vagas"  description="Veja as oportunidades disponíveis" />
+        <siteMapNode url="/_anonimo/cadastroCandidato.aspx" title="Cadastro de Curriculos"  description="Cadastre o seu Curriculo gratuitamente" />
+        <siteMapNode url="/login.aspx?panelon=1" title="Login"  description="Para logar-se no sistema basta informar o seu email e senha" />
+        <siteMapNode url="/_anonimo/cadastroEmpresa.aspx" title="Cadastro de Empresas"  description="Cadastre sua empresa e disonibilize suas vaga, a divulgação é gratuita" />
+        <siteMapNode url="/comercial/default.aspx" title="Comercial"  description="Conheça nossa solução de E-Recruitment" />
+        <siteMapNode url="/comercial/missaovisaovalor.aspx" title="Missão, Visão e Valores"  description="Conheça nossa solução de E-Recruitment" />
+        <siteMapNode url="/comercial/equipe.aspx" title="Equipe"  description="Conheça nossa solução de E-Recruitment" />
+        <siteMapNode url="/comercial/quemsomos.aspx" title="Quem Somos"  description="Conheça nossa solução de E-Recruitment" />
+        <siteMapNode url="/comercial/tecnologia.aspx" title="Tecnologia"  description="Conheça nossa solução de E-Recruitment" />
+        <siteMapNode url="/comercial/contato.aspx" title="Fale Conosco"  description="Conheça nossa solução de E-Recruitment" />
+  </siteMapNode>
+</siteMap>

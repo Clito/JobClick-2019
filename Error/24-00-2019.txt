@@ -1,0 +1,5 @@
+
+Log Entry : 
+24/05/2019 21:19:50
+Error in: http://localhost:54810/services/ContadorVaga.aspx. Error Message:Erro na página: http://localhost:54810/services/ContadorVaga.aspx. Mensagem de erro: O sistema não pode encontrar o arquivo especificado
+__________________________

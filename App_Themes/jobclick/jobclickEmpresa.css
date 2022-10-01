@@ -1,0 +1,1087 @@
+﻿body
+{
+	font-size: 3mm;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+	margin: 0px;
+	background-color: #e1e1e1;
+	background-image: url( '/images/layoutNew/_bg.png' );
+	background-repeat: repeat-x; 		
+}
+
+.tbAvisoPanel
+{
+	width: 321px;
+	float: inherit;
+	z-index: 100;
+	position: inherit;
+	filter: alpha(opacity=80);
+	opacity: 1;	
+}
+.tbAvisoPanelTop
+{
+	background-image: url('/images/empresa/_ballonTop.png');
+	background-repeat: no-repeat;
+	width: 321px;
+	height: 67px;
+}
+.tbAvisoPanelText
+{
+	background-image: url('/images/empresa/_ballonBG.png');
+	background-repeat: repeat-y;
+	width: 321px;
+}
+.tbAvisoPanelRP
+{
+	background-image: url('/images/empresa/_ballonButton.png');
+	background-repeat: no-repeat;
+	width: 321px;
+	height: 17px;	
+}
+.HOMEPAGE_EMPRESA
+{
+	background-image: url('../../images/empresa/_homeBG.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 980px;
+	text-align: center;
+}
+body.pocket
+{
+	background-color: #FFFFFF;
+	margin: 0px;
+}
+
+.tableFormulario
+{
+	border-right: #cccccc 0px solid;
+	border-top: #cccccc 1px solid;
+	border-left: #cccccc 0px solid;
+	border-bottom: #cccccc 0px solid;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+/*  ****************************************************************************************************************************
+	NOVO LAYOUT 2011
+*   ***************************************************************************************************************************/
+
+.DGFormAgendaPosition
+{
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	width: 370px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+	cursor: move;
+	background-color: #FAFAFA;
+	filter: alpha(opacity=90);
+	opacity: 1;
+	top: 220px;
+	left: 35%;
+	border: 1px dashed #C0C0C0;
+}
+
+.login
+{
+	background: #FFFFFF;
+	opacity: 0.5;
+	color: #000000;
+	font-size: 12pt;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #9E9E9E 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #9E9E9E 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: text;
+	font-weight: normal;
+	width: 550px;
+	height: 25px;
+	z-index: 0;
+}
+
+.TituloBG
+{
+    width: 745px;
+	height: 37px;    
+	background-image: url( '/images/layoutNew/bgTituloGeral.png' );
+	background-repeat: no-repeat; 	
+}
+
+.TituloBGText {font-family: Tahoma;font-size: 16pt;color: #939393;text-indent:80px;}
+
+.LoginPanel
+{
+	border: 1px solid #F0F0F0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    filter: alpha(opacity=90);
+    opacity: 1;    
+    width: 445px;
+	height: 290px;    
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    cursor: move;
+    background-color: #FFFFFF;
+    top: 150px;
+    left: 35%;
+}
+
+.LembretePanel
+{
+	border: 1px solid #F0F0F0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    filter: alpha(opacity=90);
+    opacity: 1;    
+    width: 445px;
+	height: 240px;    
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    cursor: move;
+    background-color: #FFFFFF;
+    top: 150px;
+    left: 35%;
+}
+.new_bgTopPage
+{
+	padding: 0px;
+	text-align: center;
+	margin: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 27px;
+	background-image: url( '/images/layoutNew/bgtopPage.png' );
+	background-repeat: repeat-x; 
+	vertical-align: top;
+}
+
+.CentralizaImagem
+{
+	width:745px;
+	height:37px;
+	position:absolute;
+	top:35px;
+	left:30%;
+}
+ 
+.new_LogoPosition
+{
+	border-width: 0px;
+	background-image: url( '/images/layoutNew/logoJobClick.png' );
+	width: 475px;
+	height: 163px;
+	background-repeat: no-repeat;
+	background-position: center center
+}    
+
+.new_PesquisaPosition
+{
+	background-image: url( '/images/layoutNew/bgPesquisa.png' );
+    width: 861px;
+    height: 78px;	
+	background-repeat: no-repeat;    	
+    background-position: center center
+}
+
+.droplinebar
+{
+	overflow: hidden;
+	top: auto;
+	right: auto;
+	bottom: auto;
+	left: auto;
+}
+
+.droplinebar ul{
+margin: 0;
+padding: 0;
+float: left;
+width: 100%;
+font: normal 11px Verdana;
+/*background: url(/images/layoutNew/bgtopPage.png) center center repeat-x; */
+}
+
+.droplinebar ul li{
+display: inline;
+}
+
+.droplinebar ul li a{
+float: left;
+color: #000000;
+padding: 6px 20px;
+text-decoration: none;
+}
+
+.droplinebar ul li a:visited{color: #000000;}
+
+.droplinebar ul li a:hover, .droplinebar ul li .current{color: #000000; background: transparent url(/images/layoutNew/null.png) center center repeat-x;}
+
+/* Sub level menus*/
+.droplinebar ul li ul{
+position: absolute;
+z-index: 100;
+left: 0;
+top: 0;
+background: #F0F0F0; 
+visibility: hidden;
+}
+
+/* Sub level menu links style */
+.droplinebar ul li ul li a
+{
+	font: normal 11px Verdana;
+	padding: 10px;
+	padding-right: 10px;
+	margin: 0;
+	border-bottom: 1px;
+	border-bottom-style: dotted;
+	border-bottom-color: #C0C0C0;
+}
+
+.droplinebar ul li ul li a:hover{ /*sub menu links' background color onMouseover */
+background: #FFFFFF;
+}
+
+/*  ****************************************************************************************************************************
+	NOVO LAYOUT 2011
+*   ***************************************************************************************************************************/
+
+
+
+.bghomepage
+{
+	padding: 0px;
+	text-align: right;
+	margin-left: auto;
+	margin-right: auto;
+	width: 760px;
+	height: 216px;
+	background-image: url( '/images/layout/bghomepage.png' );
+	background-repeat: no-repeat;
+	vertical-align: top;
+}
+
+.bghomepageOportunidade
+{
+	padding: 0px;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	width: 748px;
+	height: 239px;
+	background-image: url( '/image_site/oportunidade.png' );
+	background-repeat: no-repeat;
+	vertical-align: top;
+	top: auto;
+}
+
+a:link    {text-decoration:underline;color: #505050;background-color: transparent;
+    text-align: right;
+}
+a:visited {text-decoration:underline;color:#505050; background-color:transparent}
+a:active  {text-decoration:underline;color:#FF0000; background-color:transparent}
+a:hover   {text-decoration:underline;color:#FF0000; background-color:transparent}
+
+a.left:link    {text-decoration:none;color:#505050;background-color:transparent}
+a.left:visited {text-decoration:none;color:#505050;background-color:transparent}
+a.left:hover   {text-decoration:none;color:#FF0000;background-color:transparent}
+a.left:active  {text-decoration:none;color:#FF0000;background-color:transparent}
+
+a.lt:link    {text-decoration:none;color:#335673;background-color:transparent}
+a.lt:visited {text-decoration:none;color:#335673;background-color:transparent}
+a.lt:hover   {text-decoration:none;color:#335673;background-color:transparent}
+a.lt:active  {text-decoration:none;color:#335673;background-color:transparent}
+
+.InputCad
+{
+	background-color: #f0f0f0;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	border-left: #cccccc 1px solid;
+	border-bottom: #cccccc 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	font-weight: normal;
+	width: 350px;
+	height: 16px;
+}
+
+.InputCadPROMOCODE
+{
+	background-color: #ffffff;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	text-align: center;
+	border-right: #cccccc 1px solid;
+	border-top: #cccccc 1px solid;
+	border-left: #cccccc 1px solid;
+	border-bottom: #cccccc 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	font-weight: normal;
+	width: 180px;
+	height: 18px;
+}
+.msnInput
+{
+	background-color: #F0F0F0;
+	font-size: 8pt;
+	color: #FF0000;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #E0E0E0 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #E0E0E0 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	cursor: text;
+	font-weight: bold;
+	width: 350px;
+	height: 16px;
+}
+.DropCad
+{
+    background-color: #F0F0F0;
+    font-size: 8pt;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: none;
+    border-right: #E0E0E0 1px solid;
+    border-top: #E0E0E0 1px solid;
+    border-left: #E0E0E0 1px solid;
+    border-bottom: #E0E0E0 1px solid;
+    padding-top: 2px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    margin: 0px;
+    font-weight: normal;
+    width: 355px;
+    height: 23px;
+    z-index: 0;
+}
+.stylemail
+{
+	font-size: x-small;
+	color: black;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.DropUF {background-color: #F0F0F0; font-size: 8pt;color: #000000;font-family: Verdana;text-decoration: none;border-right: #e0e0e0 1px solid;border-top: #e0e0e0 1px solid;border-left: #e0e0e0 1px solid;border-bottom: #e0e0e0 1px solid;padding-top: 2px;padding-right: 1px;padding-left: 1px;padding-bottom: 1px;margin: 0px;cursor: hand;font-weight: normal; width: 50px;height: 23px; z-index: 1}
+.msn
+{
+	font-size: 3mm;
+	color: #FF0000;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+.msnOK
+{
+	font-size: 3mm;
+	color: #006600;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+.showdata
+{
+	font-size: 12px;
+	color: dimgray;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+	font-style: italic;
+	text-align: right;
+}
+.titulo
+{
+	font-size: 4mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+.tituloEmp
+{
+	font-size: 3mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}	
+
+
+/* xp theme */
+.ajax_job_tab_xp .ajax__tab_header {font-family:verdana,tahoma,helvetica;font-size:11px;background:url(/App_Themes/tab-line.gif) repeat-x bottom;}
+.ajax_job_tab_xp .ajax__tab_outer {padding-right:0px;background:url(/App_Themes/tab-right.gif) no-repeat right;height:21px;}
+.ajax_job_tab_xp .ajax__tab_inner {padding-left:3px;background:url(/App_Themes/tab-left.gif) no-repeat;}
+.ajax_job_tab_xp .ajax__tab_tab {height:13px;padding:4px;margin:0;background:url(/App_Themes/tab.gif) repeat-x;}
+.ajax_job_tab_xp .ajax__tab_hover .ajax__tab_outer {background:url(/App_Themes/tab-hover-right.gif) no-repeat right;}
+.ajax_job_tab_xp .ajax__tab_hover .ajax__tab_inner {background:url(/App_Themes/tab-hover-left.gif) no-repeat;}
+.ajax_job_tab_xp .ajax__tab_hover .ajax__tab_tab {background:url(/App_Themes/tab-hover.gif) repeat-x;}
+.ajax_job_tab_xp .ajax__tab_active .ajax__tab_outer {background:url(/App_Themes/tab-active-right.gif) no-repeat right;}
+.ajax_job_tab_xp .ajax__tab_active .ajax__tab_inner {background:url(/App_Themes/tab-active-left.gif) no-repeat;}
+.ajax_job_tab_xp .ajax__tab_active .ajax__tab_tab {background:url(/App_Themes/tab-active.gif) repeat-x;}
+.ajax_job_tab_xp .ajax__tab_body {font-family:verdana,tahoma,helvetica;font-size:8pt;border:1px solid #999999;border-top:0;padding:8px;background-color:#ffffff;}
+
+
+.tbcurriculo{text-align:left; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:616px; height:400px;}
+
+.tbzoya{text-align:left; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:700px; height:300px;}
+
+.tableEmp
+{
+	text-align: center;
+	vertical-align: top;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 400px;
+	background-color: transparent;
+}
+.tableEmpInt
+{
+	text-align: left;
+	vertical-align: top;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 400px;
+	background-color: transparent;
+}
+.tableEmpIntTD
+{
+	text-align: left;
+	vertical-align: top;
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	height: 400px;
+	background-color: transparent;
+}
+
+.tableAdm {text-align:center; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:750px; height:400px;}
+.tableAdmInt {text-align:left; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:180px; height:400px;}
+.tableAdmIntTD {text-align:left; vertical-align:top; background-color: #FFFFFF; margin-top:auto; margin-left:auto; margin-right:auto; width:570px; height:400px;}
+
+.InputCadEmp
+{
+	background-color: #FFFFFF;
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	border-right: #E0E0E0 1px solid;
+	border-top: #E0E0E0 1px solid;
+	border-left: #E0E0E0 1px solid;
+	border-bottom: #E0E0E0 1px solid;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-left: 3px;
+	padding-bottom: 1px;
+	margin: 0px;
+	font-weight: normal;
+	width: 350px;
+	height: 16px;
+	z-index: 0;
+}
+
+.DropCadEmp
+{
+    background-color: #FFFFFF;
+    font-size: 8pt;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: none;
+    border-right: #E0E0E0 1px solid;
+    border-top: #E0E0E0 1px solid;
+    border-left: #E0E0E0 1px solid;
+    border-bottom: #E0E0E0 1px solid;
+    padding-top: 2px;
+    padding-right: 1px;
+    padding-left: 1px;
+    padding-bottom: 1px;
+    margin: 0px;
+    font-weight: normal;
+    width: 355px;
+    height: 20px;
+    z-index: 0;
+}
+
+.politica
+{
+	text-align: justify;
+}
+.bgimage
+{ 
+    background-image: url('/images/candidato/padraoC.gif');
+    background-repeat: no-repeat
+}
+
+.bgimageEmpresa
+{
+    background-image: url('/images/empresa/cv/padraoC.gif');
+    background-repeat: no-repeat
+}
+    
+.cur01
+{
+	font-size: 8pt;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+	font-style: normal;
+}
+.cur01st
+{
+	font-size: 7pt;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: nonr;
+	font-style: normal;
+	font-weight: bold;
+}
+
+.DGBGCalendario1
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #DADADA;
+}
+.DGBGCalendario2
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #B3B3B3;
+}
+.DGBGCalendario3
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    color: #000000;
+    background-color: #FFDC71;
+}
+.DGBGCalendario4
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    color: #000000;
+    background-color: #FFEFC0;
+}
+
+.DGBGCalendario5
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    color: #000000;
+    background-color: #FFCA2D;
+}
+
+
+.DGCalendarioWidthSite
+{
+    width: 400px;
+    font-family: Verdana;
+    font-size: 8pt;
+}
+	
+.DGCalendarioBGheader
+{
+    text-align: left;
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #FFFFBB;
+}
+.DGCalendarioPosition
+{
+    float: inherit;
+    z-index: 100;
+    position: absolute;
+    cursor: move;
+    background-color: #FFFFCC;
+    filter: alpha(opacity=90);
+    opacity: 0.7;
+    top: 230px;
+    left: 40%;
+}	
+.DGCalendarioNota
+{
+	margin: 0px 0px 0px 10px;
+	width: 390px;
+	padding-right: 0px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+.DGCalendarioDataI
+{
+	width: 70px;
+}
+.DGCalendarioDataF
+{
+	width: 70px;
+}
+.DGCalendarioRelogio
+{
+	width: 20px;
+}
+.DGCalendarioBG
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #61737E;
+}
+.DGCalendarioBGnot
+{
+	font-family: Verdana;
+	font-size: 8pt;
+	background-color: #F0F0F0;
+}
+.ativoDGCalendarioBG
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #FFFF99;
+}
+.ativoDGCalendarioBGnot
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #FFFFAA;
+}
+
+
+.DGVAGAPosition
+{
+	padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+	width: 590px;
+    float: inherit;
+    z-index: 100;
+    position: absolute;
+    cursor: move;
+    background-color: #FAFAFA;
+    filter: alpha(opacity=90);
+    opacity: 1;
+    top: 220px;
+    left: 25%;
+}
+
+.DGVAGAloginPosition
+{
+	padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+	width: 340px;
+    float: inherit;
+    z-index: 100;
+    position: absolute;
+    cursor: move;
+    background-color: #FFFFFF;
+    filter: alpha(opacity=90);
+    opacity: 1;
+    top: 260px;
+    left: 40%;
+}
+
+.DGVAGAWEBPosition
+{
+	padding: 20px;
+    width: 370px;
+        float: inherit;
+        z-index: 100;
+        position: absolute;
+        cursor: move;
+        background-color: #FAFAFA;
+        filter: alpha(opacity=90);
+        opacity: 1;
+    top: 190px;
+    left: 40%;
+}
+.DGBG
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #FFFFFF;
+}
+.DGBGnot
+{
+    font-family: Verdana;
+    font-size: 8pt;
+    background-color: #F0F0F0;
+}
+.Contrato
+{
+	padding: 27px;
+    width: 400px;
+        float: none;
+        z-index: 500;
+        position: static;
+        cursor: auto;
+        background-color: #FAFAFA;
+        filter: alpha(opacity=90);
+        opacity: 1;
+    top: 170px;
+    left: 38%;
+}
+.textBold
+{
+	font-size: 3mm;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}	
+
+.textDescritivo
+{
+	font-size: 8pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+}
+.tituloVaga
+{
+	font-size: 12pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.tituloVagaHOME
+{
+	font-size: 18pt;
+	color: #000000;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: normal;
+}
+
+.tituloCurriculo
+{
+	font-size: 6mm;
+	color: #a0a0a0;
+	font-family: Verdana;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: italic;
+}
+
+.tituloZoya
+{
+    font-size: 20px;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: underline;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    white-space: normal;
+    word-spacing: normal;
+}
+
+.tituloZoyaUser
+{
+    border: 1px dashed #C0C0C0;
+    padding: 1px;
+    margin: 1px;
+    font-size: 20px;
+    color: #000000;
+    font-family: Verdana;
+    text-decoration: underline overline;
+    font-weight: normal;
+    font-style: normal;
+    font-variant: normal;
+    line-height: normal;
+    white-space: normal;
+    word-spacing: normal;
+}
+.ZoyaPosition
+{
+    border: 1px dashed #C0C0C0;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    width: 650px;
+    background-color: #FFFFFF;
+    cursor: move;
+}
+
+.ZoyaPesquisa
+{
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    border: 1px dashed #C0C0C0;
+    width: 520px;
+    background-color: #FFFFFF;
+
+}
+
+.ZoyaPesquisa_msn
+{
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    border: 1px dashed #C0C0C0;
+    width: 520px;
+    background-color: #FFFFEC;
+}
+
+.ZoyaPesquisa_msnOK
+{
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    border: 1px dashed #C0C0C0;
+    width: 520px;
+    background-color: #E2F8E0;
+}
+
+.ZoyaPesquisa_msn_error
+{
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    border: 1px dashed #C0C0C0;
+    width: 520px;
+    background-color: #FFEAEA;
+}
+
+.Zoya_msn
+{
+    border: 1px dashed #C0C0C0;
+    padding: 2px;
+    margin: 2px;
+    background-color: #FFFFEC;
+}
+.DGVAGASPosition
+{
+    float: inherit;
+    z-index: 100;
+    position: absolute;
+    cursor: auto;
+    top: 0px;
+
+}
+.GridViewEscola
+{
+    background-color: #F4F4F4;
+}
+.btGeral
+{
+    text-align:center;
+}
+
+.DGINDICAPosition
+{
+    border: 1px dashed #C0C0C0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 390px;
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    background-color: #FAFAFA;
+    display: none;
+}
+
+.DGCandidatarsePosition
+{
+    border: 1px dashed #C0C0C0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 390px;
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    background-color: #FAFAFA;
+    display: none;
+}
+
+.textFormAJAX
+{
+	font-family: Verdana;
+	font-size: 12px;
+	color: #C0C0C0;
+}
+
+.textAtencao
+{
+	font-family: Verdana;
+	font-size: 16px;
+	color: #CC3300;
+	font-weight: bold;
+}
+.AtencaoPosition
+{
+    border: 1px dashed #C0C0C0;
+    padding-top: 0px;
+    padding-right: 5px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+    width: 350px;
+    float: inherit;
+    z-index: 350;
+    position: absolute;
+    cursor: move;
+    background-color: #FAFAFA;
+    top: 350px;
+    left: 40%;
+}
+
+.STATUSOK
+{
+	background-color: #9AD799;
+	font-size: 10pt;
+	color: #333333;
+	font-family: Verdana;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	margin: 0px;
+	font-weight: normal;
+	width: 150px;
+	height: 25px;
+}
+.STATUSNOK
+{
+	background-color: #FF9393;
+	font-size: 10pt;
+	color: #333333;
+	font-family: Verdana;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	padding-bottom: 3px;
+	margin: 0px;
+	font-weight: normal;
+	width: 150px;
+	height: 25px;
+}
+.CVPosition
+{
+	padding: 5px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+    border: 1px dashed #C0C0C0;
+    width: 650px;
+    background-color: #FFFFFF;
+    cursor: move;
+    top: 200px;
+    left: 25%;    
+}
+.tituloEmpresa
+{
+	font-family: verdana;
+	font-size: 17px;
+	color: #333333;
+}
+.textoGeral
+{
+	font-size: 3mm;
+	color: #505050;
+	font-family: Verdana;
+	text-decoration: none;
+	margin: 0px;
+}
+
+
+.AGPositionPS
+{
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+    border: 1px dashed #C0C0C0;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    width: 650px;
+    background-color: #FFFFFF;
+    cursor: move;
+    top: 0px;
+    left: 0px;    
+}
+
+.CVPosition
+{
+	padding: 5px;
+	float: inherit;
+	z-index: 100;
+	position: absolute;
+    border: 1px dashed #C0C0C0;
+    width: 650px;
+    background-color: #FFFFFF;
+    cursor: move;
+    top: 201px;
+    left: 32%;    
+}
+
+.backgroundPROMOCODE 
+{
+    width: 280px;
+	height: 185px;    
+	background-image: url( '/images/layoutNew/PROMOCODE.png' );
+	background-repeat: no-repeat; 	
+}
+.PROMOCODE 
+{
+    width: 280px;
+	height: 185px;
+}
